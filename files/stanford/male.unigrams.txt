@@ -11461,6 +11461,7 @@ elcock
 eldad
 elden
 elder
+elder-brother
 eldest
 eldin
 eldon
@@ -18412,6 +18413,7 @@ iordanescu
 ioudenitch
 iovino
 iowan
+iphelleta
 ipock
 ippolito
 ipsen
@@ -18980,6 +18982,7 @@ jindra
 jindrak
 jing
 jinggoy
+jinki
 jinks
 jinnah
 jintao
@@ -19067,6 +19070,7 @@ jonathon
 jones
 jones-huffman
 jongewaard
+jong-hyun
 jongwe
 jonker
 jonny
@@ -19338,6 +19342,7 @@ kaine
 kainer
 kaio
 kairis
+kaiser
 kaitani
 kaizer
 kajelijeli
@@ -20055,6 +20060,7 @@ keverian
 kevin
 kevorkian
 kewell
+key
 keyboardist
 keyes
 keylor
@@ -20174,6 +20180,7 @@ kibbe
 kibbey
 kibbie
 kibler
+kibum
 kicanas
 kicker
 kid
@@ -25997,6 +26004,7 @@ minghella
 mingledorff
 mingo
 mings
+min-ho
 miniace
 minicamp
 minichiello
@@ -28624,6 +28632,7 @@ one-timed
 one-timer
 one-two-three
 oneile
+onew
 ong
 ongaro
 onishchenko
@@ -37742,6 +37751,7 @@ tadlock
 tadross
 tadych
 tadzhuddin
+tae-min
 tae-won
 tae-young
 taee

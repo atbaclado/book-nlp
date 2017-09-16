@@ -103,6 +103,7 @@ alisia	FEMALE
 alison	FEMALE
 alissa	FEMALE
 alix	FEMALE
+aljomai	FEMALE
 alla	FEMALE
 allan	MALE
 allegra	FEMALE
@@ -10013,6 +10014,7 @@ olevia	FEMALE
 olivia	FEMALE
 olivier	MALE
 oliviero	MALE
+olizen	FEMALE
 om	MALE
 oma	FEMALE
 omair	MALE

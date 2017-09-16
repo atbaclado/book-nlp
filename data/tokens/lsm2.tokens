@@ -1,0 +1,1569 @@
+0	0	0	0	1		2	“	``	``	``	O	punct	false	
+0	0	1	1	7	S	2	Heroes	Heroes	hero	NNS	O	nsubj	true	
+0	0	2	8	13	S	-1	exist	exist	exist	VBP	O	null	true	
+0	0	3	14	16	S	4	to	to	to	TO	O	aux	true	
+0	0	4	17	21	S	2	save	save	save	VB	O	xcomp	true	
+0	0	5	22	25	S	6	the	the	the	DT	O	det	true	
+0	0	6	26	31		4	world	world	world	NN	O	dobj	true	
+0	0	7	31	32		2	.	.	.	.	O	punct	true	
+0	0	8	32	33	NN	2	”	''	''	''	O	punct	true	
+1	1	9	35	38		12	...	...	...	:	O	punct	false	
+1	1	10	38	43	S	11	Those	Those	those	DT	O	det	false	
+1	1	11	44	49	S	12	words	words	word	NNS	O	nsubj	false	
+1	1	12	50	54	S	-1	make	make	make	VBP	O	null	false	
+1	1	13	55	57	S	14	me	me	I	PRP	O	nsubj	false	
+1	1	14	58	62		12	sick	sick	sick	JJ	O	xcomp	false	
+1	1	15	62	63	N	12	.	.	.	.	O	punct	false	
+1	2	16	64	66	S	19	By	By	by	IN	O	prep	false	
+1	2	17	67	71		16	luck	luck	luck	NN	O	pobj	false	
+1	2	18	71	72	S	19	,	,	,	,	O	punct	false	
+1	2	19	73	75		27	no	no	no	DT	O	advcl	false	
+1	2	20	75	76	S	19	,	,	,	,	O	punct	false	
+1	2	21	77	79	S	19	by	by	by	IN	O	prep	false	
+1	2	22	80	88	S	23	horrible	horrible	horrible	JJ	O	amod	false	
+1	2	23	89	93		21	luck	luck	luck	NN	O	pobj	false	
+1	2	24	93	94	S	27	,	,	,	,	O	punct	false	
+1	2	25	95	96	S	27	I	I	I	PRP	O	nsubjpass	false	
+1	2	26	97	100	S	27	was	was	be	VBD	O	auxpass	false	
+1	2	27	101	108	S	-1	blessed	blessed	bless	VBN	O	null	false	
+1	2	28	109	111	S	27	by	by	by	IN	O	prep	false	
+1	2	29	112	115	S	31	the	the	the	DT	O	det	false	
+1	2	30	116	120	S	31	holy	holy	holy	JJ	O	amod	false	
+1	2	31	121	126	S	28	blade	blade	blade	NN	O	pobj	false	
+1	2	32	127	130	S	27	and	and	and	CC	O	cc	false	
+1	2	33	131	137	S	27	forced	forced	force	VBD	O	conj	false	
+1	2	34	138	142	S	33	onto	onto	onto	IN	O	prep	false	
+1	2	35	143	146	S	36	the	the	the	DT	O	det	false	
+1	2	36	147	151	S	34	path	path	path	NN	O	pobj	false	
+1	2	37	152	154	S	36	of	of	of	IN	O	prep	false	
+1	2	38	155	162	S	37	killing	killing	kill	VBG	O	pcomp	false	
+1	2	39	163	166	S	41	the	the	the	DT	O	det	false	
+1	2	40	167	172	S	41	demon	demon	demon	NN	O	nn	false	
+1	2	41	173	177		38	lord	lord	lord	NN	O	dobj	false	
+1	2	42	177	178	N	27	.	.	.	.	O	punct	false	
+1	3	43	179	180	S	44	I	I	I	PRP	O	nsubj	false	
+1	3	44	181	184	S	-1	had	had	have	VBD	O	null	false	
+1	3	45	185	193		47	everyone	everyone	everyone	NN	O	poss	false	
+1	3	46	193	195	S	45	’s	's	's	POS	O	possessive	false	
+1	3	47	196	205	S	44	attention	attention	attention	NN	O	dobj	false	
+1	3	48	206	208	S	44	on	on	on	IN	O	prep	false	
+1	3	49	209	211		48	me	me	I	PRP	O	pobj	false	
+1	3	50	211	212	S	44	,	,	,	,	O	punct	false	
+1	3	51	213	216	S	44	and	and	and	CC	O	cc	false	
+1	3	52	217	222	S	53	their	their	they	PRP$	O	poss	false	
+1	3	53	223	228	S	57	hopes	hopes	hope	NNS	O	nsubj	false	
+1	3	54	229	235	S	57	became	became	become	VBD	O	cop	false	
+1	3	55	236	239	S	57	the	the	the	DT	O	det	false	
+1	3	56	240	244	S	57	sole	sole	sole	JJ	O	amod	false	
+1	3	57	245	251	S	44	reason	reason	reason	NN	O	conj	false	
+1	3	58	252	255	S	61	for	for	for	IN	O	mark	false	
+1	3	59	256	258	S	61	me	me	I	PRP	O	nsubj	false	
+1	3	60	259	261	S	61	to	to	to	TO	O	aux	false	
+1	3	61	262	266	S	57	push	push	push	VB	O	advcl	false	
+1	3	62	267	272		61	ahead	ahead	ahead	RB	O	advmod	false	
+1	3	63	272	275	N	61	...	...	...	:	O	punct	false	
+1	3	64	276	280	S	61	With	With	with	IN	O	prep	false	
+1	3	65	281	284	S	66	the	the	the	DT	O	det	false	
+1	3	66	285	291	S	64	weight	weight	weight	NN	O	pobj	false	
+1	3	67	292	294	S	66	of	of	of	IN	O	prep	false	
+1	3	68	295	298	S	69	the	the	the	DT	O	det	false	
+1	3	69	299	304	S	67	world	world	world	NN	O	pobj	false	
+1	3	70	305	307	S	66	on	on	on	IN	O	prep	false	
+1	3	71	308	310	S	72	my	my	my	PRP$	O	poss	false	
+1	3	72	311	320		70	shoulders	shoulders	shoulder	NNS	O	pobj	false	
+1	3	73	320	321	S	61	,	,	,	,	O	punct	false	
+1	3	74	322	323	S	75	I	I	I	PRP	O	nsubj	false	
+1	3	75	324	331	S	61	pressed	pressed	press	VBD	O	dep	false	
+1	3	76	332	334		79	on	on	on	IN	O	prep	false	
+1	3	77	334	335	S	76	,	,	,	,	O	punct	false	
+1	3	78	336	341	S	79	never	never	never	RB	O	neg	false	
+1	3	79	342	349		75	resting	resting	rest	VBG	O	xcomp	false	
+1	3	80	349	350	NN	44	.	.	.	.	O	punct	false	
+2	4	81	352	356	S	82	What	What	what	WP	O	attr	false	
+2	4	82	357	360	S	-1	was	was	be	VBD	O	null	false	
+2	4	83	361	364	S	84	the	the	the	DT	O	det	false	
+2	4	84	365	371	S	82	reward	reward	reward	NN	O	nsubj	false	
+2	4	85	372	375	S	84	for	for	for	IN	O	prep	false	
+2	4	86	376	378	S	87	my	my	my	PRP$	O	poss	false	
+2	4	87	379	384		85	deeds	deeds	deed	NNS	O	pobj	false	
+2	4	88	384	385	N	82	?	?	?	.	O	punct	false	
+2	5	89	386	388	S	91	To	To	to	TO	O	aux	false	
+2	5	90	389	391	S	91	be	be	be	VB	O	auxpass	false	
+2	5	91	392	400		-1	idolised	idolised	idolise	VBN	O	null	false	
+2	5	92	400	401	N	91	?	?	?	.	O	punct	false	
+2	6	93	402	404	S	96	To	To	to	TO	O	aux	false	
+2	6	94	405	407	S	96	be	be	be	VB	O	cop	false	
+2	6	95	408	410	S	96	an	an	a	DT	O	det	false	
+2	6	96	411	422		-1	inspiration	inspiration	inspiration	NN	O	null	false	
+2	6	97	422	423	N	96	?	?	?	.	O	punct	false	
+2	7	98	424	425	S	101	I	I	I	PRP	O	nsubj	false	
+2	7	99	426	429		101	did	did	do	VBD	O	aux	false	
+2	7	100	429	432	S	101	n’t	n't	not	RB	O	neg	false	
+2	7	101	433	437	S	-1	want	want	want	VB	O	null	false	
+2	7	102	438	441	S	101	any	any	any	DT	O	dobj	false	
+2	7	103	442	444	S	102	of	of	of	IN	O	prep	false	
+2	7	104	445	447		103	it	it	it	PRP	O	pobj	false	
+2	7	105	447	448	NN	101	.	.	.	.	O	punct	false	
+3	8	106	450	457	S	107	Another	Another	another	DT	O	det	false	
+3	8	107	458	461	S	109	man	man	man	NN	O	nsubj	false	
+3	8	108	462	467	S	109	could	could	could	MD	O	aux	false	
+3	8	109	468	471		-1	say	say	say	VB	O	null	false	
+3	8	110	471	472	S	115	,	,	,	,	O	punct	false	
+3	8	111	473	477	S	112	your	your	you	PRP$	O	poss	false	
+3	8	112	478	484	S	115	reward	reward	reward	NN	O	nsubj	false	
+3	8	113	485	487	S	115	is	is	be	VBZ	O	cop	false	
+3	8	114	488	492	S	115	your	your	you	PRP$	O	poss	false	
+3	8	115	493	502	S	109	adventure	adventure	adventure	NN	O	parataxis	false	
+3	8	116	503	506	S	115	and	and	and	CC	O	cc	false	
+3	8	117	507	510	S	118	the	the	the	DT	O	det	false	
+3	8	118	511	519	S	115	memories	memories	memory	NNS	O	conj	false	
+3	8	119	520	522	S	118	of	of	of	IN	O	prep	false	
+3	8	120	523	527	S	121	your	your	you	PRP$	O	poss	false	
+3	8	121	528	538		119	companions	companions	companion	NNS	O	pobj	false	
+3	8	122	538	539	N	109	.	.	.	.	O	punct	false	
+3	9	123	540	542		125	Do	Do	do	VBP	O	aux	false	
+3	9	124	542	545	S	125	n’t	n't	not	RB	O	neg	false	
+3	9	125	546	550	S	-1	make	make	make	VB	O	null	false	
+3	9	126	551	553	S	127	me	me	I	PRP	O	nsubj	false	
+3	9	127	554	559		125	laugh	laugh	laugh	NN	O	xcomp	false	
+3	9	128	559	560	N	125	.	.	.	.	O	punct	false	
+3	10	129	561	569	S	-1	Memories	Memories	Memories	NNP	O	null	false	
+3	10	130	570	572	S	129	of	of	of	IN	O	prep	false	
+3	10	131	573	577	S	132	your	your	you	PRP$	O	poss	false	
+3	10	132	578	588		130	companions	companions	companion	NNS	O	pobj	false	
+3	10	133	588	589	N	129	?	?	?	.	O	punct	false	
+3	11	134	590	593	S	-1	Let	Let	let	VB	O	null	false	
+3	11	135	594	596	S	136	me	me	I	PRP	O	nsubj	false	
+3	11	136	597	600	S	134	say	say	say	VB	O	ccomp	false	
+3	11	137	601	603	S	136	it	it	it	PRP	O	dobj	false	
+3	11	138	604	609		136	again	again	again	RB	O	advmod	false	
+3	11	139	609	610	NN	136	,	,	,	,	O	punct	false	
+4	11	140	612	613		136	“	``	``	``	O	punct	false	
+4	11	141	613	619	S	142	Heroes	Heroes	hero	NNS	O	nsubj	true	
+4	11	142	620	625	S	136	exist	exist	exist	VBP	O	ccomp	true	
+4	11	143	626	628	S	144	to	to	to	TO	O	aux	true	
+4	11	144	629	633	S	142	save	save	save	VB	O	xcomp	true	
+4	11	145	634	637	S	146	the	the	the	DT	O	det	true	
+4	11	146	638	643		144	world	world	world	NN	O	dobj	true	
+4	11	147	643	644	S	144	,	,	,	,	O	punct	true	
+4	11	148	645	648	S	150	not	not	not	RB	O	neg	true	
+4	11	149	649	651	S	150	to	to	to	TO	O	aux	true	
+4	11	150	652	656	S	144	save	save	save	VB	O	conj	true	
+4	11	151	657	662	S	152	their	their	they	PRP$	O	poss	true	
+4	11	152	663	673		150	companions	companions	companion	NNS	O	dobj	true	
+4	11	153	673	674		134	.	.	.	.	O	punct	true	
+4	11	154	674	675	NN	134	”	''	''	''	O	punct	true	
+5	12	155	677	680	S	156	The	The	the	DT	O	det	false	
+5	12	156	681	685	S	162	fate	fate	fate	NN	O	nsubjpass	false	
+5	12	157	686	688	S	156	of	of	of	IN	O	prep	false	
+5	12	158	689	691	S	159	my	my	my	PRP$	O	poss	false	
+5	12	159	692	702	S	157	companions	companions	companion	NNS	O	pobj	false	
+5	12	160	703	706	S	162	was	was	be	VBD	O	auxpass	false	
+5	12	161	707	713	S	162	always	always	always	RB	O	advmod	false	
+5	12	162	714	722	S	-1	destined	destined	destine	VBN	O	null	false	
+5	12	163	723	725	S	167	to	to	to	TO	O	aux	false	
+5	12	164	726	728	S	167	be	be	be	VB	O	cop	false	
+5	12	165	729	730	S	167	a	a	a	DT	O	det	false	
+5	12	166	731	736	S	167	cruel	cruel	cruel	JJ	O	amod	false	
+5	12	167	737	740		162	one	one	one	CD	NUMBER	xcomp	false	
+5	12	168	740	741	N	162	.	.	.	.	O	punct	false	
+5	13	169	742	744	S	172	In	In	in	IN	O	mark	false	
+5	13	170	745	750	S	172	order	order	order	NN	O	dep	false	
+5	13	171	751	753	S	172	to	to	to	TO	O	aux	false	
+5	13	172	754	760	S	-1	defeat	defeat	defeat	VB	O	null	false	
+5	13	173	761	764	S	175	the	the	the	DT	O	det	false	
+5	13	174	765	770	S	175	demon	demon	demon	NN	O	nn	false	
+5	13	175	771	775	S	172	lord	lord	lord	NN	O	dobj	false	
+5	13	176	776	779	S	178	who	who	who	WP	O	nsubj	false	
+5	13	177	780	785	S	178	would	would	would	MD	O	aux	false	
+5	13	178	786	793	S	175	destroy	destroy	destroy	VB	O	rcmod	false	
+5	13	179	794	797	S	180	the	the	the	DT	O	det	false	
+5	13	180	798	803		178	world	world	world	NN	O	dobj	false	
+5	13	181	803	804	N	172	.	.	.	.	O	punct	false	
+5	14	182	805	812	S	184	Whether	Whether	whether	IN	O	complm	false	
+5	14	183	813	815	S	184	it	it	it	PRP	O	nsubj	false	
+5	14	184	816	819	S	189	was	was	be	VBD	O	advcl	false	
+5	14	185	820	826	S	184	before	before	before	IN	O	prep	false	
+5	14	186	827	829	S	185	or	or	or	CC	O	cc	false	
+5	14	187	830	835	S	185	after	after	after	IN	O	conj	false	
+5	14	188	836	838	S	189	he	he	he	PRP	O	nsubj	false	
+5	14	189	839	843	S	-1	rose	rose	rise	VBD	O	null	false	
+5	14	190	844	846	S	189	up	up	up	RP	O	prt	false	
+5	14	191	847	849	S	189	in	in	in	IN	O	prep	false	
+5	14	192	850	855		191	power	power	power	NN	O	pobj	false	
+5	14	193	855	856	N	189	.	.	.	.	O	punct	false	
+5	15	194	857	859	S	206	Of	Of	of	IN	O	prep	false	
+5	15	195	860	866		194	course	course	course	NN	O	pobj	false	
+5	15	196	866	867	S	206	,	,	,	,	O	punct	false	
+5	15	197	868	870	S	206	as	as	as	IN	O	prep	false	
+5	15	198	871	872	S	199	a	a	a	DT	O	det	false	
+5	15	199	873	877		197	hero	hero	hero	NN	O	pobj	false	
+5	15	200	877	878	S	206	,	,	,	,	O	punct	false	
+5	15	201	879	881	S	206	as	as	as	IN	O	prep	false	
+5	15	202	882	884	S	203	an	an	a	DT	O	det	false	
+5	15	203	885	895		201	individual	individual	individual	JJ	O	pobj	false	
+5	15	204	895	896	S	206	,	,	,	,	O	punct	false	
+5	15	205	897	898	S	206	I	I	I	PRP	O	nsubj	false	
+5	15	206	899	904	S	-1	tried	tried	try	VBD	O	null	false	
+5	15	207	905	907	S	208	my	my	my	PRP$	O	poss	false	
+5	15	208	908	914	S	206	utmost	utmost	utmost	JJ	O	dobj	false	
+5	15	209	915	917	S	210	to	to	to	TO	O	aux	false	
+5	15	210	918	922	S	208	save	save	save	VB	O	xcomp	false	
+5	15	211	923	928	S	210	those	those	those	DT	O	dobj	false	
+5	15	212	929	932	S	214	who	who	who	WP	O	nsubj	false	
+5	15	213	933	937	S	214	were	were	be	VBD	O	cop	false	
+5	15	214	938	947	S	211	important	important	important	JJ	O	rcmod	false	
+5	15	215	948	950	S	214	to	to	to	TO	O	prep	false	
+5	15	216	951	953		215	me	me	I	PRP	O	pobj	false	
+5	15	217	953	954	N	206	.	.	.	.	O	punct	false	
+5	16	218	955	958	S	224	But	But	but	CC	O	cc	false	
+5	16	219	959	962	S	220	the	the	the	DT	O	det	false	
+5	16	220	963	970	S	224	results	results	result	NNS	O	nsubj	false	
+5	16	221	971	974	S	224	had	had	have	VBD	O	aux	false	
+5	16	222	975	981	S	224	always	always	always	RB	O	advmod	false	
+5	16	223	982	986	S	224	been	been	be	VBN	O	cop	false	
+5	16	224	987	997		-1	disastrous	disastrous	disastrous	JJ	O	null	false	
+5	16	225	997	998	N	224	.	.	.	.	O	punct	false	
+5	17	226	999	1002	S	227	The	The	the	DT	O	det	false	
+5	17	227	1003	1007	S	229	pain	pain	pain	NN	O	dobj	false	
+5	17	228	1008	1009	S	229	I	I	I	PRP	O	nsubj	false	
+5	17	229	1010	1014	S	-1	felt	felt	feel	VBD	O	null	false	
+5	17	230	1015	1017	S	232	as	as	as	IN	O	mark	false	
+5	17	231	1018	1022	S	232	they	they	they	PRP	O	nsubj	false	
+5	17	232	1023	1032	S	229	whispered	whispered	whisper	VBD	O	advcl	false	
+5	17	233	1033	1035	S	232	to	to	to	TO	O	prep	false	
+5	17	234	1036	1038	S	233	me	me	I	PRP	O	pobj	false	
+5	17	235	1039	1043	S	232	with	with	with	IN	O	prep	false	
+5	17	236	1044	1049	S	238	their	their	they	PRP$	O	poss	false	
+5	17	237	1050	1055	S	238	dying	dying	die	VBG	O	amod	false	
+5	17	238	1056	1063		235	breaths	breaths	breath	NNS	O	pobj	false	
+5	17	239	1063	1064	NN	232	,	,	,	,	O	punct	false	
+6	17	240	1066	1067		232	“	``	``	``	O	punct	false	
+6	17	241	1067	1069	S	244	At	At	at	IN	O	advmod	true	
+6	17	242	1070	1075	S	241	least	least	least	JJS	O	dep	true	
+6	17	243	1076	1079	S	244	you	you	you	PRP	O	nsubj	true	
+6	17	244	1080	1087	S	232	managed	managed	manage	VBD	O	ccomp	true	
+6	17	245	1088	1090	S	246	to	to	to	TO	O	aux	true	
+6	17	246	1091	1095	S	244	make	make	make	VB	O	xcomp	true	
+6	17	247	1096	1098	S	246	it	it	it	PRP	O	dobj	true	
+6	17	248	1099	1102	S	246	out	out	out	RP	O	prt	true	
+6	17	249	1103	1108		246	alive	alive	alive	JJ	O	xcomp	true	
+6	17	250	1108	1109		229	.	.	.	.	O	punct	true	
+6	17	251	1109	1110	NN	229	”	''	''	''	O	punct	true	
+7	18	252	1112	1115	S	253	The	The	the	DT	O	det	false	
+7	18	253	1116	1120	S	258	path	path	path	NN	O	nsubjpass	false	
+7	18	254	1121	1123	S	253	of	of	of	IN	O	prep	false	
+7	18	255	1124	1125	S	256	a	a	a	DT	O	det	false	
+7	18	256	1126	1130	S	254	hero	hero	hero	NN	O	pobj	false	
+7	18	257	1131	1133	S	258	is	is	be	VBZ	O	auxpass	false	
+7	18	258	1134	1140	S	-1	filled	filled	fill	VBN	O	null	false	
+7	18	259	1141	1145	S	258	with	with	with	IN	O	prep	false	
+7	18	260	1146	1150	S	261	more	more	more	JJR	O	amod	false	
+7	18	261	1151	1157	S	259	sorrow	sorrow	sorrow	NN	O	pobj	false	
+7	18	262	1158	1162	S	261	than	than	than	IN	O	prep	false	
+7	18	263	1163	1172		262	happiness	happiness	happiness	NN	O	pobj	false	
+7	18	264	1172	1173	N	258	.	.	.	.	O	punct	false	
+7	19	265	1174	1175	S	268	I	I	I	PRP	O	nsubj	false	
+7	19	266	1176	1181	S	268	could	could	could	MD	O	aux	false	
+7	19	267	1182	1185	S	268	not	not	not	RB	O	neg	false	
+7	19	268	1186	1190	S	-1	fail	fail	fail	VB	O	null	false	
+7	19	269	1191	1193	S	270	to	to	to	TO	O	aux	false	
+7	19	270	1194	1198	S	268	live	live	live	VB	O	xcomp	false	
+7	19	271	1199	1201	S	270	up	up	up	RP	O	prt	false	
+7	19	272	1202	1204	S	270	to	to	to	TO	O	prep	false	
+7	19	273	1205	1210	S	274	their	their	they	PRP$	O	poss	false	
+7	19	274	1211	1223		272	expectations	expectations	expectation	NNS	O	pobj	false	
+7	19	275	1223	1224	N	268	.	.	.	.	O	punct	false	
+7	20	276	1225	1229	S	279	Even	Even	even	RB	O	advmod	false	
+7	20	277	1230	1234	S	279	when	when	when	WRB	O	advmod	false	
+7	20	278	1235	1236	S	279	I	I	I	PRP	O	nsubj	false	
+7	20	279	1237	1245	S	289	wandered	wandered	wander	VBD	O	advcl	false	
+7	20	280	1246	1248	S	279	on	on	on	IN	O	prep	false	
+7	20	281	1249	1252	S	282	the	the	the	DT	O	det	false	
+7	20	282	1253	1260	S	280	borders	borders	border	NNS	O	pobj	false	
+7	20	283	1261	1263	S	282	of	of	of	IN	O	prep	false	
+7	20	284	1264	1272		283	insanity	insanity	insanity	NN	O	pobj	false	
+7	20	285	1272	1273	S	289	,	,	,	,	O	punct	false	
+7	20	286	1274	1277	S	287	the	the	the	DT	O	det	false	
+7	20	287	1278	1284	S	289	people	people	people	NNS	O	nsubj	false	
+7	20	288	1285	1290	S	289	would	would	would	MD	O	aux	false	
+7	20	289	1291	1294	S	-1	put	put	put	VB	O	null	false	
+7	20	290	1295	1300	S	291	their	their	they	PRP$	O	poss	false	
+7	20	291	1301	1306	S	289	hopes	hopes	hope	NNS	O	dobj	false	
+7	20	292	1307	1309	S	291	on	on	on	IN	O	prep	false	
+7	20	293	1310	1312	S	294	my	my	my	PRP$	O	poss	false	
+7	20	294	1313	1322		292	existance	existance	existance	NN	O	pobj	false	
+7	20	295	1322	1323	N	289	.	.	.	.	O	punct	false	
+7	21	296	1324	1329	S	297	Those	Those	those	DT	O	det	false	
+7	21	297	1330	1334	S	299	days	days	day	NNS	DURATION	nsubj	false	
+7	21	298	1335	1340	S	299	would	would	would	MD	O	aux	false	
+7	21	299	1341	1349	S	-1	continue	continue	continue	VB	O	null	false	
+7	21	300	1350	1352	S	302	as	as	as	IN	O	mark	false	
+7	21	301	1353	1354	S	302	I	I	I	PRP	O	nsubj	false	
+7	21	302	1355	1361	S	299	fought	fought	fight	VBD	O	advcl	false	
+7	21	303	1362	1364	S	302	on	on	on	IN	O	prep	false	
+7	21	304	1365	1369	S	302	with	with	with	IN	O	prep	false	
+7	21	305	1370	1375	S	304	blood	blood	blood	NN	O	pobj	false	
+7	21	306	1376	1378	S	305	in	in	in	IN	O	prep	false	
+7	21	307	1379	1381	S	308	my	my	my	PRP$	O	poss	false	
+7	21	308	1382	1387		306	mouth	mouth	mouth	NN	O	pobj	false	
+7	21	309	1387	1388	N	299	.	.	.	.	O	punct	false	
+7	22	310	1389	1395	S	312	Heroes	Heroes	hero	NNS	O	nsubj	false	
+7	22	311	1396	1399	S	312	may	may	may	MD	O	aux	false	
+7	22	312	1400	1405	S	-1	exist	exist	exist	VB	O	null	false	
+7	22	313	1406	1408	S	314	to	to	to	TO	O	aux	false	
+7	22	314	1409	1413	S	312	save	save	save	VB	O	xcomp	false	
+7	22	315	1414	1417	S	316	the	the	the	DT	O	det	false	
+7	22	316	1418	1423		314	world	world	world	NN	O	dobj	false	
+7	22	317	1423	1424	N	312	,	,	,	,	O	punct	false	
+7	22	318	1425	1428	S	312	but	but	but	CC	O	cc	false	
+7	22	319	1429	1430	S	320	I	I	I	PRP	O	nsubj	false	
+7	22	320	1431	1437	S	312	fought	fought	fight	VBD	O	conj	false	
+7	22	321	1438	1441	S	320	for	for	for	IN	O	prep	false	
+7	22	322	1442	1445	S	324	the	the	the	DT	O	det	false	
+7	22	323	1446	1453	S	324	eternal	eternal	eternal	JJ	O	amod	false	
+7	22	324	1454	1459	S	321	peace	peace	peace	NN	O	pobj	false	
+7	22	325	1460	1462	S	324	of	of	of	IN	O	prep	false	
+7	22	326	1463	1468		325	death	death	death	NN	O	pobj	false	
+7	22	327	1468	1469	N	312	.	.	.	.	O	punct	false	
+7	23	328	1470	1471		330	I	I	I	PRP	O	nsubj	false	
+7	23	329	1471	1473	S	330	’d	'd	would	MD	O	aux	false	
+7	23	330	1474	1477	S	-1	had	had	have	VBD	O	null	false	
+7	23	331	1478	1484	S	330	enough	enough	enough	RB	O	advmod	false	
+7	23	332	1485	1487	S	331	of	of	of	IN	O	dep	false	
+7	23	333	1488	1492	S	334	this	this	this	DT	O	det	false	
+7	23	334	1493	1497		332	life	life	life	NN	O	pobj	false	
+7	23	335	1497	1498	NN	330	.	.	.	.	O	punct	false	
+8	24	336	1500	1503	S	338	The	The	the	DT	O	det	false	
+8	24	337	1504	1514	S	338	mysterious	mysterious	mysterious	JJ	O	amod	false	
+8	24	338	1515	1523	S	-1	monsters	monsters	monster	NNS	O	null	false	
+8	24	339	1524	1527	S	341	who	who	who	WP	O	nsubj	false	
+8	24	340	1528	1533	S	341	would	would	would	MD	O	aux	false	
+8	24	341	1534	1540	S	338	invade	invade	invade	VB	O	rcmod	false	
+8	24	342	1541	1544	S	343	our	our	we	PRP$	O	poss	false	
+8	24	343	1545	1550		341	homes	homes	home	NNS	O	dobj	false	
+8	24	344	1550	1551	N	338	.	.	.	.	O	punct	false	
+8	25	345	1552	1555	S	346	The	The	the	DT	O	det	false	
+8	25	346	1556	1564	S	-1	villains	villains	villain	NNS	O	null	false	
+8	25	347	1565	1568	S	348	who	who	who	WP	O	nsubj	false	
+8	25	348	1569	1574	S	346	dared	dared	dare	VBD	O	rcmod	false	
+8	25	349	1575	1577	S	350	to	to	to	TO	O	aux	false	
+8	25	350	1578	1582	S	348	harm	harm	harm	VB	O	xcomp	false	
+8	25	351	1583	1585	S	352	my	my	my	PRP$	O	poss	false	
+8	25	352	1586	1593		350	friends	friends	friend	NNS	O	dobj	false	
+8	25	353	1593	1594	N	346	.	.	.	.	O	punct	false	
+8	26	354	1595	1596	S	356	I	I	I	PRP	O	nsubj	false	
+8	26	355	1597	1600	S	356	had	had	have	VBD	O	aux	false	
+8	26	356	1601	1606	S	-1	slain	slain	slay	VBN	O	null	false	
+8	26	357	1607	1611		356	many	many	many	JJ	O	dobj	false	
+8	26	358	1611	1612	N	356	,	,	,	,	O	punct	false	
+8	26	359	1613	1616	S	356	and	and	and	CC	O	cc	false	
+8	26	360	1617	1622	S	356	saved	saved	save	VBD	O	conj	false	
+8	26	361	1623	1626	S	362	the	the	the	DT	O	det	false	
+8	26	362	1627	1632	S	360	lives	lives	life	NNS	O	dobj	false	
+8	26	363	1633	1635	S	362	of	of	of	IN	O	prep	false	
+8	26	364	1636	1640	S	365	many	many	many	JJ	O	amod	false	
+8	26	365	1641	1645	S	363	more	more	more	JJR	O	pobj	false	
+8	26	366	1646	1650	S	365	from	from	from	IN	O	prep	false	
+8	26	367	1651	1654	S	368	the	the	the	DT	O	det	false	
+8	26	368	1655	1659	S	366	jaws	jaws	jaw	NNS	O	pobj	false	
+8	26	369	1660	1662	S	368	of	of	of	IN	O	prep	false	
+8	26	370	1663	1668		369	death	death	death	NN	O	pobj	false	
+8	26	371	1668	1669	N	356	.	.	.	.	O	punct	false	
+8	27	372	1670	1673	S	378	And	And	and	CC	O	cc	false	
+8	27	373	1674	1676	S	378	in	in	in	IN	O	prep	false	
+8	27	374	1677	1680	S	375	the	the	the	DT	O	det	false	
+8	27	375	1681	1684		373	end	end	end	NN	O	pobj	false	
+8	27	376	1684	1687	N	378	...	...	...	:	O	punct	false	
+8	27	377	1688	1689	S	378	I	I	I	PRP	O	nsubj	false	
+8	27	378	1690	1697	S	-1	managed	managed	manage	VBD	O	null	false	
+8	27	379	1698	1700	S	380	to	to	to	TO	O	aux	false	
+8	27	380	1701	1705	S	378	slay	slay	slay	VB	O	xcomp	false	
+8	27	381	1706	1709	S	383	the	the	the	DT	O	det	false	
+8	27	382	1710	1715	S	383	demon	demon	demon	NN	O	nn	false	
+8	27	383	1716	1720		380	lord	lord	lord	NN	O	dobj	false	
+8	27	384	1720	1721	NN	378	.	.	.	.	O	punct	false	
+9	28	385	1723	1726	NN	-1	***	***	***	CD	NUMBER	null	false	
+10	28	386	1728	1731	S	387	How	How	how	WRB	O	advmod	false	
+10	28	387	1732	1736	S	390	high	high	high	JJ	O	dep	false	
+10	28	388	1737	1739	S	387	up	up	up	RP	O	prt	false	
+10	28	389	1740	1743	S	390	was	was	be	VBD	O	cop	false	
+10	28	390	1744	1746		385	it	it	it	PRP	O	dep	false	
+10	28	391	1746	1747	N	385	?	?	?	.	O	punct	false	
+10	29	392	1748	1751	S	393	The	The	the	DT	O	det	false	
+10	29	393	1752	1758	S	395	clouds	clouds	cloud	NNS	O	nsubjpass	false	
+10	29	394	1759	1763	S	395	were	were	be	VBD	O	auxpass	false	
+10	29	395	1764	1768	S	-1	laid	laid	lay	VBN	O	null	false	
+10	29	396	1769	1772	S	395	out	out	out	RP	O	prt	false	
+10	29	397	1773	1778	S	395	below	below	below	IN	O	prep	false	
+10	29	398	1779	1782	S	397	him	him	he	PRP	O	pobj	false	
+10	29	399	1783	1785	S	401	as	as	as	IN	O	mark	false	
+10	29	400	1786	1788	S	401	he	he	he	PRP	O	nsubj	false	
+10	29	401	1789	1793	S	395	fell	fell	fall	VBD	O	advcl	false	
+10	29	402	1794	1798	S	401	from	from	from	IN	O	prep	false	
+10	29	403	1799	1802	S	404	the	the	the	DT	O	det	false	
+10	29	404	1803	1808	S	402	skies	skies	sky	NNS	O	pobj	false	
+10	29	405	1809	1817	S	401	together	together	together	RB	O	advmod	false	
+10	29	406	1818	1822	S	401	with	with	with	IN	O	prep	false	
+10	29	407	1823	1824	S	408	a	a	a	DT	O	det	false	
+10	29	408	1825	1830		406	giant	giant	giant	NN	O	pobj	false	
+10	29	409	1830	1831	N	395	.	.	.	.	O	punct	false	
+10	30	410	1832	1836	S	-1	With	With	with	IN	O	null	false	
+10	30	411	1837	1840	S	412	red	red	red	JJ	O	amod	false	
+10	30	412	1841	1845	S	410	skin	skin	skin	NN	O	pobj	false	
+10	30	413	1846	1849	S	412	and	and	and	CC	O	cc	false	
+10	30	414	1850	1851	S	416	a	a	a	DT	O	det	false	
+10	30	415	1852	1857	S	416	giant	giant	giant	JJ	O	amod	false	
+10	30	416	1858	1862		412	horn	horn	horn	NN	O	conj	false	
+10	30	417	1862	1863	N	410	.	.	.	.	O	punct	false	
+10	31	418	1864	1867	S	420	The	The	the	DT	O	det	false	
+10	31	419	1868	1873	S	420	demon	demon	demon	NN	O	nn	false	
+10	31	420	1874	1878		-1	lord	lord	lord	NN	O	null	false	
+10	31	421	1878	1879	NN	420	.	.	.	.	O	punct	false	
+11	32	422	1881	1882		-1	“	``	``	``	O	null	false	
+11	32	423	1882	1887		427	Kuuuh	Kuuuh	Kuuuh	NNP	O	nn	true	
+11	32	424	1887	1890		427	...	...	...	:	O	punct	true	
+11	32	425	1890	1891	NN	427	”	''	''	''	O	punct	true	
+12	32	426	1893	1902	S	427	Countless	Countless	countless	JJ	O	amod	false	
+12	32	427	1903	1909	S	429	wounds	wounds	wound	NNS	O	nsubj	false	
+12	32	428	1910	1914	S	429	were	were	be	VBD	O	cop	false	
+12	32	429	1915	1922	S	422	visible	visible	visible	JJ	O	null	false	
+12	32	430	1923	1925	S	429	on	on	on	IN	O	prep	false	
+12	32	431	1926	1929	S	433	his	his	he	PRP$	O	poss	false	
+12	32	432	1930	1938	S	433	colossal	colossal	colossal	JJ	O	amod	false	
+12	32	433	1939	1943		430	body	body	body	NN	O	pobj	false	
+12	32	434	1943	1944	N	429	.	.	.	.	O	punct	false	
+12	33	435	1945	1947	S	436	He	He	he	PRP	O	nsubj	false	
+12	33	436	1948	1955	S	-1	gritted	gritted	grit	VBD	O	null	false	
+12	33	437	1956	1959	S	438	his	his	he	PRP$	O	poss	false	
+12	33	438	1960	1965	S	436	teeth	teeth	tooth	NNS	O	dobj	false	
+12	33	439	1966	1969	S	436	and	and	and	CC	O	cc	false	
+12	33	440	1970	1976	S	436	stared	stared	stare	VBD	O	conj	false	
+12	33	441	1977	1979	S	440	at	at	at	IN	O	prep	false	
+12	33	442	1980	1983	S	443	his	his	he	PRP$	O	poss	false	
+12	33	443	1984	1987		441	foe	foe	foe	NN	O	pobj	false	
+12	33	444	1987	1988	S	436	,	,	,	,	O	punct	false	
+12	33	445	1989	1999	S	436	struggling	struggling	struggle	VBG	O	xcomp	false	
+12	33	446	2000	2002	S	447	to	to	to	TO	O	aux	false	
+12	33	447	2003	2009	S	445	retain	retain	retain	VB	O	xcomp	false	
+12	33	448	2010	2023		447	consciousness	consciousness	consciousness	NN	O	dobj	false	
+12	33	449	2023	2024	N	436	.	.	.	.	O	punct	false	
+12	34	450	2025	2027	S	-1	In	In	in	IN	O	null	false	
+12	34	451	2028	2031	S	452	his	his	he	PRP$	O	poss	false	
+12	34	452	2032	2035		455	foe	foe	foe	NN	O	poss	false	
+12	34	453	2035	2037	S	452	’s	's	's	POS	O	possessive	false	
+12	34	454	2038	2043	S	455	right	right	right	JJ	O	amod	false	
+12	34	455	2044	2048		450	hand	hand	hand	NN	O	pobj	false	
+12	34	456	2048	2049	S	450	,	,	,	,	O	punct	false	
+12	34	457	2050	2053	S	460	the	the	the	DT	O	det	false	
+12	34	458	2054	2058	S	460	holy	holy	holy	JJ	O	amod	false	
+12	34	459	2059	2064	S	460	sword	sword	sword	NN	O	nn	false	
+12	34	460	2065	2070	S	456	shone	shone	shone	NN	O	dobj	false	
+12	34	461	2071	2079		460	brightly	brightly	brightly	RB	O	advmod	false	
+12	34	462	2079	2080	NN	456	.	.	.	.	O	punct	false	
+13	35	463	2082	2083		469	“	``	``	``	O	punct	false	
+13	35	464	2083	2086		469	...	...	...	:	O	punct	true	
+13	35	465	2086	2087	NN	469	”	''	''	''	O	punct	true	
+14	35	466	2089	2092	S	467	His	His	he	PRP$	O	poss	false	
+14	35	467	2093	2096	S	469	foe	foe	foe	NN	O	nsubj	false	
+14	35	468	2097	2100	S	469	was	was	be	VBD	O	aux	false	
+14	35	469	2101	2109	S	-1	standing	standing	stand	VBG	O	null	false	
+14	35	470	2110	2112	S	469	on	on	on	IN	O	prep	false	
+14	35	471	2113	2116	S	470	top	top	top	NN	O	pobj	false	
+14	35	472	2117	2119	S	471	of	of	of	IN	O	prep	false	
+14	35	473	2120	2123	S	474	his	his	he	PRP$	O	poss	false	
+14	35	474	2124	2132		472	forehead	forehead	forehead	NN	O	pobj	false	
+14	35	475	2132	2133	S	469	.	.	.	.	O	punct	false	
+14	36	476	2134	2137	S	477	The	The	the	DT	O	det	false	
+14	36	477	2138	2142	S	-1	hero	hero	hero	NN	O	null	false	
+14	36	478	2143	2146	S	479	who	who	who	WP	O	nsubj	false	
+14	36	479	2147	2153	S	477	slayed	slayed	slay	VBD	O	rcmod	false	
+14	36	480	2154	2157	S	482	the	the	the	DT	O	det	false	
+14	36	481	2158	2163	S	482	demon	demon	demon	NN	O	nn	false	
+14	36	482	2164	2168		479	lord	lord	lord	NN	O	dobj	false	
+14	36	483	2168	2169	NN	477	.	.	.	.	O	punct	false	
+15	37	484	2171	2172		487	“	``	``	``	O	punct	false	
+15	37	485	2172	2176	S	487	What	What	what	WP	O	nsubj	true	
+15	37	486	2177	2179	S	487	is	is	be	VBZ	O	aux	true	
+15	37	487	2180	2185	S	-1	going	going	go	VBG	O	null	true	
+15	37	488	2186	2193	S	487	through	through	through	IN	O	prep	true	
+15	37	489	2194	2198	S	490	your	your	you	PRP$	O	poss	true	
+15	37	490	2199	2203	S	488	mind	mind	mind	NN	O	pobj	true	
+15	37	491	2204	2209	S	492	right	right	right	RB	DATE	advmod	true	
+15	37	492	2210	2213		487	now	now	now	RB	DATE	advmod	true	
+15	37	493	2213	2214		487	?	?	?	.	O	punct	true	
+15	37	494	2214	2215	NN	487	”	''	''	''	O	punct	true	
+16	38	495	2217	2220	S	497	The	The	the	DT	O	det	false	
+16	38	496	2221	2226	S	497	demon	demon	demon	NN	O	nn	false	
+16	38	497	2227	2231	S	498	lord	lord	lord	NN	O	nsubj	false	
+16	38	498	2232	2237	S	-1	asked	asked	ask	VBD	O	null	false	
+16	38	499	2238	2241	S	500	the	the	the	DT	O	det	false	
+16	38	500	2242	2246		498	hero	hero	hero	NN	O	dobj	false	
+16	38	501	2246	2247	N	498	.	.	.	.	O	punct	false	
+16	39	502	2248	2256	S	504	Although	Although	although	IN	O	mark	false	
+16	39	503	2257	2259	S	504	he	he	he	PRP	O	nsubj	false	
+16	39	504	2260	2264	S	512	felt	felt	feel	VBD	O	advcl	false	
+16	39	505	2265	2272	S	504	nothing	nothing	nothing	NN	O	dobj	false	
+16	39	506	2273	2276	S	505	but	but	but	CC	O	cc	false	
+16	39	507	2277	2281	S	505	fury	fury	fury	NN	O	conj	false	
+16	39	508	2282	2289	S	504	towards	towards	towards	IN	O	prep	false	
+16	39	509	2290	2293		508	him	him	he	PRP	O	pobj	false	
+16	39	510	2293	2294	S	512	,	,	,	,	O	punct	false	
+16	39	511	2295	2297	S	512	he	he	he	PRP	O	nsubj	false	
+16	39	512	2298	2301	S	-1	had	had	have	VBD	O	null	false	
+16	39	513	2302	2304	S	514	no	no	no	DT	O	det	false	
+16	39	514	2305	2311	S	512	choice	choice	choice	NN	O	dobj	false	
+16	39	515	2312	2315	S	512	but	but	but	CC	O	cc	false	
+16	39	516	2316	2318	S	517	to	to	to	TO	O	aux	false	
+16	39	517	2319	2330	S	512	acknowledge	acknowledge	acknowledge	VB	O	conj	false	
+16	39	518	2331	2334	S	519	his	his	he	PRP$	O	poss	false	
+16	39	519	2335	2340		517	power	power	power	NN	O	dobj	false	
+16	39	520	2340	2341	N	512	.	.	.	.	O	punct	false	
+16	40	521	2342	2344	S	523	So	So	so	IN	O	dep	false	
+16	40	522	2345	2347	S	523	he	he	he	PRP	O	nsubj	false	
+16	40	523	2348	2353	S	-1	asked	asked	ask	VBD	O	null	false	
+16	40	524	2354	2357	S	525	his	his	he	PRP$	O	poss	false	
+16	40	525	2358	2361		523	foe	foe	foe	NN	O	dobj	false	
+16	40	526	2361	2362	S	523	,	,	,	,	O	punct	false	
+16	40	527	2363	2366	S	528	his	his	he	PRP$	O	poss	false	
+16	40	528	2367	2372		526	equal	equal	equal	JJ	O	dobj	false	
+16	40	529	2372	2373	S	528	,	,	,	,	O	punct	false	
+16	40	530	2374	2377	S	528	out	out	out	IN	O	prep	false	
+16	40	531	2378	2380	S	530	of	of	of	IN	O	dep	false	
+16	40	532	2381	2390		531	curiosity	curiosity	curiosity	NN	O	pobj	false	
+16	40	533	2390	2391	NN	523	.	.	.	.	O	punct	false	
+17	41	534	2393	2394		-1	“	``	``	``	O	null	false	
+17	41	535	2394	2396	S	538	If	If	if	IN	O	mark	true	
+17	41	536	2397	2400		538	you	you	you	PRP	O	nsubj	true	
+17	41	537	2400	2403	S	538	’re	're	be	VBP	O	aux	true	
+17	41	538	2404	2410	S	534	asking	asking	ask	VBG	O	null	true	
+17	41	539	2411	2414	S	538	for	for	for	IN	O	prep	true	
+17	41	540	2415	2417	S	541	my	my	my	PRP$	O	poss	true	
+17	41	541	2418	2426		539	thoughts	thoughts	thought	NNS	O	pobj	true	
+17	41	542	2426	2427		538	.	.	.	.	O	punct	true	
+17	41	543	2427	2428	NN	538	”	''	''	''	O	punct	true	
+18	42	544	2430	2433	S	545	The	The	the	DT	O	det	false	
+18	42	545	2434	2438	S	546	hero	hero	hero	NN	O	nsubj	false	
+18	42	546	2439	2444		-1	spoke	spoke	speak	VBD	O	null	false	
+18	42	547	2444	2445	N	546	.	.	.	.	O	punct	false	
+18	43	548	2446	2449	S	549	His	His	he	PRP$	O	poss	false	
+18	43	549	2450	2454	S	552	face	face	face	NN	O	nsubj	false	
+18	43	550	2455	2461	S	552	seemed	seemed	seem	VBD	O	cop	false	
+18	43	551	2462	2470	S	552	somewhat	somewhat	somewhat	RB	O	advmod	false	
+18	43	552	2471	2475	S	-1	pale	pale	pale	JJ	O	null	false	
+18	43	553	2476	2478	S	555	as	as	as	IN	O	mark	false	
+18	43	554	2479	2481	S	555	he	he	he	PRP	O	nsubj	false	
+18	43	555	2482	2486	S	552	fell	fell	fall	VBD	O	advcl	false	
+18	43	556	2487	2494	S	555	towards	towards	towards	IN	O	prep	false	
+18	43	557	2495	2502	S	558	certain	certain	certain	JJ	O	amod	false	
+18	43	558	2503	2508		556	death	death	death	NN	O	pobj	false	
+18	43	559	2508	2509	NN	552	.	.	.	.	O	punct	false	
+19	44	560	2511	2512		575	“	``	``	``	O	punct	false	
+19	44	561	2512	2515		569	...	...	...	:	O	punct	true	
+19	44	562	2515	2516	NN	569	”	''	''	''	O	punct	true	
+20	44	563	2518	2523	S	569	After	After	after	IN	O	prep	false	
+20	44	564	2524	2525	S	566	a	a	a	DT	O	det	false	
+20	44	565	2526	2531	S	566	small	small	small	JJ	O	amod	false	
+20	44	566	2532	2537		563	pause	pause	pause	NN	O	pobj	false	
+20	44	567	2537	2538	S	569	,	,	,	,	O	punct	false	
+20	44	568	2539	2541	S	569	he	he	he	PRP	O	nsubj	false	
+20	44	569	2542	2549	S	575	replied	replied	reply	VBD	O	parataxis	false	
+20	44	570	2550	2557		569	quietly	quietly	quietly	RB	O	advmod	false	
+20	44	571	2557	2558	NN	569	,	,	,	,	O	punct	false	
+21	44	572	2560	2561		575	“	``	``	``	O	punct	false	
+21	44	573	2561	2562		575	I	I	I	PRP	O	nsubj	true	
+21	44	574	2562	2564	S	575	’m	'm	be	VBP	O	cop	true	
+21	44	575	2565	2570		-1	tired	tired	tired	JJ	O	null	true	
+21	44	576	2570	2571		575	.	.	.	.	O	punct	true	
+21	44	577	2571	2572	NN	575	”	''	''	''	O	punct	true	
+22	45	578	2574	2577	S	580	The	The	the	DT	O	det	false	
+22	45	579	2578	2583	S	580	demon	demon	demon	NN	O	nn	false	
+22	45	580	2584	2588	S	583	lord	lord	lord	NN	O	nsubj	false	
+22	45	581	2589	2594	S	583	could	could	could	MD	O	aux	false	
+22	45	582	2595	2598	S	583	not	not	not	RB	O	neg	false	
+22	45	583	2599	2609	S	-1	understand	understand	understand	VB	O	null	false	
+22	45	584	2610	2613	S	585	his	his	he	PRP$	O	poss	false	
+22	45	585	2614	2620		583	answer	answer	answer	NN	O	dobj	false	
+22	45	586	2620	2621	NN	585	,	,	,	,	O	punct	false	
+23	45	587	2623	2624		585	“	``	``	``	O	punct	false	
+23	45	588	2624	2628		585	What	What	what	WP	O	dep	true	
+23	45	589	2628	2629		583	?	?	?	.	O	punct	true	
+23	45	590	2629	2630	NN	583	”	''	''	''	O	punct	true	
+24	46	591	2632	2633		597	‘	`	`	``	O	punct	false	
+24	46	592	2633	2636		597	Yes	Yes	yes	UH	O	dep	false	
+24	46	593	2636	2637	S	597	,	,	,	,	O	punct	false	
+24	46	594	2638	2642	S	597	this	this	this	DT	O	nsubj	false	
+24	46	595	2643	2645	S	597	is	is	be	VBZ	O	cop	false	
+24	46	596	2646	2652	S	597	enough	enough	enough	RB	O	advmod	false	
+24	46	597	2653	2658		-1	right	right	right	JJ	O	null	false	
+24	46	598	2658	2659		597	?	?	?	.	O	punct	false	
+24	46	599	2659	2660	NN	597	’	'	'	''	O	punct	false	
+25	47	600	2662	2666	S	-1	That	That	that	DT	O	null	false	
+25	47	601	2667	2670	S	600	was	was	be	VBD	O	dep	false	
+25	47	602	2671	2675	S	605	what	what	what	WP	O	dobj	false	
+25	47	603	2676	2678	S	605	he	he	he	PRP	O	nsubj	false	
+25	47	604	2679	2684	S	605	truly	truly	truly	RB	O	advmod	false	
+25	47	605	2685	2692		601	thought	thought	think	VBD	O	ccomp	false	
+25	47	606	2692	2693	N	600	.	.	.	.	O	punct	false	
+25	48	607	2694	2697		-1	Why	Why	why	WRB	O	null	false	
+25	48	608	2697	2698	NN	607	?	?	?	.	O	punct	false	
+26	49	609	2700	2701		630	‘	`	`	``	O	punct	false	
+26	49	610	2701	2703	S	612	If	If	if	IN	O	mark	false	
+26	49	611	2704	2706		612	it	it	it	PRP	O	nsubj	false	
+26	49	612	2706	2708	S	630	’s	's	be	VBZ	O	dep	false	
+26	49	613	2709	2712	S	612	not	not	not	RB	O	neg	false	
+26	49	614	2713	2716		612	you	you	you	PRP	O	nsubj	false	
+26	49	615	2716	2717	S	630	,	,	,	,	O	punct	false	
+26	49	616	2718	2720	S	618	if	if	if	IN	O	mark	false	
+26	49	617	2721	2724		618	you	you	you	PRP	O	nsubj	false	
+26	49	618	2724	2727	S	630	’re	're	be	VBP	O	dep	false	
+26	49	619	2728	2731	S	618	not	not	not	RB	O	neg	false	
+26	49	620	2732	2736		618	here	here	here	RB	O	advmod	false	
+26	49	621	2736	2737	S	618	,	,	,	,	O	punct	false	
+26	49	622	2738	2740	S	624	if	if	if	IN	O	mark	false	
+26	49	623	2741	2744	S	624	you	you	you	PRP	O	nsubj	false	
+26	49	624	2745	2747		618	ca	ca	can	MD	O	advcl	false	
+26	49	625	2747	2750		624	n’t	n't	not	RB	O	neg	false	
+26	49	626	2750	2753		630	...	...	...	:	O	punct	false	
+26	49	627	2753	2754	NN	630	’	'	'	''	O	punct	false	
+27	49	628	2756	2758		630	He	He	he	PRP	O	nsubjpass	false	
+27	49	629	2758	2760	S	630	’s	's	be	VBZ	O	auxpass	false	
+27	49	630	2761	2766	S	-1	heard	heard	hear	VBN	O	null	false	
+27	49	631	2767	2769	S	634	it	it	it	PRP	O	nsubj	false	
+27	49	632	2770	2771	S	634	a	a	a	DT	O	det	false	
+27	49	633	2772	2779	S	634	million	million	million	CD	NUMBER	num	false	
+27	49	634	2780	2785		630	times	times	time	NNS	O	ccomp	false	
+27	49	635	2785	2786	NN	630	.	.	.	.	O	punct	false	
+28	50	636	2788	2789		-1	‘	`	`	``	O	null	false	
+28	50	637	2789	2793	S	640	Only	Only	only	RB	O	advmod	false	
+28	50	638	2794	2797	S	640	you	you	you	PRP	O	nsubj	false	
+28	50	639	2798	2801	S	640	can	can	can	MD	O	aux	false	
+28	50	640	2802	2804	S	636	do	do	do	VB	O	null	false	
+28	50	641	2805	2807		640	it	it	it	PRP	O	dobj	false	
+28	50	642	2807	2808		640	.	.	.	.	O	punct	false	
+28	50	643	2808	2809	N	640	’	'	'	''	O	punct	false	
+28	51	644	2810	2811		-1	‘	`	`	``	O	null	false	
+28	51	645	2811	2813		647	It	It	it	PRP	O	nsubj	false	
+28	51	646	2813	2815	S	647	’s	's	be	VBZ	O	cop	false	
+28	51	647	2816	2826	S	644	impossible	impossible	impossible	JJ	O	null	false	
+28	51	648	2827	2833	S	651	unless	unless	unless	IN	O	mark	false	
+28	51	649	2834	2836		651	it	it	it	PRP	O	nsubj	false	
+28	51	650	2836	2838	S	651	’s	's	be	VBZ	O	cop	false	
+28	51	651	2839	2842		647	you	you	you	PRP	O	advcl	false	
+28	51	652	2842	2843		647	.	.	.	.	O	punct	false	
+28	51	653	2843	2844	N	647	’	'	'	''	O	punct	false	
+28	52	654	2845	2846		658	‘	`	`	``	O	punct	false	
+28	52	655	2846	2850	S	658	Only	Only	only	RB	O	advmod	false	
+28	52	656	2851	2854	S	658	you	you	you	PRP	O	nsubj	false	
+28	52	657	2855	2858	S	658	can	can	can	MD	O	aux	false	
+28	52	658	2859	2863	S	-1	save	save	save	VB	O	null	false	
+28	52	659	2864	2868		658	them	them	they	PRP	O	dobj	false	
+28	52	660	2868	2869		658	.	.	.	.	O	punct	false	
+28	52	661	2869	2870	N	658	’	'	'	''	O	punct	false	
+28	53	662	2871	2872		665	‘	`	`	``	O	punct	false	
+28	53	663	2872	2875	S	665	You	You	you	PRP	O	nsubj	false	
+28	53	664	2876	2880	S	665	must	must	must	MD	O	aux	false	
+28	53	665	2881	2888	S	-1	protect	protect	protect	VB	O	null	false	
+28	53	666	2889	2893		665	them	them	they	PRP	O	dobj	false	
+28	53	667	2893	2894		665	.	.	.	.	O	punct	false	
+28	53	668	2894	2895	NN	665	’	'	'	''	O	punct	false	
+29	54	669	2897	2899	S	670	To	To	to	TO	O	aux	false	
+29	54	670	2900	2903	S	-1	act	act	act	VB	O	null	false	
+29	54	671	2904	2906	S	670	as	as	as	IN	O	prep	false	
+29	54	672	2907	2910	S	673	the	the	the	DT	O	det	false	
+29	54	673	2911	2917	S	671	symbol	symbol	symbol	NN	O	pobj	false	
+29	54	674	2918	2920	S	673	of	of	of	IN	O	prep	false	
+29	54	675	2921	2926	S	676	their	their	they	PRP$	O	poss	false	
+29	54	676	2927	2931		674	hope	hope	hope	NN	O	pobj	false	
+29	54	677	2931	2932	S	670	,	,	,	,	O	punct	false	
+29	54	678	2933	2935	S	679	to	to	to	TO	O	aux	false	
+29	54	679	2936	2940	S	670	live	live	live	VB	O	xcomp	false	
+29	54	680	2941	2943	S	679	up	up	up	RP	O	prt	false	
+29	54	681	2944	2946	S	679	to	to	to	TO	O	prep	false	
+29	54	682	2947	2952	S	683	their	their	they	PRP$	O	poss	false	
+29	54	683	2953	2959		681	wishes	wishes	wish	NNS	O	pobj	false	
+29	54	684	2959	2960	N	670	.	.	.	.	O	punct	false	
+29	55	685	2961	2963	S	687	It	It	it	PRP	O	nsubj	false	
+29	55	686	2964	2967	S	687	had	had	have	VBD	O	aux	false	
+29	55	687	2968	2973	S	-1	taken	taken	take	VBN	O	null	false	
+29	55	688	2974	2977	S	689	its	its	its	PRP$	O	poss	false	
+29	55	689	2978	2982	S	687	toll	toll	toll	NN	O	dobj	false	
+29	55	690	2983	2985	S	687	on	on	on	IN	O	prep	false	
+29	55	691	2986	2989		690	him	him	he	PRP	O	pobj	false	
+29	55	692	2989	2990	NN	687	.	.	.	.	O	punct	false	
+30	56	693	2992	2993		698	“	``	``	``	O	punct	false	
+30	56	694	2993	2994		698	I	I	I	PRP	O	nsubj	true	
+30	56	695	2994	2996	S	698	’m	'm	be	VBP	O	cop	true	
+30	56	696	2997	3001	S	698	just	just	just	RB	O	advmod	true	
+30	56	697	3002	3008	S	698	really	really	really	RB	O	advmod	true	
+30	56	698	3009	3014		-1	tired	tired	tired	JJ	O	null	true	
+30	56	699	3014	3015		698	.	.	.	.	O	punct	true	
+30	56	700	3015	3016	NN	698	”	''	''	''	O	punct	true	
+31	57	701	3018	3020	S	704	It	It	it	PRP	O	nsubj	false	
+31	57	702	3021	3024	S	704	was	was	be	VBD	O	cop	false	
+31	57	703	3025	3027	S	704	so	so	so	RB	O	advmod	false	
+31	57	704	3028	3032	S	-1	hard	hard	hard	JJ	O	null	false	
+31	57	705	3033	3035	S	706	to	to	to	TO	O	aux	false	
+31	57	706	3036	3040	S	704	meet	meet	meet	VB	O	xcomp	false	
+31	57	707	3041	3046	S	708	those	those	those	DT	O	det	false	
+31	57	708	3047	3052	S	706	gazes	gazes	gaze	NNS	O	dobj	false	
+31	57	709	3053	3057	S	711	that	that	that	WDT	O	nsubj	false	
+31	57	710	3058	3062	S	711	were	were	be	VBD	O	aux	false	
+31	57	711	3063	3069	S	708	trying	trying	try	VBG	O	rcmod	false	
+31	57	712	3070	3072	S	713	to	to	to	TO	O	aux	false	
+31	57	713	3073	3077	S	711	hold	hold	hold	VB	O	xcomp	false	
+31	57	714	3078	3082	S	713	onto	onto	onto	IN	O	prep	false	
+31	57	715	3083	3087	S	717	what	what	what	WDT	O	det	false	
+31	57	716	3088	3094	S	717	little	little	little	JJ	O	amod	false	
+31	57	717	3095	3100	S	719	faith	faith	faith	NN	O	dobj	false	
+31	57	718	3101	3105	S	719	they	they	they	PRP	O	nsubj	false	
+31	57	719	3106	3109		714	had	had	have	VBD	O	pcomp	false	
+31	57	720	3109	3110	NN	704	.	.	.	.	O	punct	false	
+32	58	721	3112	3113		727	“	``	``	``	O	punct	false	
+32	58	722	3113	3121		727	Honestly	Honestly	honestly	RB	O	advmod	true	
+32	58	723	3121	3122	S	727	,	,	,	,	O	punct	true	
+32	58	724	3123	3124	S	727	I	I	I	PRP	O	nsubj	true	
+32	58	725	3125	3127		727	do	do	do	VBP	O	aux	true	
+32	58	726	3127	3130	S	727	n’t	n't	not	RB	O	neg	true	
+32	58	727	3131	3135	S	-1	want	want	want	VB	O	null	true	
+32	58	728	3136	3138	S	727	it	it	it	PRP	O	dobj	true	
+32	58	729	3139	3146		727	anymore	anymore	anymore	RB	O	advmod	true	
+32	58	730	3146	3147		727	.	.	.	.	O	punct	true	
+32	58	731	3147	3148	NN	727	”	''	''	''	O	punct	true	
+33	59	732	3150	3152	S	734	As	As	as	IN	O	mark	false	
+33	59	733	3153	3155	S	734	he	he	he	PRP	O	nsubj	false	
+33	59	734	3156	3166	S	748	remembered	remembered	remember	VBD	O	advcl	false	
+33	59	735	3167	3170	S	737	all	all	all	PDT	O	predet	false	
+33	59	736	3171	3174	S	737	the	the	the	DT	O	det	false	
+33	59	737	3175	3180	S	734	lines	lines	line	NNS	O	dobj	false	
+33	59	738	3181	3186	S	737	about	about	about	IN	O	prep	false	
+33	59	739	3187	3193	S	738	heroes	heroes	hero	NNS	O	pobj	false	
+33	59	740	3194	3198	S	743	that	that	that	WDT	O	nsubjpass	false	
+33	59	741	3199	3202	S	743	had	had	have	VBD	O	aux	false	
+33	59	742	3203	3207	S	743	been	been	be	VBN	O	auxpass	false	
+33	59	743	3208	3212	S	739	said	said	say	VBN	O	rcmod	false	
+33	59	744	3213	3215	S	743	to	to	to	TO	O	prep	false	
+33	59	745	3216	3219		744	him	him	he	PRP	O	pobj	false	
+33	59	746	3219	3220	S	748	,	,	,	,	O	punct	false	
+33	59	747	3221	3223	S	748	he	he	he	PRP	O	nsubj	false	
+33	59	748	3224	3230	S	-1	looked	looked	look	VBD	O	null	false	
+33	59	749	3231	3235		748	down	down	down	RP	O	prt	false	
+33	59	750	3235	3236	S	748	.	.	.	.	O	punct	false	
+33	60	751	3237	3239	S	753	He	He	he	PRP	O	nsubj	false	
+33	60	752	3240	3243	S	753	was	was	be	VBD	O	aux	false	
+33	60	753	3244	3251		-1	falling	falling	fall	VBG	O	null	false	
+33	60	754	3251	3252	NN	753	.	.	.	.	O	punct	false	
+34	61	755	3254	3255		760	“	``	``	``	O	punct	false	
+34	61	756	3255	3258		760	...	...	...	:	O	punct	true	
+34	61	757	3258	3259	NN	760	”	''	''	''	O	punct	true	
+35	61	758	3261	3263	S	760	As	As	as	IN	O	mark	false	
+35	61	759	3264	3266	S	760	he	he	he	PRP	O	nsubj	false	
+35	61	760	3267	3271	S	-1	fell	fell	fall	VBD	O	null	false	
+35	61	761	3272	3276	S	760	from	from	from	IN	O	prep	false	
+35	61	762	3277	3280	S	764	the	the	the	DT	O	det	false	
+35	61	763	3281	3287	S	764	insane	insane	insane	JJ	O	amod	false	
+35	61	764	3288	3294		761	height	height	height	NN	O	pobj	false	
+35	61	765	3294	3295	S	760	,	,	,	,	O	punct	false	
+35	61	766	3296	3299	S	767	his	his	he	PRP$	O	poss	false	
+35	61	767	3300	3307	S	768	clothes	clothes	clothes	NNS	O	nsubj	false	
+35	61	768	3308	3317	S	760	fluttered	fluttered	flutter	VBD	O	ccomp	false	
+35	61	769	3318	3332		768	uncontrollably	uncontrollably	uncontrollably	RB	O	advmod	false	
+35	61	770	3332	3333	N	760	.	.	.	.	O	punct	false	
+35	62	771	3334	3337	S	772	The	The	the	DT	O	det	false	
+35	62	772	3338	3343	S	773	stars	stars	star	NNS	O	nsubj	false	
+35	62	773	3344	3349	S	-1	shone	shone	shine	VBP	O	null	false	
+35	62	774	3350	3352	S	773	at	at	at	IN	O	prep	false	
+35	62	775	3353	3356	S	776	the	the	the	DT	O	det	false	
+35	62	776	3357	3361	S	774	edge	edge	edge	NN	O	pobj	false	
+35	62	777	3362	3364	S	776	of	of	of	IN	O	prep	false	
+35	62	778	3365	3368	S	779	his	his	he	PRP$	O	poss	false	
+35	62	779	3369	3375		777	vision	vision	vision	NN	O	pobj	false	
+35	62	780	3375	3376	S	773	,	,	,	,	O	punct	false	
+35	62	781	3377	3380	S	773	and	and	and	CC	O	cc	false	
+35	62	782	3381	3384	S	784	the	the	the	DT	O	det	false	
+35	62	783	3385	3389	S	784	cold	cold	cold	JJ	O	amod	false	
+35	62	784	3390	3395	S	785	winds	winds	wind	NNS	O	nsubj	false	
+35	62	785	3396	3402	S	773	swiped	swiped	swipe	VBD	O	conj	false	
+35	62	786	3403	3405	S	785	at	at	at	IN	O	prep	false	
+35	62	787	3406	3409		786	him	him	he	PRP	O	pobj	false	
+35	62	788	3409	3410	NN	773	.	.	.	.	O	punct	false	
+36	63	789	3412	3413		-1	‘	`	`	``	O	null	false	
+36	63	790	3413	3420		795	Finally	Finally	finally	RB	O	advmod	false	
+36	63	791	3420	3423		795	...	...	...	:	O	punct	false	
+36	63	792	3423	3424	NN	795	’	'	'	''	O	punct	false	
+37	63	793	3426	3428	S	795	It	It	it	PRP	O	nsubj	false	
+37	63	794	3429	3432	S	795	was	was	be	VBD	O	cop	false	
+37	63	795	3433	3442	S	789	difficult	difficult	difficult	JJ	O	amod	false	
+37	63	796	3443	3445	S	797	to	to	to	TO	O	aux	false	
+37	63	797	3446	3450	S	795	keep	keep	keep	VB	O	xcomp	false	
+37	63	798	3451	3454	S	799	his	his	he	PRP$	O	poss	false	
+37	63	799	3455	3459	S	800	eyes	eyes	eye	NNS	O	nsubj	false	
+37	63	800	3460	3464		797	open	open	open	JJ	O	xcomp	false	
+37	63	801	3464	3465	S	795	,	,	,	,	O	punct	false	
+37	63	802	3466	3468	S	804	so	so	so	IN	O	mark	false	
+37	63	803	3469	3471	S	804	he	he	he	PRP	O	nsubj	false	
+37	63	804	3472	3483	S	795	half-closed	half-closed	half-close	VBD	O	advcl	false	
+37	63	805	3484	3488		804	them	them	they	PRP	O	dobj	false	
+37	63	806	3488	3489	N	789	.	.	.	.	O	punct	false	
+37	64	807	3490	3493	S	808	The	The	the	DT	O	det	false	
+37	64	808	3494	3500	S	816	clouds	clouds	cloud	NNS	O	nsubj	false	
+37	64	809	3501	3505	S	813	that	that	that	WDT	O	nsubj	false	
+37	64	810	3506	3509	S	813	had	had	have	VBD	O	aux	false	
+37	64	811	3510	3514	S	813	been	been	be	VBN	O	cop	false	
+37	64	812	3515	3518	S	813	far	far	far	RB	O	dep	false	
+37	64	813	3519	3524	S	816	below	below	below	IN	O	advmod	false	
+37	64	814	3525	3528	S	816	him	him	he	PRP	O	nsubj	false	
+37	64	815	3529	3532	S	816	now	now	now	RB	DATE	advmod	false	
+37	64	816	3533	3541	S	-1	caressed	caressed	caress	VBD	O	null	false	
+37	64	817	3542	3545	S	818	his	his	he	PRP$	O	poss	false	
+37	64	818	3546	3550		816	body	body	body	NN	O	dobj	false	
+37	64	819	3550	3551	N	816	.	.	.	.	O	punct	false	
+37	65	820	3552	3555	S	821	The	The	the	DT	O	det	false	
+37	65	821	3556	3562	S	823	ground	ground	ground	NN	O	nsubj	false	
+37	65	822	3563	3566	S	823	was	was	be	VBD	O	aux	false	
+37	65	823	3567	3574	S	-1	getting	getting	get	VBG	O	null	false	
+37	65	824	3575	3581		823	closer	closer	closer	RBR	O	advmod	false	
+37	65	825	3581	3582	NN	823	.	.	.	.	O	punct	false	
+38	66	826	3584	3585		831	“	``	``	``	O	punct	false	
+38	66	827	3585	3588		831	...	...	...	:	O	punct	true	
+38	66	828	3588	3589		831	I	I	I	PRP	O	nsubj	true	
+38	66	829	3589	3591	S	831	’m	'm	be	VBP	O	cop	true	
+38	66	830	3592	3598	S	831	almost	almost	almost	RB	O	advmod	true	
+38	66	831	3599	3604		-1	there	there	there	RB	O	null	true	
+38	66	832	3604	3605		831	.	.	.	.	O	punct	true	
+38	66	833	3605	3606	NN	831	”	''	''	''	O	punct	true	
+39	67	834	3608	3611	S	835	The	The	the	DT	O	det	false	
+39	67	835	3612	3616	S	837	hero	hero	hero	NN	O	nsubj	false	
+39	67	836	3617	3622	S	837	could	could	could	MD	O	aux	false	
+39	67	837	3623	3626	S	-1	see	see	see	VB	O	null	false	
+39	67	838	3627	3630	S	841	the	the	the	DT	O	det	false	
+39	67	839	3631	3636	S	841	ashen	ashen	ashen	JJ	O	amod	false	
+39	67	840	3637	3642	S	841	black	black	black	JJ	O	amod	false	
+39	67	841	3643	3652	S	837	buildings	buildings	building	NNS	O	dobj	false	
+39	67	842	3653	3657	S	841	made	made	make	VBN	O	partmod	false	
+39	67	843	3658	3660	S	842	of	of	of	IN	O	prep	false	
+39	67	844	3661	3669		843	concrete	concrete	concrete	NN	O	pobj	false	
+39	67	845	3669	3670	N	837	.	.	.	.	O	punct	false	
+39	68	846	3671	3676	S	847	Every	Every	every	DT	O	det	false	
+39	68	847	3677	3681	S	853	time	time	time	NN	O	dep	false	
+39	68	848	3682	3684	S	849	he	he	he	PRP	O	nsubj	false	
+39	68	849	3685	3692		847	blinked	blinked	blink	VBD	O	rcmod	false	
+39	68	850	3692	3693	S	853	,	,	,	,	O	punct	false	
+39	68	851	3694	3698	S	853	they	they	they	PRP	O	nsubj	false	
+39	68	852	3699	3703	S	853	were	were	be	VBD	O	cop	false	
+39	68	853	3704	3710		-1	closer	closer	closer	RBR	O	null	false	
+39	68	854	3710	3711	S	853	.	.	.	.	O	punct	false	
+39	69	855	3712	3714	S	857	It	It	it	PRP	O	nsubj	false	
+39	69	856	3715	3718	S	857	was	was	be	VBD	O	cop	false	
+39	69	857	3719	3726	S	-1	moments	moments	moment	NNS	O	null	false	
+39	69	858	3727	3733	S	857	before	before	before	IN	O	prep	false	
+39	69	859	3734	3737	S	861	the	the	the	DT	O	det	false	
+39	69	860	3738	3743	S	861	final	final	final	JJ	O	amod	false	
+39	69	861	3744	3750		858	impact	impact	impact	NN	O	pobj	false	
+39	69	862	3750	3751	NN	857	.	.	.	.	O	punct	false	
+40	70	863	3753	3754		869	“	``	``	``	O	punct	false	
+40	70	864	3754	3758		869	Aaah	Aaah	Aaah	NNP	O	nn	true	
+40	70	865	3758	3759	S	869	,	,	,	,	O	punct	true	
+40	70	866	3760	3764	S	869	this	this	this	DT	O	nsubj	true	
+40	70	867	3765	3767	S	869	is	is	be	VBZ	O	cop	true	
+40	70	868	3768	3771	S	869	the	the	the	DT	O	det	true	
+40	70	869	3772	3775		-1	end	end	end	NN	O	null	true	
+40	70	870	3775	3776		869	.	.	.	.	O	punct	true	
+40	70	871	3776	3777	NN	869	”	''	''	''	O	punct	true	
+41	71	872	3779	3781	S	881	At	At	at	IN	O	prep	false	
+41	71	873	3782	3786	S	874	this	this	this	DT	O	det	false	
+41	71	874	3787	3793		872	height	height	height	NN	O	pobj	false	
+41	71	875	3793	3794	S	881	,	,	,	,	O	punct	false	
+41	71	876	3795	3799	S	878	even	even	even	RB	O	advmod	false	
+41	71	877	3800	3803	S	878	the	the	the	DT	O	det	false	
+41	71	878	3804	3808	S	881	hero	hero	hero	NN	O	nsubj	false	
+41	71	879	3809	3814	S	881	could	could	could	MD	O	aux	false	
+41	71	880	3815	3818	S	881	not	not	not	RB	O	neg	false	
+41	71	881	3819	3824	S	-1	avoid	avoid	avoid	VB	O	null	false	
+41	71	882	3825	3832	S	883	instant	instant	instant	JJ	O	amod	false	
+41	71	883	3833	3838		881	death	death	death	NN	O	dobj	false	
+41	71	884	3838	3839	N	881	.	.	.	.	O	punct	false	
+41	72	885	3840	3842	S	888	He	He	he	PRP	O	nsubj	false	
+41	72	886	3843	3848	S	888	would	would	would	MD	O	aux	false	
+41	72	887	3849	3855	S	888	become	become	become	VB	O	cop	false	
+41	72	888	3856	3870		-1	unrecognisable	unrecognisable	unrecognisable	JJ	O	null	false	
+41	72	889	3870	3871	N	888	.	.	.	.	O	punct	false	
+41	73	890	3872	3876	S	902	With	With	with	IN	O	prep	false	
+41	73	891	3877	3880	S	893	all	all	all	PDT	O	predet	false	
+41	73	892	3881	3884	S	893	the	the	the	DT	O	det	false	
+41	73	893	3885	3893	S	890	injuries	injuries	injury	NNS	O	pobj	false	
+41	73	894	3894	3897	S	893	and	and	and	CC	O	cc	false	
+41	73	895	3898	3904	S	893	curses	curses	curse	NNS	O	conj	false	
+41	73	896	3905	3907	S	893	on	on	on	IN	O	prep	false	
+41	73	897	3908	3911		896	him	him	he	PRP	O	pobj	false	
+41	73	898	3911	3912	S	902	,	,	,	,	O	punct	false	
+41	73	899	3913	3925	S	902	resurrection	resurrection	resurrection	NN	O	nsubj	false	
+41	73	900	3926	3929	S	902	was	was	be	VBD	O	cop	false	
+41	73	901	3930	3934	S	902	also	also	also	RB	O	advmod	false	
+41	73	902	3935	3945		-1	impossible	impossible	impossible	JJ	O	null	false	
+41	73	903	3945	3946	NN	902	.	.	.	.	O	punct	false	
+42	74	904	3948	3949		-1	“	``	``	``	O	null	false	
+42	74	905	3949	3952		904	...	...	...	:	O	null	true	
+42	74	906	3952	3953		905	?	?	?	.	O	punct	true	
+42	74	907	3953	3954	NN	905	”	''	''	''	O	punct	true	
+43	75	908	3956	3959	S	910	The	The	the	DT	O	det	false	
+43	75	909	3960	3965	S	910	demon	demon	demon	NN	O	nn	false	
+43	75	910	3966	3970	S	911	lord	lord	lord	NN	O	nsubj	false	
+43	75	911	3971	3977	S	-1	tilted	tilted	tilted	JJ	O	null	false	
+43	75	912	3978	3981	S	913	his	his	he	PRP$	O	poss	false	
+43	75	913	3982	3986	S	911	head	head	head	NN	O	dobj	false	
+43	75	914	3987	3989	S	913	in	in	in	IN	O	prep	false	
+43	75	915	3990	3999		914	curiosity	curiosity	curiosity	NN	O	pobj	false	
+43	75	916	3999	4000	N	911	.	.	.	.	O	punct	false	
+43	76	917	4001	4005	S	918	Even	Even	even	RB	O	dep	false	
+43	76	918	4006	4011	S	-1	after	after	after	IN	O	null	false	
+43	76	919	4012	4018	S	918	saving	saving	save	VBG	O	pcomp	false	
+43	76	920	4019	4022	S	921	the	the	the	DT	O	det	false	
+43	76	921	4023	4028		919	world	world	world	NN	O	dobj	false	
+43	76	922	4028	4029	S	918	,	,	,	,	O	punct	false	
+43	76	923	4030	4035	S	922	after	after	after	IN	O	prep	false	
+43	76	924	4036	4038	S	925	so	so	so	RB	O	advmod	false	
+43	76	925	4039	4043	S	926	much	much	much	JJ	O	amod	false	
+43	76	926	4044	4053		923	sacrifice	sacrifice	sacrifice	NN	O	pobj	false	
+43	76	927	4053	4054	S	926	,	,	,	,	O	punct	false	
+43	76	928	4055	4059	S	929	only	only	only	RB	O	advmod	false	
+43	76	929	4060	4065	S	930	death	death	death	NN	O	nsubj	false	
+43	76	930	4066	4073	S	926	awaited	awaited	await	VBD	O	rcmod	false	
+43	76	931	4074	4077		930	him	him	he	PRP	O	dobj	false	
+43	76	932	4077	4078	S	918	.	.	.	.	O	punct	false	
+43	77	933	4079	4082	S	937	Yet	Yet	yet	RB	O	advmod	false	
+43	77	934	4083	4086	S	935	the	the	the	DT	O	det	false	
+43	77	935	4087	4091	S	937	hero	hero	hero	NN	O	nsubj	false	
+43	77	936	4092	4095	S	937	was	was	be	VBD	O	aux	false	
+43	77	937	4096	4103		-1	smiling	smiling	smile	VBG	O	null	false	
+43	77	938	4103	4104	N	937	.	.	.	.	O	punct	false	
+43	78	939	4105	4107	S	946	As	As	as	IN	O	mark	false	
+43	78	940	4108	4110		946	if	if	if	IN	O	dep	false	
+43	78	941	4110	4111	S	946	,	,	,	,	O	punct	false	
+43	78	942	4112	4114	S	946	it	it	it	PRP	O	nsubj	false	
+43	78	943	4115	4118	S	946	was	was	be	VBD	O	cop	false	
+43	78	944	4119	4122	S	946	his	his	he	PRP$	O	poss	false	
+43	78	945	4123	4131	S	946	greatest	greatest	greatest	JJS	O	amod	false	
+43	78	946	4132	4137		-1	peace	peace	peace	NN	O	null	false	
+43	78	947	4137	4138	NN	946	.	.	.	.	O	punct	false	
+44	79	948	4140	4141		949	“	``	``	``	O	punct	false	
+44	79	949	4141	4144		-1	Huh	Huh	Huh	NNP	O	null	true	
+44	79	950	4144	4145	S	949	?	?	?	.	O	punct	true	
+44	80	951	4146	4151	S	952	Those	Those	those	DT	O	dep	true	
+44	80	952	4152	4155	S	954	two	two	two	CD	NUMBER	nsubj	true	
+44	80	953	4156	4159	S	954	are	are	be	VBP	O	aux	true	
+44	80	954	4160	4167		-1	falling	falling	fall	VBG	O	null	true	
+44	80	955	4167	4168		954	!	!	!	.	O	punct	true	
+44	80	956	4168	4169	NN	954	”	''	''	''	O	punct	true	
+45	81	957	4171	4173	S	960	He	He	he	PRP	O	nsubj	false	
+45	81	958	4174	4177	S	960	was	was	be	VBD	O	cop	false	
+45	81	959	4178	4184	S	960	almost	almost	almost	RB	O	advmod	false	
+45	81	960	4185	4190		-1	there	there	there	RB	O	null	false	
+45	81	961	4190	4191	N	960	.	.	.	.	O	punct	false	
+45	82	962	4192	4199	S	969	Through	Through	through	IN	O	dep	false	
+45	82	963	4200	4203	S	964	the	the	the	DT	O	det	false	
+45	82	964	4204	4210		966	people	people	people	NNS	O	poss	false	
+45	82	965	4210	4212	S	964	’s	's	's	POS	O	possessive	false	
+45	82	966	4213	4221		969	shouting	shouting	shout	VBG	O	tmod	false	
+45	82	967	4221	4222	S	969	,	,	,	,	O	punct	false	
+45	82	968	4223	4225	S	969	he	he	he	PRP	O	nsubj	false	
+45	82	969	4226	4231	S	-1	heard	heard	hear	VBD	O	null	false	
+45	82	970	4232	4235	S	972	the	the	the	DT	O	det	false	
+45	82	971	4236	4241	S	972	demon	demon	demon	NN	O	nn	false	
+45	82	972	4242	4246		974	lord	lord	lord	NN	O	poss	false	
+45	82	973	4246	4248	S	972	’s	's	's	POS	O	possessive	false	
+45	82	974	4249	4253	S	975	head	head	head	NN	O	nsubj	false	
+45	82	975	4254	4257	S	969	hit	hit	hit	VBD	O	ccomp	false	
+45	82	976	4258	4261	S	977	the	the	the	DT	O	det	false	
+45	82	977	4262	4268		975	ground	ground	ground	NN	O	dobj	false	
+45	82	978	4268	4269	S	969	,	,	,	,	O	punct	false	
+45	82	979	4270	4276	S	969	making	making	make	VBG	O	xcomp	false	
+45	82	980	4277	4278	S	981	a	a	a	DT	O	det	false	
+45	82	981	4279	4284	S	979	sound	sound	sound	NN	O	dobj	false	
+45	82	982	4285	4289	S	981	like	like	like	IN	O	prep	false	
+45	82	983	4290	4291	S	984	a	a	a	DT	O	det	false	
+45	82	984	4292	4298	S	982	tomato	tomato	tomato	NN	O	pobj	false	
+45	82	985	4299	4304	S	986	being	being	be	VBG	O	auxpass	false	
+45	82	986	4305	4312		984	crushed	crushed	crush	VBN	O	partmod	false	
+45	82	987	4312	4313	N	969	.	.	.	.	O	punct	false	
+45	83	988	4314	4317	S	992	And	And	and	CC	O	cc	false	
+45	83	989	4318	4320	S	992	it	it	it	PRP	O	nsubj	false	
+45	83	990	4321	4324	S	992	was	was	be	VBD	O	cop	false	
+45	83	991	4325	4328	S	992	his	his	he	PRP$	O	poss	false	
+45	83	992	4329	4333	S	-1	turn	turn	turn	NN	O	null	false	
+45	83	993	4334	4338	S	992	soon	soon	soon	RB	O	advmod	false	
+45	83	994	4339	4344		993	after	after	after	IN	O	dep	false	
+45	83	995	4344	4345	N	992	.	.	.	.	O	punct	false	
+45	84	996	4346	4349	S	997	And	And	and	CC	O	cc	false	
+45	84	997	4350	4352		1001	so	so	so	RB	O	advmod	false	
+45	84	998	4352	4355	N	1001	...	...	...	:	O	punct	false	
+45	84	999	4356	4359	S	1000	The	The	the	DT	O	det	false	
+45	84	1000	4360	4364	S	1001	hero	hero	hero	NN	O	nsubj	false	
+45	84	1001	4365	4369		-1	fell	fell	fall	VBD	O	null	false	
+45	84	1002	4369	4370	NN	1001	.	.	.	.	O	punct	false	
+46	85	1003	4372	4375	NN	1006	***	***	***	CD	NUMBER	num	false	
+47	85	1004	4377	4378		1006	“	``	``	``	O	punct	false	
+47	85	1005	4378	4381	S	1006	The	The	the	DT	O	det	true	
+47	85	1006	4382	4391		-1	successor	successor	successor	NN	O	null	true	
+47	85	1007	4391	4392		1006	?	?	?	.	O	punct	true	
+47	85	1008	4392	4393	N	1006	”	''	''	''	O	punct	true	
+47	86	1009	4394	4395		-1	“	``	``	``	O	null	false	
+47	86	1010	4395	4397	S	1009	In	In	in	IN	O	null	true	
+47	86	1011	4398	4401	S	1014	the	the	the	DT	O	det	true	
+47	86	1012	4402	4407	S	1014	famed	famed	famed	JJ	O	amod	true	
+47	86	1013	4408	4417	S	1014	Iphelleta	Iphelleta	Iphelleta	NNP	O	nn	true	
+47	86	1014	4418	4423		1010	House	House	House	NNP	O	pobj	true	
+47	86	1015	4423	4424		1010	.	.	.	.	O	punct	true	
+47	86	1016	4424	4425	NN	1010	”	''	''	''	O	punct	true	
+48	87	1017	4427	4429	S	1024	In	In	in	IN	O	prep	false	
+48	87	1018	4430	4433	S	1020	the	the	the	DT	O	det	false	
+48	87	1019	4434	4441	S	1020	crowded	crowded	crowded	JJ	O	amod	false	
+48	87	1020	4442	4445		1017	inn	inn	inn	NN	O	pobj	false	
+48	87	1021	4445	4446	S	1024	,	,	,	,	O	punct	false	
+48	87	1022	4447	4453	S	1024	people	people	people	NNS	O	nsubj	false	
+48	87	1023	4454	4458	S	1024	were	were	be	VBD	O	aux	false	
+48	87	1024	4459	4466	S	-1	talking	talking	talk	VBG	O	null	false	
+48	87	1025	4467	4469	S	1024	of	of	of	IN	O	prep	false	
+48	87	1026	4470	4473	S	1027	the	the	the	DT	O	det	false	
+48	87	1027	4474	4480	S	1025	rumors	rumors	rumor	NNS	O	pobj	false	
+48	87	1028	4481	4486	S	1027	about	about	about	IN	O	prep	false	
+48	87	1029	4487	4490	S	1030	the	the	the	DT	O	det	false	
+48	87	1030	4491	4500	S	1028	selection	selection	selection	NN	O	pobj	false	
+48	87	1031	4501	4503	S	1030	of	of	of	IN	O	prep	false	
+48	87	1032	4504	4507	S	1034	the	the	the	DT	O	det	false	
+48	87	1033	4508	4517	S	1034	Iphelleta	Iphelleta	Iphelleta	NNP	ORGANIZATION	nn	false
+48	87	1034	4518	4523		1037	House	House	House	NNP	ORGANIZATION	poss	false
+48	87	1035	4523	4525	S	1034	’s	's	's	POS	O	possessive	false	
+48	87	1036	4526	4529	S	1037	new	new	new	JJ	O	amod	false	
+48	87	1037	4530	4539		1031	successor	successor	successor	NN	O	pobj	false	
+48	87	1038	4539	4540	NN	1024	.	.	.	.	O	punct	false	
+49	88	1039	4542	4543		-1	“	``	``	``	O	null	false	
+49	88	1040	4543	4547		1039	Yeah	Yeah	yeah	UH	O	dep	true	
+49	88	1041	4547	4548		1039	!	!	!	.	O	punct	true	
+49	88	1042	4548	4549	NN	1039	”	''	''	''	O	punct	true	
+50	89	1043	4551	4554	S	1046	The	The	the	DT	O	det	false	
+50	89	1044	4555	4559	S	1046	Finn	Finn	Finn	NNP	O	nn	false	
+50	89	1045	4560	4569	S	1046	Iphelleta	Iphelleta	Iphelleta	NNP	O	nn	false	
+50	89	1046	4570	4575		1055	House	House	House	NNP	O	nsubj	false	
+50	89	1047	4575	4576	S	1046	,	,	,	,	O	punct	false	
+50	89	1048	4577	4582	S	1050	which	which	which	WDT	O	nsubj	false	
+50	89	1049	4583	4586	S	1050	was	was	be	VBD	O	cop	false	
+50	89	1050	4587	4593	S	1046	famous	famous	famous	JJ	O	rcmod	false	
+50	89	1051	4594	4597	S	1050	for	for	for	IN	O	prep	false	
+50	89	1052	4598	4601	S	1053	its	its	its	PRP$	O	poss	false	
+50	89	1053	4602	4615		1051	swordsmanship	swordsmanship	swordsmanship	NN	O	pobj	false	
+50	89	1054	4615	4616	S	1046	,	,	,	,	O	punct	false	
+50	89	1055	4617	4620	S	-1	had	had	have	VBD	O	null	false	
+50	89	1056	4621	4626	S	1057	three	three	three	CD	NUMBER	num	false	
+50	89	1057	4627	4631		1055	sons	sons	son	NNS	O	dobj	false	
+50	89	1058	4631	4632	N	1055	.	.	.	.	O	punct	false	
+50	90	1059	4633	4636	S	1060	The	The	the	DT	O	det	false	
+50	90	1060	4637	4642		-1	first	first	first	JJ	ORDINAL	null	false	
+50	90	1061	4642	4643	S	1060	,	,	,	,	O	punct	false	
+50	90	1062	4644	4648	S	1061	Ryan	Ryan	Ryan	NNP	PERSON	null	false
+50	90	1063	4649	4652	S	1064	the	the	the	DT	O	det	false	
+50	90	1064	4653	4662		1062	Geuk-Geom	Geuk-Geom	Geuk-Geom	NNP	O	nsubj	false	
+50	90	1065	4662	4663	S	1064	,	,	,	,	O	punct	false	
+50	90	1066	4664	4670	S	1064	famous	famous	famous	JJ	O	amod	false	
+50	90	1067	4671	4674	S	1066	for	for	for	IN	O	prep	false	
+50	90	1068	4675	4678	S	1069	his	his	he	PRP$	O	poss	false
+50	90	1069	4679	4687		1067	strength	strength	strength	NN	O	pobj	false	
+50	90	1070	4687	4688	N	1062	.	.	.	.	O	punct	false	
+50	91	1071	4689	4692	S	1072	The	The	the	DT	O	det	false	
+50	91	1072	4693	4699		-1	second	second	second	JJ	ORDINAL	null	false	
+50	91	1073	4699	4700	S	1072	,	,	,	,	O	punct	false	
+50	91	1074	4701	4706	S	1072	Lloyd	Lloyd	Lloyd	NNP	PERSON	appos	false	
+50	91	1075	4707	4710	S	1076	the	the	the	DT	PERSON	det	false	
+50	91	1076	4711	4719		1074	Sok-Geom	Sok-Geom	Sok-Geom	NNP	PERSON	dep	false	
+50	91	1077	4719	4720	S	1076	,	,	,	,	O	punct	false	
+50	91	1078	4721	4727	S	1076	famous	famous	famous	JJ	O	amod	false	
+50	91	1079	4728	4731	S	1078	for	for	for	IN	O	prep	false	
+50	91	1080	4732	4735	S	1081	his	his	he	PRP$	O	poss	false	
+50	91	1081	4736	4741		1079	speed	speed	speed	NN	O	pobj	false	
+50	91	1082	4741	4742	N	1072	.	.	.	.	O	punct	false	
+50	92	1083	4743	4746	S	1084	The	The	the	DT	O	det	false	
+50	92	1084	4747	4752		-1	third	third	third	JJ	ORDINAL	null	false	
+50	92	1085	4752	4753	S	1084	,	,	,	,	O	punct	false	
+50	92	1086	4754	4761		1084	however	however	however	RB	O	advmod	false	
+50	92	1087	4761	4764	N	1084	...	...	...	:	O	punct	false	
+50	92	1088	4765	4768		1084	TLN	TLN	TLN	NNP	O	dep	false	
+50	92	1089	4768	4769	S	1088	:	:	:	:	O	punct	false	
+50	92	1090	4770	4779	S	1093	Geuk-Geom	Geuk-Geom	geuk-geom	NN	O	nn	false	
+50	92	1091	4780	4781	S	1093	=	=	=	JJ	O	amod	false	
+50	92	1092	4782	4788	S	1093	Strong	Strong	strong	JJ	O	amod	false	
+50	92	1093	4789	4794		1088	Blade	Blade	blade	NN	O	dep	false	
+50	92	1094	4794	4795	S	1093	,	,	,	,	O	punct	false	
+50	92	1095	4796	4804	S	1098	Sok-Geom	Sok-Geom	sok-geom	NN	O	nn	false	
+50	92	1096	4805	4806	S	1098	=	=	=	JJ	O	amod	false	
+50	92	1097	4807	4812	S	1098	Quick	Quick	Quick	NNP	O	nn	false	
+50	92	1098	4813	4818	NN	1093	Blade	Blade	Blade	NNP	O	appos	false	
+51	92	1099	4820	4821		1093	“	``	``	``	O	punct	false	
+51	92	1100	4821	4824	S	1101	The	The	the	DT	O	det	true	
+51	92	1101	4825	4834	S	1104	successor	successor	successor	NN	O	nsubj	true	
+51	92	1102	4835	4839	S	1104	will	will	will	MD	O	aux	true	
+51	92	1103	4840	4842	S	1104	be	be	be	VB	O	cop	true	
+51	92	1104	4843	4846	S	1093	one	one	one	CD	NUMBER	dep	true	
+51	92	1105	4847	4849	S	1104	of	of	of	IN	O	prep	true	
+51	92	1106	4850	4855	S	1108	those	those	those	DT	O	det	true	
+51	92	1107	4856	4861	S	1108	three	three	three	CD	NUMBER	num	true	
+51	92	1108	4862	4866		1105	sons	sons	son	NNS	O	pobj	true	
+51	92	1109	4866	4867		1084	!	!	!	.	O	punct	true	
+51	92	1110	4867	4868	N	1084	”	''	''	''	O	punct	true	
+51	93	1111	4869	4870		1118	“	``	``	``	O	punct	false	
+51	93	1112	4870	4874	S	1113	Only	Only	only	RB	O	advmod	true	
+51	93	1113	4875	4878	S	1118	one	one	one	CD	NUMBER	nsubjpass	true	
+51	93	1114	4879	4881	S	1113	of	of	of	IN	O	prep	true	
+51	93	1115	4882	4886	S	1114	them	them	they	PRP	O	pobj	true	
+51	93	1116	4887	4891	S	1118	will	will	will	MD	O	aux	true	
+51	93	1117	4892	4894	S	1118	be	be	be	VB	O	auxpass	true	
+51	93	1118	4895	4901	S	-1	chosen	chosen	choose	VBN	O	null	true	
+51	93	1119	4902	4907		1118	right	right	right	RB	O	advmod	true	
+51	93	1120	4907	4908		1118	?	?	?	.	O	punct	true	
+51	93	1121	4908	4909	N	1118	”	''	''	''	O	punct	true	
+51	94	1122	4910	4911		1125	“	``	``	``	O	punct	false	
+51	94	1123	4911	4913	S	1125	Of	Of	of	IN	O	prep	true	
+51	94	1124	4914	4920		1123	course	course	course	NN	O	pobj	true	
+51	94	1125	4920	4921		-1	!	!	!	.	O	null	true	
+51	94	1126	4921	4922	N	1125	”	''	''	''	O	punct	true	
+51	95	1127	4923	4924		-1	“	``	``	``	O	null	false	
+51	95	1128	4924	4929		1131	Would	Would	would	MD	O	aux	true	
+51	95	1129	4929	4932	S	1131	n’t	n't	not	RB	O	neg	true	
+51	95	1130	4933	4935	S	1131	it	it	it	PRP	O	nsubj	true	
+51	95	1131	4936	4938	S	1127	be	be	be	VB	O	null	true	
+51	95	1132	4939	4943		1131	Ryan	Ryan	Ryan	NNP	PERSON	nsubj	true
+51	95	1133	4943	4944	S	1132	,	,	,	,	O	punct	true	
+51	95	1134	4945	4948	S	1135	the	the	the	DT	O	det	true	
+51	95	1135	4949	4955		1132	eldest	eldest	eldest	JJS	O	appos	true	
+51	95	1136	4955	4956		1131	?	?	?	.	O	punct	true	
+51	95	1137	4956	4957	N	1131	”	''	''	''	O	punct	true	
+51	96	1138	4958	4959		1142	“	``	``	``	O	punct	false	
+51	96	1139	4959	4963		1142	Well	Well	well	UH	O	dep	true	
+51	96	1140	4963	4964	S	1142	,	,	,	,	O	punct	true	
+51	96	1141	4965	4968	S	1142	who	who	who	WP	O	nsubj	true	
+51	96	1142	4969	4974		-1	knows	knows	know	VBZ	O	null	true	
+51	96	1143	4974	4975	S	1142	?	?	?	.	O	punct	true	
+51	97	1144	4976	4977	S	1145	I	I	I	PRP	O	nsubj	true	
+51	97	1145	4978	4983	S	-1	heard	heard	hear	VBD	O	null	true	
+51	97	1146	4984	4988	S	1145	that	that	that	IN	O	prep	true	
+51	97	1147	4989	4992	S	1154	the	the	the	DT	O	det	true	
+51	97	1148	4993	5004		1154	second-born	second-born	second-born	JJ	O	dep	true	
+51	97	1149	5004	5005	S	1154	,	,	,	,	O	punct	true	
+51	97	1150	5006	5011		1154	Lloyd	Lloyd	Lloyd	NNP	PERSON	nsubj	true	
+51	97	1151	5011	5012	S	1150	,	,	,	,	O	punct	true	
+51	97	1152	5013	5015	S	1154	is	is	be	VBZ	O	cop	true	
+51	97	1153	5016	5021	S	1154	quite	quite	quite	RB	O	advmod	true	
+51	97	1154	5022	5027	S	1146	sharp	sharp	sharp	JJ	O	pobj	true	
+51	97	1155	5028	5031		1154	too	too	too	RB	O	amod	true	
+51	97	1156	5031	5032		1145	.	.	.	.	O	punct	true	
+51	97	1157	5032	5033	N	1145	”	''	''	''	O	punct	true	
+51	98	1158	5034	5035		1160	“	``	``	``	O	punct	false	
+51	98	1159	5035	5036	S	1160	I	I	I	PRP	O	nsubj	true	
+51	98	1160	5037	5044	S	-1	thought	thought	think	VBD	O	null	true	
+51	98	1161	5045	5049	S	1163	they	they	they	PRP	O	nsubjpass	true	
+51	98	1162	5050	5054	S	1163	were	were	be	VBD	O	auxpass	true	
+51	98	1163	5055	5062	S	1160	blessed	blessed	bless	VBN	O	ccomp	true	
+51	98	1164	5063	5065	S	1165	to	to	to	TO	O	aux	true	
+51	98	1165	5066	5070	S	1163	have	have	have	VB	O	xcomp	true	
+51	98	1166	5071	5076	S	1167	three	three	three	CD	NUMBER	num	true	
+51	98	1167	5077	5081		1165	sons	sons	son	NNS	O	dobj	true	
+51	98	1168	5081	5082	S	1160	,	,	,	,	O	punct	true	
+51	98	1169	5083	5086	S	1160	but	but	but	CC	O	cc	true	
+51	98	1170	5087	5093	S	1173	having	having	have	VBG	O	aux	true	
+51	98	1171	5094	5096	S	1172	so	so	so	RB	O	advmod	true	
+51	98	1172	5097	5101	S	1173	many	many	many	JJ	O	nsubj	true	
+51	98	1173	5102	5105	S	1160	has	has	have	VBZ	O	conj	true	
+51	98	1174	5106	5109	S	1175	its	its	its	PRP$	O	poss	true	
+51	98	1175	5110	5118		1173	troubles	troubles	trouble	NNS	O	dobj	true	
+51	98	1176	5118	5119	S	1173	,	,	,	,	O	punct	true	
+51	98	1177	5120	5123		1173	too	too	too	RB	O	advmod	true	
+51	98	1178	5123	5124		1160	.	.	.	.	O	punct	true	
+51	98	1179	5124	5125	N	1160	”	''	''	''	O	punct	true	
+51	99	1180	5126	5127		-1	“	``	``	``	O	null	false	
+51	99	1181	5127	5129		1184	It	It	it	PRP	O	nsubj	true	
+51	99	1182	5129	5131	S	1184	’s	's	be	VBZ	O	cop	true	
+51	99	1183	5132	5133	S	1184	a	a	a	DT	O	det	true	
+51	99	1184	5134	5141	S	1180	problem	problem	problem	NN	O	null	true	
+51	99	1185	5142	5145	S	1184	for	for	for	IN	O	prep	true	
+51	99	1186	5146	5149	S	1188	all	all	all	DT	O	det	true	
+51	99	1187	5150	5160	S	1188	high-class	high-class	high-class	JJ	O	amod	true	
+51	99	1188	5161	5169		1185	families	families	family	NNS	O	pobj	true	
+51	99	1189	5169	5170	S	1188	,	,	,	,	O	punct	true	
+51	99	1190	5171	5181	S	1191	especially	especially	especially	RB	O	advmod	true	
+51	99	1191	5182	5186	S	1193	such	such	such	JJ	O	amod	true	
+51	99	1192	5187	5191	S	1193	high	high	high	JJ	O	amod	true	
+51	99	1193	5192	5198		1188	nobles	nobles	noble	NNS	O	appos	true	
+51	99	1194	5198	5199		1184	.	.	.	.	O	punct	true	
+51	99	1195	5199	5200	N	1184	”	''	''	''	O	punct	true	
+51	100	1196	5201	5202		1204	“	``	``	``	O	punct	false	
+51	100	1197	5202	5205	S	1204	For	For	for	IN	O	prep	true	
+51	100	1198	5206	5208	S	1199	us	us	we	PRP	O	dep	true	
+51	100	1199	5209	5217		1197	peasants	peasants	peasant	NNS	O	pobj	true	
+51	100	1200	5217	5218	S	1204	,	,	,	,	O	punct	true	
+51	100	1201	5219	5223	S	1204	sons	sons	son	NNS	O	nsubj	true	
+51	100	1202	5224	5227	S	1204	are	are	be	VBP	O	cop	true	
+51	100	1203	5228	5234	S	1204	always	always	always	RB	O	advmod	true	
+51	100	1204	5235	5241		-1	better	better	better	RB	O	null	true	
+51	100	1205	5241	5242		1204	!	!	!	.	O	punct	true	
+51	100	1206	5242	5243	N	1204	”	''	''	''	O	punct	true	
+51	101	1207	5244	5245		1209	“	``	``	``	O	punct	false	
+51	101	1208	5245	5248	S	1209	Who	Who	who	WP	O	nsubj	true	
+51	101	1209	5249	5254		-1	knows	knows	know	VBZ	O	null	true	
+51	101	1210	5254	5255	S	1213	,	,	,	,	O	punct	true	
+51	101	1211	5256	5259	S	1213	you	you	you	PRP	O	nsubj	true	
+51	101	1212	5260	5265	S	1213	might	might	might	MD	O	aux	true	
+51	101	1213	5266	5269	S	1209	win	win	win	VB	O	parataxis	true	
+51	101	1214	5270	5279	S	1213	something	something	something	NN	O	dobj	true	
+51	101	1215	5280	5283	S	1214	big	big	big	JJ	O	amod	true	
+51	101	1216	5284	5286	S	1218	if	if	if	IN	O	mark	true	
+51	101	1217	5287	5290	S	1218	you	you	you	PRP	O	nsubj	true	
+51	101	1218	5291	5295	S	1213	have	have	have	VBP	O	advcl	true	
+51	101	1219	5296	5297	S	1221	a	a	a	DT	O	det	true	
+51	101	1220	5298	5307	S	1221	beautiful	beautiful	beautiful	JJ	O	amod	true	
+51	101	1221	5308	5316		1218	daughter	daughter	daughter	NN	O	dobj	true	
+51	101	1222	5316	5317		1209	.	.	.	.	O	punct	true	
+51	101	1223	5317	5318	N	1209	”	''	''	''	O	punct	true	
+51	102	1224	5319	5320		1225	“	``	``	``	O	punct	false	
+51	102	1225	5320	5326		-1	Hahaha	Hahaha	hahaha	NN	O	null	true	
+51	102	1226	5326	5327	S	1225	!	!	!	.	O	punct	true	
+51	103	1227	5328	5332	S	-1	With	With	with	IN	O	null	true	
+51	103	1228	5333	5337	S	1229	your	your	you	PRP$	O	poss	true	
+51	103	1229	5338	5342		1227	face	face	face	NN	O	pobj	true	
+51	103	1230	5342	5343	S	1227	?	?	?	.	O	punct	true	
+51	104	1231	5344	5349	S	-1	Dream	Dream	dream	VB	O	null	true	
+51	104	1232	5350	5352		1231	on	on	on	IN	O	prep	true	
+51	104	1233	5352	5353	S	1234	,	,	,	,	O	punct	true	
+51	104	1234	5354	5361		1232	brother	brother	brother	NN	O	pobj	true	
+51	104	1235	5361	5362		1231	.	.	.	.	O	punct	true	
+51	104	1236	5362	5363	NN	1231	”	''	''	''	O	punct	true	
+52	105	1237	5365	5369	S	1238	Iffa	Iffa	Iffa	NNP	O	nn	false	
+52	105	1238	5370	5377		-1	village	village	village	NN	O	null	false	
+52	105	1239	5377	5378	S	1238	,	,	,	,	O	punct	false	
+52	105	1240	5379	5380	S	1241	a	a	a	DT	O	det	false	
+52	105	1241	5381	5390	S	1238	territory	territory	territory	NN	O	appos	false	
+52	105	1242	5391	5396	S	1241	ruled	ruled	rule	VBN	O	partmod	false	
+52	105	1243	5397	5399	S	1242	by	by	by	IN	O	prep	false	
+52	105	1244	5400	5403	S	1247	the	the	the	DT	O	det	false	
+52	105	1245	5404	5408	S	1247	Finn	Finn	Finn	NNP	O	nn	false	
+52	105	1246	5409	5418	S	1247	Iphelleta	Iphelleta	Iphelleta	NNP	O	nn	false	
+52	105	1247	5419	5424		1243	House	House	House	NNP	O	pobj	false	
+52	105	1248	5424	5425	S	1238	.	.	.	.	O	punct	false	
+52	106	1249	5426	5429	S	1250	The	The	the	DT	O	det	false	
+52	106	1250	5430	5433	S	1252	inn	inn	inn	NN	O	nsubj	false	
+52	106	1251	5434	5437	S	1252	was	was	be	VBD	O	cop	false	
+52	106	1252	5438	5442	S	-1	full	full	full	JJ	O	null	false	
+52	106	1253	5443	5445	S	1252	of	of	of	IN	O	prep	false	
+52	106	1254	5446	5458	S	1253	speculations	speculations	speculation	NNS	O	pobj	false	
+52	106	1255	5459	5464	S	1254	about	about	about	IN	O	prep	false	
+52	106	1256	5465	5468	S	1258	the	the	the	DT	O	det	false	
+52	106	1257	5469	5472	S	1258	new	new	new	JJ	O	amod	false	
+52	106	1258	5473	5482		1255	successor	successor	successor	NN	O	pobj	false	
+52	106	1259	5482	5483	NN	1252	.	.	.	.	O	punct	false	
+53	107	1260	5485	5486		1279	“	``	``	``	O	punct	false	
+53	107	1261	5486	5490	S	1268	From	From	from	IN	O	prep	true	
+53	107	1262	5491	5494	S	1263	the	the	the	DT	O	det	true	
+53	107	1263	5495	5501	S	1261	sounds	sounds	sound	NNS	O	pobj	true	
+53	107	1264	5502	5504	S	1263	of	of	of	IN	O	prep	true	
+53	107	1265	5505	5511		1264	things	things	thing	NNS	O	pobj	true	
+53	107	1266	5511	5512	S	1268	,	,	,	,	O	punct	true	
+53	107	1267	5513	5515		1268	it	it	it	PRP	O	nsubj	true	
+53	107	1268	5515	5517	S	1279	’s	's	be	VBZ	O	advcl	true	
+53	107	1269	5518	5524	S	1268	either	either	either	CC	O	dep	true	
+53	107	1270	5525	5530	S	1268	going	going	go	VBG	O	dep	true	
+53	107	1271	5531	5533	S	1274	to	to	to	TO	O	aux	true	
+53	107	1272	5534	5536	S	1274	be	be	be	VB	O	cop	true	
+53	107	1273	5537	5540	S	1274	the	the	the	DT	O	det	true	
+53	107	1274	5541	5546	S	1270	first	first	first	JJ	ORDINAL	xcomp	true	
+53	107	1275	5547	5549	S	1274	or	or	or	CC	O	cc	true	
+53	107	1276	5550	5553	S	1277	the	the	the	DT	O	det	true	
+53	107	1277	5554	5560		1274	second	second	second	JJ	ORDINAL	conj	true	
+53	107	1278	5560	5561	S	1279	,	,	,	,	O	punct	true	
+53	107	1279	5562	5564	S	-1	is	is	be	VBZ	O	null	true	
+53	107	1280	5565	5569	S	1281	that	that	that	IN	O	nsubj	true	
+53	107	1281	5570	5575		1279	right	right	right	NN	O	ccomp	true	
+53	107	1282	5575	5576		1279	?	?	?	.	O	punct	true	
+53	107	1283	5576	5577	N	1279	”	''	''	''	O	punct	true	
+53	108	1284	5578	5579		1288	“	``	``	``	O	punct	false	
+53	108	1285	5579	5583		1288	Yeah	Yeah	yeah	UH	O	dep	true	
+53	108	1286	5583	5584	S	1288	,	,	,	,	O	punct	true	
+53	108	1287	5585	5590	S	1288	thats	thats	thats	RB	O	advmod	true	
+53	108	1288	5591	5595		-1	true	true	true	JJ	O	null	true	
+53	108	1289	5595	5596		1288	.	.	.	.	O	punct	true	
+53	108	1290	5596	5597	N	1288	”	''	''	''	O	punct	true	
+53	109	1291	5598	5599		-1	“	``	``	``	O	null	false	
+53	109	1292	5599	5603	S	1291	What	What	what	WP	O	null	true	
+53	109	1293	5604	5609	S	1292	about	about	about	IN	O	dep	true	
+53	109	1294	5610	5613	S	1295	the	the	the	DT	O	det	true	
+53	109	1295	5614	5619		1293	third	third	third	JJ	ORDINAL	pobj	true	
+53	109	1296	5619	5620		1292	?	?	?	.	O	punct	true	
+53	109	1297	5620	5621	N	1292	”	''	''	''	O	punct	true	
+53	110	1298	5622	5623		1307	“	``	``	``	O	punct	false	
+53	110	1299	5623	5625		1307	Ah	Ah	ah	UH	O	dep	true	
+53	110	1300	5625	5626	S	1307	,	,	,	,	O	punct	true	
+53	110	1301	5627	5631		1307	well	well	well	RB	O	advmod	true	
+53	110	1302	5631	5632	S	1307	,	,	,	,	O	punct	true	
+53	110	1303	5633	5643	S	1307	apparently	apparently	apparently	RB	O	advmod	true	
+53	110	1304	5644	5646	S	1307	he	he	he	PRP	O	nsubj	true	
+53	110	1305	5647	5649	S	1307	is	is	be	VBZ	O	cop	true	
+53	110	1306	5650	5660	S	1307	completely	completely	completely	RB	O	advmod	true	
+53	110	1307	5661	5668		-1	useless	useless	useless	JJ	O	null	true	
+53	110	1308	5668	5669		1307	.	.	.	.	O	punct	true	
+53	110	1309	5669	5670	N	1307	”	''	''	''	O	punct	true	
+53	111	1310	5671	5672		1313	“	``	``	``	O	punct	false	
+53	111	1311	5672	5674	S	1313	He	He	he	PRP	O	nsubjpass	true	
+53	111	1312	5675	5678	S	1313	was	was	be	VBD	O	auxpass	true	
+53	111	1313	5679	5683	S	-1	born	born	bear	VBN	O	null	true	
+53	111	1314	5684	5688	S	1315	that	that	that	DT	O	det	true	
+53	111	1315	5689	5692		1313	way	way	way	NN	O	dobj	true	
+53	111	1316	5692	5693		1313	.	.	.	.	O	punct	true	
+53	111	1317	5693	5694	N	1313	”	''	''	''	O	punct	true	
+53	112	1318	5695	5696		1334	“	``	``	``	O	punct	false	
+53	112	1319	5696	5699		1323	...	...	...	:	O	punct	true	
+53	112	1320	5699	5700	NN	1323	”	''	''	''	O	punct	true	
+54	112	1321	5702	5703	S	1323	A	A	a	DT	O	det	false	
+54	112	1322	5704	5711	S	1323	certain	certain	certain	JJ	O	amod	false	
+54	112	1323	5712	5718		1334	butler	butler	butler	NN	O	nsubj	false	
+54	112	1324	5718	5719	S	1323	,	,	,	,	O	punct	false	
+54	112	1325	5720	5723	S	1326	who	who	who	WP	O	nsubj	false	
+54	112	1326	5724	5730	S	1323	looked	looked	look	VBD	O	rcmod	false	
+54	112	1327	5731	5734	S	1326	out	out	out	IN	O	prep	false	
+54	112	1328	5735	5737	S	1327	of	of	of	IN	O	dep	false	
+54	112	1329	5738	5743	S	1328	place	place	place	NN	O	pobj	false	
+54	112	1330	5744	5746	S	1326	in	in	in	IN	O	prep	false	
+54	112	1331	5747	5751	S	1332	this	this	this	DT	O	det	false	
+54	112	1332	5752	5755		1330	inn	inn	inn	NN	O	pobj	false	
+54	112	1333	5755	5756	S	1323	,	,	,	,	O	punct	false	
+54	112	1334	5757	5766	S	-1	tightened	tightened	tighten	VBD	O	null	false	
+54	112	1335	5767	5770	S	1336	his	his	he	PRP$	O	poss	false	
+54	112	1336	5771	5775	S	1334	grip	grip	grip	NN	O	dobj	false	
+54	112	1337	5776	5778	S	1336	on	on	on	IN	O	prep	false	
+54	112	1338	5779	5782	S	1339	his	his	he	PRP$	O	poss	false	
+54	112	1339	5783	5787		1337	beer	beer	beer	NN	O	pobj	false	
+54	112	1340	5787	5788	S	1334	,	,	,	,	O	punct	false	
+54	112	1341	5789	5791	S	1345	as	as	as	IN	O	mark	false	
+54	112	1342	5792	5794	S	1345	if	if	if	IN	O	dep	false	
+54	112	1343	5795	5797	S	1345	he	he	he	PRP	O	nsubj	false	
+54	112	1344	5798	5801	S	1345	was	was	be	VBD	O	aux	false	
+54	112	1345	5802	5808	S	1334	trying	trying	try	VBG	O	advcl	false	
+54	112	1346	5809	5811	S	1347	to	to	to	TO	O	aux	false	
+54	112	1347	5812	5819	S	1345	shatter	shatter	shatter	VB	O	xcomp	false	
+54	112	1348	5820	5823	S	1349	the	the	the	DT	O	det	false	
+54	112	1349	5824	5829		1347	glass	glass	glass	NN	O	dobj	false	
+54	112	1350	5829	5830	NN	1334	.	.	.	.	O	punct	false	
+55	113	1351	5832	5833		-1	“	``	``	``	O	null	false	
+55	113	1352	5833	5835		1355	He	He	he	PRP	O	nsubj	true	
+55	113	1353	5835	5837	S	1355	’s	's	be	VBZ	O	cop	true	
+55	113	1354	5838	5839	S	1355	a	a	a	DT	O	det	true	
+55	113	1355	5840	5845	S	1351	noble	noble	noble	JJ	O	null	true	
+55	113	1356	5846	5849	S	1355	and	and	and	CC	O	cc	true	
+55	113	1357	5850	5853	S	1360	yet	yet	yet	RB	O	advmod	true	
+55	113	1358	5854	5856		1360	he	he	he	PRP	O	nsubjpass	true	
+55	113	1359	5856	5858	S	1360	’s	's	be	VBZ	O	auxpass	true	
+55	113	1360	5859	5864	S	1355	known	known	know	VBN	O	conj	true	
+55	113	1361	5865	5867	S	1360	as	as	as	IN	O	prep	true	
+55	113	1362	5868	5871	S	1365	the	the	the	DT	O	det	true	
+55	113	1363	5872	5873		1365	‘	`	`	``	O	punct	true	
+55	113	1364	5873	5877		1365	Lazy	Lazy	lazy	JJ	O	amod	true	
+55	113	1365	5877	5878		1361	’	'	'	''	O	pobj	true	
+55	113	1366	5878	5879	S	1355	.	.	.	.	O	punct	true	
+55	114	1367	5880	5882	S	1374	In	In	in	IN	O	prep	true	
+55	114	1368	5883	5884	S	1369	a	a	a	DT	O	det	true	
+55	114	1369	5885	5888		1367	way	way	way	NN	O	pobj	true	
+55	114	1370	5888	5889	S	1374	,	,	,	,	O	punct	true	
+55	114	1371	5890	5892		1374	he	he	he	PRP	O	nsubj	true	
+55	114	1372	5892	5894	S	1374	’s	's	be	VBZ	O	cop	true	
+55	114	1373	5895	5899	S	1374	more	more	more	JJR	O	dep	true	
+55	114	1374	5900	5906	S	-1	famous	famous	famous	JJ	O	null	true	
+55	114	1375	5907	5911	S	1374	than	than	than	IN	O	prep	true	
+55	114	1376	5912	5915	S	1378	the	the	the	DT	O	det	true	
+55	114	1377	5916	5921	S	1378	other	other	other	JJ	O	amod	true	
+55	114	1378	5922	5925		1375	two	two	two	CD	NUMBER	pobj	true	
+55	114	1379	5925	5926		1374	.	.	.	.	O	punct	true	
+55	114	1380	5926	5927	NN	1374	”	''	''	''	O	punct	true	
+56	115	1381	5929	5932	S	1382	The	The	the	DT	O	det	false	
+56	115	1382	5933	5938		-1	Third	Third	Third	NNP	ORDINAL	null	false	
+56	115	1383	5938	5939	N	1382	.	.	.	.	O	punct	false	
+56	116	1384	5940	5946	S	-1	Famous	Famous	Famous	NNP	O	null	false	
+56	116	1385	5947	5953	S	1384	within	within	within	IN	O	prep	false	
+56	116	1386	5954	5957	S	1388	the	the	the	DT	O	det	false	
+56	116	1387	5958	5967	S	1388	Iphelleta	Iphelleta	Iphelleta	NNP	O	nn	false	
+56	116	1388	5968	5973	S	1385	House	House	House	NNP	O	pobj	false	
+56	116	1389	5974	5977	S	1384	for	for	for	IN	O	prep	false	
+56	116	1390	5978	5981	S	1393	his	his	he	PRP$	O	poss	false	
+56	116	1391	5982	5985	S	1393	awe	awe	awe	JJ	O	amod	false	
+56	116	1392	5986	5995	S	1393	inspiring	inspiring	inspiring	JJ	O	amod	false	
+56	116	1393	5996	6004		1389	laziness	laziness	laziness	NN	O	pobj	false	
+56	116	1394	6004	6005	N	1384	.	.	.	.	O	punct	false	
+56	117	1395	6006	6012		1397	Titled	Titled	title	VBN	O	ccomp	false	
+56	117	1396	6012	6013	S	1397	,	,	,	,	O	punct	false	
+56	117	1397	6014	6021		-1	Na-Geom	Na-Geom	Na-Geom	NNP	PERSON	null	false	
+56	117	1398	6021	6022	N	1397	.	.	.	.	O	punct	false	
+56	118	1399	6023	6028		-1	Riley	Riley	Riley	NNP	PERSON	null	false	
+56	118	1400	6028	6029	N	1399	.	.	.	.	O	punct	false	
+56	119	1401	6030	6033		-1	TLN	TLN	tln	NN	O	null	false	
+56	119	1402	6033	6034	S	1401	:	:	:	:	O	punct	false	
+56	119	1403	6035	6042	S	1406	Na-Geom	Na-Geom	na-geom	NN	O	nn	false	
+56	119	1404	6043	6044	S	1406	=	=	=	JJ	O	amod	false	
+56	119	1405	6045	6049	S	1406	Lazy	Lazy	lazy	JJ	O	amod	false	
+56	119	1406	6050	6055	NN	1401	Sword	Sword	sword	NN	O	dep	false	
+57	119	1407	6057	6058		1406	“	``	``	``	O	punct	false	
+57	119	1408	6058	6061		1406	...	...	...	:	O	punct	true	
+57	119	1409	6061	6068		1406	Na-Geom	Na-Geom	Na-Geom	NNP	O	dep	true	
+57	119	1410	6068	6069		1401	?	?	?	.	O	punct	true	
+57	119	1411	6069	6070	N	1401	”	''	''	''	O	punct	true	
+57	120	1412	6071	6072		1413	“	``	``	``	O	punct	false	
+57	120	1413	6072	6075		-1	Hah	Hah	hah	NN	O	null	true	
+57	120	1414	6075	6076	S	1413	!	!	!	.	O	punct	true	
+57	121	1415	6077	6082	S	1416	Never	Never	never	RB	O	neg	true	
+57	121	1416	6083	6088	S	-1	heard	heard	hear	VBN	O	null	true	
+57	121	1417	6089	6091	S	1416	of	of	of	IN	O	prep	true	
+57	121	1418	6092	6096	S	1419	such	such	such	JJ	O	amod	true	
+57	121	1419	6097	6105	S	1417	disgrace	disgrace	disgrace	NN	O	pobj	true	
+57	121	1420	6106	6108	S	1416	in	in	in	IN	O	prep	true	
+57	121	1421	6109	6111	S	1422	my	my	my	PRP$	O	poss	true	
+57	121	1422	6112	6116		1420	life	life	life	NN	O	pobj	true	
+57	121	1423	6116	6117		1416	.	.	.	.	O	punct	true	
+57	121	1424	6117	6118	N	1416	”	''	''	''	O	punct	true	
+57	122	1425	6119	6120		1427	“	``	``	``	O	punct	false	
+57	122	1426	6120	6123	S	1427	You	You	you	PRP	O	nsubj	true	
+57	122	1427	6124	6128	S	-1	know	know	know	VBP	O	null	true	
+57	122	1428	6129	6132	S	1433	how	how	how	WRB	O	advmod	true	
+57	122	1429	6133	6136	S	1431	the	the	the	DT	O	det	true	
+57	122	1430	6137	6146	S	1431	Iphelleta	Iphelleta	Iphelleta	NNP	ORGANIZATION	nn	true
+57	122	1431	6147	6152	S	1433	House	House	House	NNP	ORGANIZATION	nsubj	true
+57	122	1432	6153	6155	S	1433	is	is	be	VBZ	O	cop	true	
+57	122	1433	6156	6162	S	1427	famous	famous	famous	JJ	O	ccomp	true	
+57	122	1434	6163	6166	S	1433	for	for	for	IN	O	prep	true	
+57	122	1435	6167	6170	S	1436	its	its	its	PRP$	O	poss	true	
+57	122	1436	6171	6184		1434	swordsmanship	swordsmanship	swordsmanship	NN	O	pobj	true	
+57	122	1437	6184	6185	S	1427	?	?	?	.	O	punct	true	
+57	123	1438	6186	6190	S	1439	Well	Well	well	UH	O	dep	true	
+57	123	1439	6191	6201		1444	apparently	apparently	apparently	RB	O	advmod	true	
+57	123	1440	6201	6202	S	1444	,	,	,	,	O	punct	true	
+57	123	1441	6203	6205		1444	he	he	he	PRP	O	nsubjpass	true	
+57	123	1442	6205	6207	S	1444	’s	's	be	VBZ	O	auxpass	true	
+57	123	1443	6208	6213	S	1444	never	never	never	RB	O	neg	true	
+57	123	1444	6214	6219	S	1457	swung	swung	swing	VBN	O	advcl	true	
+57	123	1445	6220	6221	S	1447	a	a	a	DT	O	det	true	
+57	123	1446	6222	6226	S	1447	damn	damn	damn	NN	O	nn	true	
+57	123	1447	6227	6232	S	1444	sword	sword	sword	NN	O	dobj	true	
+57	123	1448	6233	6235	S	1444	in	in	in	IN	O	prep	true	
+57	123	1449	6236	6239	S	1450	his	his	he	PRP$	O	poss	true	
+57	123	1450	6240	6244		1448	life	life	life	NN	O	pobj	true	
+57	123	1451	6244	6247		1444	...	...	...	:	O	punct	true	
+57	123	1452	6247	6248	N	1444	”	''	''	''	O	punct	true	
+57	123	1453	6249	6250		1444	“	``	``	``	O	punct	false	
+57	123	1454	6250	6259		1444	Basically	Basically	basically	RB	O	advmod	true	
+57	123	1455	6259	6260	S	1457	,	,	,	,	O	punct	true	
+57	123	1456	6261	6263		1457	he	he	he	PRP	O	nsubj	true	
+57	123	1457	6263	6265	S	-1	’s	's	be	VBZ	O	null	true	
+57	123	1458	6266	6272	S	1457	beyond	beyond	beyond	IN	O	prep	true	
+57	123	1459	6273	6281		1458	hopeless	hopeless	hopeless	JJ	O	pobj	true	
+57	123	1460	6281	6282		1457	.	.	.	.	O	punct	true	
+57	123	1461	6282	6283	NN	1457	”	''	''	''	O	punct	true	
+58	124	1462	6285	6288	S	1463	The	The	the	DT	O	det	false	
+58	124	1463	6289	6295	S	1464	others	others	other	NNS	O	nsubj	false	
+58	124	1464	6296	6302	S	-1	nodded	nodded	nod	VBD	O	null	false	
+58	124	1465	6303	6305	S	1464	in	in	in	IN	O	prep	false	
+58	124	1466	6306	6315		1465	agreement	agreement	agreement	NN	O	pobj	false	
+58	124	1467	6315	6316	NN	1464	.	.	.	.	O	punct	false	
+59	125	1468	6318	6319		-1	“	``	``	``	O	null	false	
+59	125	1469	6319	6321		1472	So	So	so	RB	O	advmod	true	
+59	125	1470	6321	6322	S	1472	,	,	,	,	O	punct	true	
+59	125	1471	6323	6327		1472	what	what	what	WP	O	attr	true	
+59	125	1472	6327	6329	S	1468	’s	's	be	VBZ	O	null	true	
+59	125	1473	6330	6333	S	1474	the	the	the	DT	O	det	true	
+59	125	1474	6334	6340	S	1472	reason	reason	reason	NN	O	nsubj	true	
+59	125	1475	6341	6344	S	1474	for	for	for	IN	O	prep	true	
+59	125	1476	6345	6347		1475	it	it	it	PRP	O	pobj	true	
+59	125	1477	6347	6348		1472	?	?	?	.	O	punct	true	
+59	125	1478	6348	6349	N	1472	”	''	''	''	O	punct	true	
+59	126	1479	6350	6351		1483	“	``	``	``	O	punct	false	
+59	126	1480	6351	6355		1483	Well	Well	well	UH	O	dep	true	
+59	126	1481	6355	6356	S	1483	,	,	,	,	O	punct	true	
+59	126	1482	6357	6358	S	1483	I	I	I	PRP	O	nsubj	true	
+59	126	1483	6359	6364	S	-1	heard	heard	hear	VBD	O	null	true	
+59	126	1484	6365	6367	S	1485	he	he	he	PRP	O	nsubj	true	
+59	126	1485	6368	6372	S	1483	gets	gets	get	VBZ	O	ccomp	true	
+59	126	1486	6373	6374	S	1487	a	a	a	DT	O	det	true	
+59	126	1487	6375	6382	S	1485	seizure	seizure	seizure	NN	O	dobj	true	
+59	126	1488	6383	6387	S	1490	when	when	when	WRB	O	advmod	true	
+59	126	1489	6388	6390	S	1490	he	he	he	PRP	O	nsubj	true	
+59	126	1490	6391	6395		1483	does	does	do	VBZ	O	advcl	true	
+59	126	1491	6395	6396		1483	.	.	.	.	O	punct	true	
+59	126	1492	6396	6397	N	1483	”	''	''	''	O	punct	true	
+59	127	1493	6398	6399		1497	“	``	``	``	O	punct	false	
+59	127	1494	6399	6402		1497	Nah	Nah	nah	NN	O	tmod	true	
+59	127	1495	6402	6403	S	1497	,	,	,	,	O	punct	true	
+59	127	1496	6404	6405	S	1497	I	I	I	PRP	O	nsubj	true	
+59	127	1497	6406	6411	S	-1	heard	heard	hear	VBD	O	null	true	
+59	127	1498	6412	6414		1500	he	he	he	PRP	O	nsubjpass	true	
+59	127	1499	6414	6416	S	1500	’s	's	be	VBZ	O	auxpass	true	
+59	127	1500	6417	6420	S	1497	got	got	get	VBD	O	ccomp	true	
+59	127	1501	6421	6425	S	1502	some	some	some	DT	O	det	true	
+59	127	1502	6426	6433	S	1500	allergy	allergy	allergy	NN	O	dobj	true	
+59	127	1503	6434	6436	S	1500	to	to	to	TO	O	prep	true	
+59	127	1504	6437	6439		1503	it	it	it	PRP	O	pobj	true	
+59	127	1505	6439	6440		1497	.	.	.	.	O	punct	true	
+59	127	1506	6440	6441	N	1497	”	''	''	''	O	punct	true	
+59	128	1507	6442	6443		-1	“	``	``	``	O	null	false	
+59	128	1508	6443	6453	S	1511	Apparently	Apparently	apparently	RB	O	advmod	true	
+59	128	1509	6454	6456		1511	he	he	he	PRP	O	nsubj	true	
+59	128	1510	6456	6458	S	1511	’s	's	be	VBZ	O	cop	true	
+59	128	1511	6459	6463	S	1507	more	more	more	JJR	O	amod	true	
+59	128	1512	6464	6466	S	1511	of	of	of	IN	O	prep	true	
+59	128	1513	6467	6468	S	1514	a	a	a	DT	O	det	true	
+59	128	1514	6469	6478	S	1512	vegetable	vegetable	vegetable	NN	O	pobj	true	
+59	128	1515	6479	6482	S	1511	and	and	and	CC	O	cc	true	
+59	128	1516	6483	6485		1519	ca	ca	can	MD	O	aux	true	
+59	128	1517	6485	6488	S	1519	n’t	n't	not	RB	O	neg	true	
+59	128	1518	6489	6493	S	1519	even	even	even	RB	O	advmod	true	
+59	128	1519	6494	6498		1511	move	move	move	VB	O	conj	true	
+59	128	1520	6498	6499	S	1507	.	.	.	.	O	punct	true	
+59	129	1521	6500	6501	S	1522	I	I	I	PRP	O	nsubj	true	
+59	129	1522	6502	6507	S	-1	heard	heard	hear	VBD	O	null	true	
+59	129	1523	6508	6510	S	1525	he	he	he	PRP	O	nsubj	true	
+59	129	1524	6511	6515	S	1525	just	just	just	RB	O	advmod	true	
+59	129	1525	6516	6520	S	1522	lies	lies	lie	VBZ	O	ccomp	true	
+59	129	1526	6521	6523	S	1525	on	on	on	IN	O	prep	true	
+59	129	1527	6524	6527	S	1528	his	his	he	PRP$	O	poss	true	
+59	129	1528	6528	6531	S	1526	bed	bed	bed	NN	O	pobj	true	
+59	129	1529	6532	6535	S	1530	all	all	all	DT	O	det	true	
+59	129	1530	6536	6539		1525	day	day	day	NN	DURATION	tmod	true	
+59	129	1531	6539	6540		1522	.	.	.	.	O	punct	true	
+59	129	1532	6540	6541	N	1522	”	''	''	''	O	punct	true	
+59	130	1533	6542	6543		1535	“	``	``	``	O	punct	false	
+59	130	1534	6543	6546		1535	...	...	...	:	O	punct	true	
+59	130	1535	6546	6547		-1	!	!	!	.	O	null	true	
+59	130	1536	6547	6548	NN	1535	”	''	''	''	O	punct	true	
+60	131	1537	6550	6553	S	1539	The	The	the	DT	O	det	false	
+60	131	1538	6554	6557	S	1539	old	old	old	JJ	O	amod	false	
+60	131	1539	6558	6561	S	-1	man	man	man	NN	O	null	false	
+60	131	1540	6562	6565	S	1543	who	who	who	WP	O	nsubj	false	
+60	131	1541	6566	6569	S	1543	had	had	have	VBD	O	aux	false	
+60	131	1542	6570	6574	S	1543	been	been	be	VBN	O	aux	false	
+60	131	1543	6575	6584	S	1539	listening	listening	listen	VBG	O	rcmod	false	
+60	131	1544	6585	6593	S	1543	suddenly	suddenly	suddenly	RB	O	advmod	false	
+60	131	1545	6594	6599	S	1543	stood	stood	stand	VBD	O	dep	false	
+60	131	1546	6600	6602		1545	up	up	up	RP	O	prt	false	
+60	131	1547	6602	6603	S	1545	,	,	,	,	O	punct	false	
+60	131	1548	6604	6611		1545	furious	furious	furious	JJ	O	conj	false	
+60	131	1549	6611	6612	S	1539	.	.	.	.	O	punct	false	
+60	132	1550	6613	6616	S	1551	His	His	he	PRP$	O	poss	false	
+60	132	1551	6617	6621	S	1554	face	face	face	NN	O	nsubj	false	
+60	132	1552	6622	6625	S	1554	was	was	be	VBD	O	cop	false	
+60	132	1553	6626	6628	S	1554	as	as	as	IN	O	mark	false	
+60	132	1554	6629	6632	S	-1	red	red	red	JJ	O	null	false	
+60	132	1555	6633	6635	S	1554	as	as	as	IN	O	prep	false	
+60	132	1556	6636	6638	S	1557	an	an	a	DT	O	det	false	
+60	132	1557	6639	6644		1555	apple	apple	apple	NN	O	pobj	false	
+60	132	1558	6644	6645	NN	1554	.	.	.	.	O	punct	false	
+61	133	1559	6647	6648		1561	“	``	``	``	O	punct	false	
+61	133	1560	6648	6651	S	1561	You	You	you	PRP	O	nsubj	true	
+61	133	1561	6652	6659	S	-1	fucking	fucking	fuck	VBG	O	null	true	
+61	133	1562	6660	6664	S	1561	sons	sons	son	NNS	O	dobj	true	
+61	133	1563	6665	6667	S	1562	of	of	of	IN	O	prep	true	
+61	133	1564	6668	6671		1563	bit	bit	bit	NN	O	pobj	true	
+61	133	1565	6671	6672		1561	-	-	-	:	O	punct	true	
+61	133	1566	6672	6673		1561	…	...	...	:	O	punct	true	
+61	133	1567	6673	6674		1561	!	!	!	.	O	punct	true	
+61	133	1568	6674	6675	N	1561	”	''	''	''	O	punct	true	

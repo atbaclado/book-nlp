@@ -31,7 +31,7 @@ public class CharacterAnnotator {
 	HashMap<String, HashSet<Integer>> index;
 
 	// the minimum number of times a name must show up to denote a character
-	int minCharacterNameMentions = 2;
+	int minCharacterNameMentions = 1;
 
 	// maximum length of a character name (in characters)
 	int maxCharacterNameLength = 50;

@@ -1,0 +1,1327 @@
+paragraphId	sentenceID	tokenId	beginOffset	endOffset	whitespaceAfter	headTokenId	originalWord	normalizedWord	lemma	pos	ner	deprel	inQuotation	characterId
+0	0	0	0	7	S	2	CHAPTER	CHAPTER	chapter	NN	O	tmod	false	-1
+0	0	1	8	9	NN	2	I	I	I	PRP	O	nsubj	false	-1
+1	0	2	11	17	S	-1	TREATS	TREATS	treat	VBZ	O	null	false	-1
+1	0	3	18	20	S	2	OF	OF	of	IN	O	prep	false	-1
+1	0	4	21	24	S	5	THE	THE	the	DT	O	det	false	-1
+1	0	5	25	30	S	3	PLACE	PLACE	place	NN	O	pobj	false	-1
+1	0	6	31	36	S	2	WHERE	WHERE	where	VBD	O	ccomp	false	-1
+1	0	7	37	43	S	10	OLIVER	OLIVER	OLIVER	NNP	O	nn	false	-1
+1	0	8	44	49	S	10	TWIST	TWIST	TWIST	NNP	O	nn	false	-1
+1	0	9	50	53	S	10	WAS	WAS	WAS	NNP	O	nn	false	-1
+1	0	10	54	58	S	6	BORN	BORN	BORN	NNP	O	dobj	false	-1
+1	0	11	59	62	S	6	AND	AND	and	CC	O	cc	false	-1
+1	0	12	63	65	S	6	OF	OF	of	IN	O	conj	false	-1
+1	0	13	66	69	N	14	THE	THE	the	DT	O	det	false	-1
+1	0	14	70	83	S	12	CIRCUMSTANCES	CIRCUMSTANCES	circumstance	NNS	O	pobj	false	-1
+1	0	15	84	93	S	14	ATTENDING	ATTENDING	attend	VBG	O	partmod	false	-1
+1	0	16	94	97	S	17	HIS	HIS	he	PRP$	O	poss	false	-1
+1	0	17	98	103	NN	15	BIRTH	BIRTH	birth	NN	O	dobj	false	-1
+2	0	18	105	110	S	15	Among	Among	among	IN	O	prep	false	-1
+2	0	19	111	116	S	21	other	other	other	JJ	O	amod	false	-1
+2	0	20	117	123	S	21	public	public	public	JJ	O	amod	false	-1
+2	0	21	124	133	S	18	buildings	buildings	building	NNS	O	pobj	false	-1
+2	0	22	134	136	S	54	in	in	in	IN	O	mark	false	-1
+2	0	23	137	138	S	25	a	a	a	DT	O	det	false	-1
+2	0	24	139	146	S	25	certain	certain	certain	JJ	O	amod	false	-1
+2	0	25	147	151		54	town	town	town	NN	O	nsubj	false	-1
+2	0	26	151	152	S	25	,	,	,	,	O	punct	false	-1
+2	0	27	153	158	S	51	which	which	which	WDT	O	dep	false	-1
+2	0	28	159	162	S	51	for	for	for	IN	O	prep	false	-1
+2	0	29	163	167	S	30	many	many	many	JJ	O	amod	false	-1
+2	0	30	168	175	N	28	reasons	reasons	reason	NNS	O	pobj	false	-1
+2	0	31	176	178	S	34	it	it	it	PRP	O	nsubj	false	-1
+2	0	32	179	183	S	34	will	will	will	MD	O	aux	false	-1
+2	0	33	184	186	S	34	be	be	be	VB	O	cop	false	-1
+2	0	34	187	194	S	30	prudent	prudent	prudent	JJ	O	rcmod	false	-1
+2	0	35	195	197	S	36	to	to	to	TO	O	aux	false	-1
+2	0	36	198	205	S	34	refrain	refrain	refrain	VB	O	xcomp	false	-1
+2	0	37	206	210	S	36	from	from	from	IN	O	prep	false	-1
+2	0	38	211	221		37	mentioning	mentioning	mention	VBG	O	pcomp	false	-1
+2	0	39	221	222	S	28	,	,	,	,	O	punct	false	-1
+2	0	40	223	226	S	28	and	and	and	CC	O	cc	false	-1
+2	0	41	227	229	S	45	to	to	to	TO	O	aux	false	-1
+2	0	42	230	235	S	41	which	which	which	WDT	O	pobj	false	-1
+2	0	43	236	237	S	45	I	I	I	PRP	O	nsubj	false	-1
+2	0	44	238	242	N	45	will	will	will	MD	O	aux	false	-1
+2	0	45	243	249	S	28	assign	assign	assign	VB	O	conj	false	-1
+2	0	46	250	252	S	48	no	no	no	DT	O	det	false	-1
+2	0	47	253	263	S	48	fictitious	fictitious	fictitious	JJ	O	amod	false	-1
+2	0	48	264	268		45	name	name	name	NN	O	dobj	false	-1
+2	0	49	268	269	S	51	,	,	,	,	O	punct	false	-1
+2	0	50	270	275	S	51	there	there	there	EX	O	expl	false	-1
+2	0	51	276	278	S	54	is	is	be	VBZ	O	cop	false	-1
+2	0	52	279	282	S	54	one	one	one	CD	NUMBER	num	false	-1
+2	0	53	283	292	S	54	anciently	anciently	anciently	RB	O	advmod	false	-1
+2	0	54	293	299	S	21	common	common	common	JJ	O	amod	false	-1
+2	0	55	300	302	S	54	to	to	to	TO	O	prep	false	-1
+2	0	56	303	307	S	57	most	most	most	JJS	O	amod	false	-1
+2	0	57	308	313		55	towns	towns	town	NNS	O	pobj	false	-1
+2	0	58	313	314	N	54	,	,	,	,	O	punct	false	-1
+2	0	59	315	320	S	54	great	great	great	JJ	O	conj	false	-1
+2	0	60	321	323	S	54	or	or	or	CC	O	cc	false	-1
+2	0	61	324	329		54	small	small	small	JJ	O	conj	false	-1
+2	0	62	329	330	S	54	:	:	:	:	O	punct	false	-1
+2	0	63	331	333	S	74	to	to	to	TO	O	nsubjpass	false	-1
+2	0	64	334	337		63	wit	wit	wit	NN	O	pobj	false	-1
+2	0	65	337	338	S	63	,	,	,	,	O	punct	false	-1
+2	0	66	339	340	S	67	a	a	a	DT	O	det	false	-1
+2	0	67	341	350		63	workhouse	workhouse	workhouse	NN	O	conj	false	-1
+2	0	68	350	351	S	63	;	;	;	:	O	punct	false	-1
+2	0	69	352	355	S	63	and	and	and	CC	O	cc	false	-1
+2	0	70	356	358	S	63	in	in	in	IN	O	conj	false	-1
+2	0	71	359	363	S	72	this	this	this	DT	O	det	false	-1
+2	0	72	364	373	S	70	workhouse	workhouse	workhouse	NN	O	pobj	false	-1
+2	0	73	374	377	S	74	was	was	be	VBD	O	auxpass	false	-1
+2	0	74	378	382		54	born	born	bear	VBN	O	parataxis	false	-1
+2	0	75	382	383	S	74	;	;	;	:	O	punct	false	-1
+2	0	76	384	386	N	74	on	on	on	IN	O	prep	false	-1
+2	0	77	387	388	S	78	a	a	a	DT	DURATION	det	false	-1
+2	0	78	389	392	S	76	day	day	day	NN	DURATION	pobj	false	-1
+2	0	79	393	396	S	78	and	and	and	CC	O	cc	false	-1
+2	0	80	397	401	S	78	date	date	date	NN	O	conj	false	-1
+2	0	81	402	407	S	83	which	which	which	WDT	O	dobj	false	-1
+2	0	82	408	409	S	83	I	I	I	PRP	O	nsubj	false	-1
+2	0	83	410	414	S	78	need	need	need	MD	O	rcmod	false	-1
+2	0	84	415	418	S	83	not	not	not	RB	O	neg	false	-1
+2	0	85	419	426	S	83	trouble	trouble	trouble	NN	O	dep	false	-1
+2	0	86	427	433	S	85	myself	myself	myself	PRP	O	dep	false	-1
+2	0	87	434	436	S	85	to	to	to	TO	O	prep	false	-1
+2	0	88	437	443		87	repeat	repeat	repeat	NN	O	pobj	false	-1
+2	0	89	443	444	S	85	,	,	,	,	O	punct	false	-1
+2	0	90	445	453	S	85	inasmuch	inasmuch	inasmuch	NN	O	appos	false	-1
+2	0	91	454	456	N	94	as	as	as	IN	O	mark	false	-1
+2	0	92	457	459	S	94	it	it	it	PRP	O	nsubj	false	-1
+2	0	93	460	463	S	94	can	can	can	MD	O	aux	false	-1
+2	0	94	464	466	S	90	be	be	be	VB	O	ccomp	false	-1
+2	0	95	467	469	S	94	of	of	of	IN	O	prep	false	-1
+2	0	96	470	472	S	98	no	no	no	DT	O	det	false	-1
+2	0	97	473	481	S	98	possible	possible	possible	JJ	O	amod	false	-1
+2	0	98	482	493	S	95	consequence	consequence	consequence	NN	O	pobj	false	-1
+2	0	99	494	496	S	98	to	to	to	TO	O	prep	false	-1
+2	0	100	497	500	S	101	the	the	the	DT	O	det	false	-1
+2	0	101	501	507		99	reader	reader	reader	NN	O	pobj	false	-1
+2	0	102	507	508	S	94	,	,	,	,	O	punct	false	-1
+2	0	103	509	511	S	94	in	in	in	IN	O	prep	false	-1
+2	0	104	512	516	S	105	this	this	this	DT	O	det	false	-1
+2	0	105	517	522	S	103	stage	stage	stage	NN	O	pobj	false	-1
+2	0	106	523	525	N	105	of	of	of	IN	O	prep	false	-1
+2	0	107	526	529	S	108	the	the	the	DT	O	det	false	-1
+2	0	108	530	538	S	106	business	business	business	NN	O	pobj	false	-1
+2	0	109	539	541	S	94	at	at	at	IN	O	prep	false	-1
+2	0	110	542	545	S	111	all	all	all	DT	O	det	false	-1
+2	0	111	546	552		109	events	events	event	NNS	O	pobj	false	-1
+2	0	112	552	553	S	94	;	;	;	:	O	punct	false	-1
+2	0	113	554	557	S	114	the	the	the	DT	O	det	false	-1
+2	0	114	558	562	S	94	item	item	item	NN	O	dep	false	-1
+2	0	115	563	565	S	114	of	of	of	IN	O	prep	false	-1
+2	0	116	566	575	S	115	mortality	mortality	mortality	NN	O	pobj	false	-1
+2	0	117	576	581	S	118	whose	whose	whose	WP$	O	poss	false	-1
+2	0	118	582	586	S	120	name	name	name	NN	O	nsubjpass	false	-1
+2	0	119	587	589	N	120	is	is	be	VBZ	O	auxpass	false	-1
+2	0	120	590	598	S	116	prefixed	prefixed	prefix	VBN	O	rcmod	false	-1
+2	0	121	599	601	S	120	to	to	to	TO	O	prep	false	-1
+2	0	122	602	605	S	123	the	the	the	DT	O	det	false	-1
+2	0	123	606	610	S	121	head	head	head	NN	O	pobj	false	-1
+2	0	124	611	613	S	123	of	of	of	IN	O	prep	false	-1
+2	0	125	614	618	S	126	this	this	this	DT	O	det	false	-1
+2	0	126	619	626		124	chapter	chapter	chapter	NN	O	pobj	false	-1
+2	0	127	626	627	NN	2	.	.	.	.	O	punct	false	-1
+3	1	128	629	632	S	150	For	For	for	IN	O	prep	false	-1
+3	1	129	633	634	S	131	a	a	a	DT	O	det	false	-1
+3	1	130	635	639	S	131	long	long	long	JJ	O	amod	false	-1
+3	1	131	640	644	S	128	time	time	time	NN	O	pobj	false	-1
+3	1	132	645	650	S	135	after	after	after	IN	O	mark	false	-1
+3	1	133	651	653	S	135	it	it	it	PRP	O	nsubjpass	false	-1
+3	1	134	654	657	S	135	was	was	be	VBD	O	auxpass	false	-1
+3	1	135	658	665	S	150	ushered	ushered	usher	VBN	O	advcl	false	-1
+3	1	136	666	670	S	135	into	into	into	IN	O	prep	false	-1
+3	1	137	671	675	S	138	this	this	this	DT	O	det	false	-1
+3	1	138	676	681	S	136	world	world	world	NN	O	pobj	false	-1
+3	1	139	682	684	S	138	of	of	of	IN	O	prep	false	-1
+3	1	140	685	691	S	139	sorrow	sorrow	sorrow	NN	O	pobj	false	-1
+3	1	141	692	695	N	140	and	and	and	CC	O	cc	false	-1
+3	1	142	696	703		140	trouble	trouble	trouble	NN	O	conj	false	-1
+3	1	143	703	704	S	135	,	,	,	,	O	punct	false	-1
+3	1	144	705	707	S	135	by	by	by	IN	O	prep	false	-1
+3	1	145	708	711	S	147	the	the	the	DT	O	det	false	-1
+3	1	146	712	718	S	147	parish	parish	parish	NN	O	nn	false	-1
+3	1	147	719	726		144	surgeon	surgeon	surgeon	NN	O	pobj	false	-1
+3	1	148	726	727	S	150	,	,	,	,	O	punct	false	-1
+3	1	149	728	730	S	150	it	it	it	PRP	O	nsubj	false	-1
+3	1	150	731	739	S	-1	remained	remained	remain	VBD	O	null	false	-1
+3	1	151	740	741	S	152	a	a	a	DT	O	det	false	-1
+3	1	152	742	748	S	150	matter	matter	matter	NN	O	dobj	false	-1
+3	1	153	749	751	S	152	of	of	of	IN	O	prep	false	-1
+3	1	154	752	764	N	155	considerable	considerable	considerable	JJ	O	amod	false	-1
+3	1	155	765	770	S	153	doubt	doubt	doubt	NN	O	pobj	false	-1
+3	1	156	771	778	S	160	whether	whether	whether	IN	O	complm	false	-1
+3	1	157	779	782	S	158	the	the	the	DT	O	det	false	-1
+3	1	158	783	788	S	160	child	child	child	NN	O	nsubj	false	-1
+3	1	159	789	794	S	160	would	would	would	MD	O	aux	false	-1
+3	1	160	795	802	S	150	survive	survive	survive	VB	O	ccomp	false	-1
+3	1	161	803	805	S	162	to	to	to	TO	O	aux	false	-1
+3	1	162	806	810	S	160	bear	bear	bear	VB	O	xcomp	false	-1
+3	1	163	811	814	S	164	any	any	any	DT	O	det	false	-1
+3	1	164	815	819	S	162	name	name	name	NN	O	dobj	false	-1
+3	1	165	820	822	S	162	at	at	at	IN	O	prep	false	-1
+3	1	166	823	826		165	all	all	all	DT	O	dep	false	-1
+3	1	167	826	827	S	160	;	;	;	:	O	punct	false	-1
+3	1	168	828	830	S	174	in	in	in	IN	O	prep	false	-1
+3	1	169	831	836	N	170	which	which	which	WDT	O	det	false	-1
+3	1	170	837	841	S	168	case	case	case	NN	O	pobj	false	-1
+3	1	171	842	844	S	174	it	it	it	PRP	O	nsubj	false	-1
+3	1	172	845	847	S	174	is	is	be	VBZ	O	cop	false	-1
+3	1	173	848	856	S	174	somewhat	somewhat	somewhat	RB	O	advmod	false	-1
+3	1	174	857	861	S	176	more	more	more	JJR	O	quantmod	false	-1
+3	1	175	862	866	S	176	than	than	than	IN	O	quantmod	false	-1
+3	1	176	867	875	S	160	probable	probable	probable	JJ	O	conj	false	-1
+3	1	177	876	880	S	183	that	that	that	IN	O	complm	false	-1
+3	1	178	881	886	S	179	these	these	these	DT	O	det	false	-1
+3	1	179	887	894	S	183	memoirs	memoirs	memoirs	NNS	O	nsubjpass	false	-1
+3	1	180	895	900	S	183	would	would	would	MD	O	aux	false	-1
+3	1	181	901	906	N	183	never	never	never	RB	O	neg	false	-1
+3	1	182	907	911	S	183	have	have	have	VB	O	aux	false	-1
+3	1	183	912	920		176	appeared	appeared	appear	VBN	O	ccomp	false	-1
+3	1	184	920	921	S	160	;	;	;	:	O	punct	false	-1
+3	1	185	922	924		160	or	or	or	CC	O	cc	false	-1
+3	1	186	924	925	S	160	,	,	,	,	O	punct	false	-1
+3	1	187	926	928	S	189	if	if	if	IN	O	mark	false	-1
+3	1	188	929	933	S	189	they	they	they	PRP	O	nsubj	false	-1
+3	1	189	934	937		203	had	had	have	VBD	O	advcl	false	-1
+3	1	190	937	938	S	189	,	,	,	,	O	punct	false	-1
+3	1	191	939	943	S	193	that	that	that	IN	O	complm	false	-1
+3	1	192	944	949	S	193	being	being	be	VBG	O	auxpass	false	-1
+3	1	193	950	959	S	189	comprised	comprised	comprise	VBN	O	ccomp	false	-1
+3	1	194	960	966	S	193	within	within	within	IN	O	prep	false	-1
+3	1	195	967	968	S	196	a	a	a	DT	O	det	false	-1
+3	1	196	969	975	S	194	couple	couple	couple	NN	O	pobj	false	-1
+3	1	197	976	978	N	196	of	of	of	IN	O	prep	false	-1
+3	1	198	979	984		197	pages	pages	page	NNS	O	pobj	false	-1
+3	1	199	984	985	S	203	,	,	,	,	O	punct	false	-1
+3	1	200	986	990	S	203	they	they	they	PRP	O	nsubj	false	-1
+3	1	201	991	996	S	203	would	would	would	MD	O	aux	false	-1
+3	1	202	997	1001	S	203	have	have	have	VB	O	aux	false	-1
+3	1	203	1002	1011	S	160	possessed	possessed	possess	VBN	O	advcl	false	-1
+3	1	204	1012	1015	S	206	the	the	the	DT	O	det	false	-1
+3	1	205	1016	1027	S	206	inestimable	inestimable	inestimable	JJ	O	amod	false	-1
+3	1	206	1028	1033	S	203	merit	merit	merit	NN	O	dobj	false	-1
+3	1	207	1034	1036	S	206	of	of	of	IN	O	prep	false	-1
+3	1	208	1037	1042	S	214	being	being	be	VBG	O	cop	false	-1
+3	1	209	1043	1046	N	214	the	the	the	DT	O	det	false	-1
+3	1	210	1047	1051	S	211	most	most	most	RBS	O	advmod	false	-1
+3	1	211	1052	1059	S	214	concise	concise	concise	JJ	O	amod	false	-1
+3	1	212	1060	1063	S	211	and	and	and	CC	O	cc	false	-1
+3	1	213	1064	1072	S	211	faithful	faithful	faithful	JJ	O	conj	false	-1
+3	1	214	1073	1081	S	207	specimen	specimen	specimen	NN	O	pcomp	false	-1
+3	1	215	1082	1084	S	214	of	of	of	IN	O	prep	false	-1
+3	1	216	1085	1094		215	biography	biography	biography	NN	O	pobj	false	-1
+3	1	217	1094	1095	S	160	,	,	,	,	O	punct	false	-1
+3	1	218	1096	1102	S	160	extant	extant	extant	JJ	O	conj	false	-1
+3	1	219	1103	1105	S	218	in	in	in	IN	O	prep	false	-1
+3	1	220	1106	1109	N	221	the	the	the	DT	O	det	false	-1
+3	1	221	1110	1120	S	219	literature	literature	literature	NN	O	pobj	false	-1
+3	1	222	1121	1123	S	221	of	of	of	IN	O	prep	false	-1
+3	1	223	1124	1127	S	224	any	any	any	DT	O	det	false	-1
+3	1	224	1128	1131	S	222	age	age	age	NN	O	pobj	false	-1
+3	1	225	1132	1134	S	224	or	or	or	CC	O	cc	false	-1
+3	1	226	1135	1142		224	country	country	country	NN	O	conj	false	-1
+3	1	227	1142	1143	NN	150	.	.	.	.	O	punct	false	-1
+4	2	228	1145	1153	S	232	Although	Although	although	IN	O	mark	false	-1
+4	2	229	1154	1155	S	232	I	I	I	PRP	O	nsubjpass	false	-1
+4	2	230	1156	1158	S	232	am	am	be	VBP	O	auxpass	false	-1
+4	2	231	1159	1162	S	232	not	not	not	RB	O	neg	false	-1
+4	2	232	1163	1171	S	-1	disposed	disposed	dispose	VBN	O	null	false	-1
+4	2	233	1172	1174	S	234	to	to	to	TO	O	aux	false	-1
+4	2	234	1175	1183	S	232	maintain	maintain	maintain	VB	O	xcomp	false	-1
+4	2	235	1184	1188	S	262	that	that	that	IN	O	nsubj	false	-1
+4	2	236	1189	1192	S	262	the	the	the	DT	O	dep	false	-1
+4	2	237	1193	1198	S	238	being	being	be	VBG	O	auxpass	false	-1
+4	2	238	1199	1203	S	236	born	born	bear	VBN	O	partmod	false	-1
+4	2	239	1204	1206	S	238	in	in	in	IN	O	prep	false	-1
+4	2	240	1207	1208	N	241	a	a	a	DT	O	det	false	-1
+4	2	241	1209	1218		239	workhouse	workhouse	workhouse	NN	O	pobj	false	-1
+4	2	242	1218	1219	S	236	,	,	,	,	O	punct	false	-1
+4	2	243	1220	1222	S	236	is	is	be	VBZ	O	conj	false	-1
+4	2	244	1223	1225	S	243	in	in	in	IN	O	prep	false	-1
+4	2	245	1226	1232	S	244	itself	itself	itself	PRP	O	pobj	false	-1
+4	2	246	1233	1236	S	251	the	the	the	DT	O	det	false	-1
+4	2	247	1237	1241	S	248	most	most	most	RBS	O	advmod	false	-1
+4	2	248	1242	1251	S	251	fortunate	fortunate	fortunate	JJ	O	amod	false	-1
+4	2	249	1252	1255	S	248	and	and	and	CC	O	cc	false	-1
+4	2	250	1256	1264	S	248	enviable	enviable	enviable	JJ	O	conj	false	-1
+4	2	251	1265	1277	N	244	circumstance	circumstance	circumstance	NN	O	pobj	false	-1
+4	2	252	1278	1282	S	255	that	that	that	WDT	O	nsubj	false	-1
+4	2	253	1283	1286	S	255	can	can	can	MD	O	aux	false	-1
+4	2	254	1287	1295	S	255	possibly	possibly	possibly	RB	O	advmod	false	-1
+4	2	255	1296	1302	S	251	befall	befall	befall	VB	O	rcmod	false	-1
+4	2	256	1303	1304	S	258	a	a	a	DT	O	det	false	-1
+4	2	257	1305	1310	S	258	human	human	human	JJ	O	amod	false	-1
+4	2	258	1311	1316		255	being	being	being	NN	O	dobj	false	-1
+4	2	259	1316	1317	S	262	,	,	,	,	O	punct	false	-1
+4	2	260	1318	1319	S	262	I	I	I	PRP	O	nsubj	false	-1
+4	2	261	1320	1322	S	262	do	do	do	VBP	O	aux	false	-1
+4	2	262	1323	1327	S	234	mean	mean	mean	VB	O	ccomp	false	-1
+4	2	263	1328	1330	S	264	to	to	to	TO	O	aux	false	-1
+4	2	264	1331	1334	S	262	say	say	say	VB	O	xcomp	false	-1
+4	2	265	1335	1339	S	275	that	that	that	IN	O	complm	false	-1
+4	2	266	1340	1342	S	275	in	in	in	IN	O	prep	false	-1
+4	2	267	1343	1347	N	269	this	this	this	DT	O	det	false	-1
+4	2	268	1348	1358	S	269	particular	particular	particular	JJ	O	amod	false	-1
+4	2	269	1359	1367		266	instance	instance	instance	NN	O	pobj	false	-1
+4	2	270	1367	1368	S	275	,	,	,	,	O	punct	false	-1
+4	2	271	1369	1371	S	275	it	it	it	PRP	O	nsubj	false	-1
+4	2	272	1372	1375	S	275	was	was	be	VBD	O	cop	false	-1
+4	2	273	1376	1379	S	275	the	the	the	DT	O	det	false	-1
+4	2	274	1380	1384	S	275	best	best	best	JJS	O	amod	false	-1
+4	2	275	1385	1390	S	264	thing	thing	thing	NN	O	ccomp	false	-1
+4	2	276	1391	1394	S	275	for	for	for	IN	O	prep	false	-1
+4	2	277	1395	1401	S	278	Oliver	Oliver	Oliver	NNP	PERSON	nn	false	0
+4	2	278	1402	1407	S	276	Twist	Twist	twist	NN	O	pobj	false	-1
+4	2	279	1408	1412	S	284	that	that	that	WDT	O	nsubj	false	-1
+4	2	280	1413	1418	N	284	could	could	could	MD	O	aux	false	-1
+4	2	281	1419	1421	S	284	by	by	by	IN	O	prep	false	-1
+4	2	282	1422	1433	S	281	possibility	possibility	possibility	NN	O	pobj	false	-1
+4	2	283	1434	1438	S	284	have	have	have	VBP	O	aux	false	-1
+4	2	284	1439	1447		275	occurred	occurred	occur	VBN	O	rcmod	false	-1
+4	2	285	1447	1448	SS	232	.	.	.	.	O	punct	false	-1
+4	3	286	1450	1453	S	287	The	The	the	DT	O	det	false	-1
+4	3	287	1454	1458	S	288	fact	fact	fact	NN	O	nsubj	false	-1
+4	3	288	1459	1461		-1	is	is	be	VBZ	O	null	false	-1
+4	3	289	1461	1462	S	288	,	,	,	,	O	punct	false	-1
+4	3	290	1463	1467	S	292	that	that	that	IN	O	complm	false	-1
+4	3	291	1468	1473	S	292	there	there	there	EX	O	expl	false	-1
+4	3	292	1474	1477	S	288	was	was	be	VBD	O	ccomp	false	-1
+4	3	293	1478	1490	N	294	considerable	considerable	considerable	JJ	O	amod	false	-1
+4	3	294	1491	1501	S	292	difficulty	difficulty	difficulty	NN	O	nsubj	false	-1
+4	3	295	1502	1504	S	294	in	in	in	IN	O	prep	false	-1
+4	3	296	1505	1513	S	295	inducing	inducing	induce	VBG	O	pcomp	false	-1
+4	3	297	1514	1520	S	299	Oliver	Oliver	Oliver	NNP	PERSON	nsubj	false	0
+4	3	298	1521	1523	S	299	to	to	to	TO	O	aux	false	-1
+4	3	299	1524	1528	S	296	take	take	take	VB	O	xcomp	false	-1
+4	3	300	1529	1533	S	299	upon	upon	upon	RP	O	prt	false	-1
+4	3	301	1534	1541	S	299	himself	himself	himself	PRP	O	iobj	false	-1
+4	3	302	1542	1545	S	303	the	the	the	DT	O	det	false	-1
+4	3	303	1546	1552	S	299	office	office	office	NN	O	dobj	false	-1
+4	3	304	1553	1555	N	303	of	of	of	IN	O	prep	false	-1
+4	3	305	1556	1567		304	respiration	respiration	respiration	NN	O	pobj	false	-1
+4	3	306	1567	1568		292	,	,	,	,	O	punct	false	-1
+4	3	307	1568	1570		292	--	--	--	:	O	punct	false	-1
+4	3	308	1570	1571	S	310	a	a	a	DT	O	det	false	-1
+4	3	309	1572	1583	S	310	troublesome	troublesome	troublesome	JJ	O	amod	false	-1
+4	3	310	1584	1592		292	practice	practice	practice	NN	O	dep	false	-1
+4	3	311	1592	1593	S	310	,	,	,	,	O	punct	false	-1
+4	3	312	1594	1597	S	310	but	but	but	CC	O	cc	false	-1
+4	3	313	1598	1601	S	310	one	one	one	CD	NUMBER	conj	false	-1
+4	3	314	1602	1607	S	313	which	which	which	WDT	O	amod	false	-1
+4	3	315	1608	1614	S	317	custom	custom	custom	NN	O	nsubj	false	-1
+4	3	316	1615	1618	S	317	has	has	have	VBZ	O	aux	false	-1
+4	3	317	1619	1627	N	314	rendered	rendered	render	VBN	O	rcmod	false	-1
+4	3	318	1628	1637	S	317	necessary	necessary	necessary	JJ	O	dobj	false	-1
+4	3	319	1638	1640	S	318	to	to	to	TO	O	dep	false	-1
+4	3	320	1641	1644	S	322	our	our	we	PRP$	O	poss	false	-1
+4	3	321	1645	1649	S	322	easy	easy	easy	JJ	O	amod	false	-1
+4	3	322	1650	1659		319	existence	existence	existence	NN	O	pobj	false	-1
+4	3	323	1659	1660	S	310	;	;	;	:	O	punct	false	-1
+4	3	324	1661	1664	S	292	and	and	and	CC	O	cc	false	-1
+4	3	325	1665	1668	S	292	for	for	for	IN	O	conj	false	-1
+4	3	326	1669	1673	S	327	some	some	some	DT	O	det	false	-1
+4	3	327	1674	1678	S	325	time	time	time	NN	O	pobj	false	-1
+4	3	328	1679	1681	S	329	he	he	he	PRP	O	nsubj	false	0
+4	3	329	1682	1685	S	327	lay	lay	lay	VBD	O	rcmod	false	-1
+4	3	330	1686	1693	S	329	gasping	gasping	gasp	VBG	O	xcomp	false	-1
+4	3	331	1694	1696	S	330	on	on	on	IN	O	prep	false	-1
+4	3	332	1697	1698	N	335	a	a	a	DT	O	det	false	-1
+4	3	333	1699	1705	S	335	little	little	little	JJ	O	amod	false	-1
+4	3	334	1706	1711	S	335	flock	flock	flock	NN	O	nn	false	-1
+4	3	335	1712	1720		331	mattress	mattress	mattress	NN	O	pobj	false	-1
+4	3	336	1720	1721	S	335	,	,	,	,	O	punct	false	-1
+4	3	337	1722	1728	S	338	rather	rather	rather	RB	O	advmod	false	-1
+4	3	338	1729	1738	S	339	unequally	unequally	unequally	RB	O	advmod	false	-1
+4	3	339	1739	1745	S	335	poised	poised	poise	VBN	O	partmod	false	-1
+4	3	340	1746	1753	S	339	between	between	between	IN	O	prep	false	-1
+4	3	341	1754	1758	S	342	this	this	this	DT	O	det	false	-1
+4	3	342	1759	1764	S	340	world	world	world	NN	O	pobj	false	-1
+4	3	343	1765	1768	N	342	and	and	and	CC	O	cc	false	-1
+4	3	344	1769	1772	S	345	the	the	the	DT	O	det	false	-1
+4	3	345	1773	1777		342	next	next	next	JJ	O	conj	false	-1
+4	3	346	1777	1778	S	345	:	:	:	:	O	punct	false	-1
+4	3	347	1779	1782	S	348	the	the	the	DT	O	det	false	-1
+4	3	348	1783	1790	S	350	balance	balance	balance	NN	O	nsubj	false	-1
+4	3	349	1791	1796	S	350	being	being	be	VBG	O	cop	false	-1
+4	3	350	1797	1806	S	345	decidedly	decidedly	decidedly	RB	O	dep	false	-1
+4	3	351	1807	1809	S	350	in	in	in	IN	O	prep	false	-1
+4	3	352	1810	1816	S	351	favour	favour	favour	NN	O	pobj	false	-1
+4	3	353	1817	1819	S	352	of	of	of	IN	O	prep	false	-1
+4	3	354	1820	1823	S	355	the	the	the	DT	O	det	false	-1
+4	3	355	1824	1830		353	latter	latter	latter	JJ	O	pobj	false	-1
+4	3	356	1830	1831	SS	288	.	.	.	.	O	punct	false	-1
+4	4	357	1833	1836		377	Now	Now	now	RB	DATE	advmod	false	-1
+4	4	358	1836	1837	N	377	,	,	,	,	O	punct	false	-1
+4	4	359	1838	1840		369	if	if	if	IN	O	mark	false	-1
+4	4	360	1840	1841	S	369	,	,	,	,	O	punct	false	-1
+4	4	361	1842	1848	S	369	during	during	during	IN	O	prep	false	-1
+4	4	362	1849	1853	S	364	this	this	this	DT	O	det	false	-1
+4	4	363	1854	1859	S	364	brief	brief	brief	JJ	O	amod	false	-1
+4	4	364	1860	1866		361	period	period	period	NN	O	pobj	false	-1
+4	4	365	1866	1867	S	369	,	,	,	,	O	punct	false	-1
+4	4	366	1868	1874	S	369	Oliver	Oliver	Oliver	NNP	PERSON	nsubj	false	0
+4	4	367	1875	1878	S	369	had	had	have	VBD	O	aux	false	-1
+4	4	368	1879	1883	S	369	been	been	be	VBN	O	auxpass	false	-1
+4	4	369	1884	1894	S	377	surrounded	surrounded	surround	VBN	O	dep	false	-1
+4	4	370	1895	1897	S	369	by	by	by	IN	O	prep	false	-1
+4	4	371	1898	1905	N	372	careful	careful	careful	JJ	O	amod	false	-1
+4	4	372	1906	1918		370	grandmothers	grandmothers	grandmother	NNS	O	pobj	false	-1
+4	4	373	1918	1919	S	372	,	,	,	,	O	punct	false	-1
+4	4	374	1920	1927	S	375	anxious	anxious	anxious	JJ	O	amod	false	-1
+4	4	375	1928	1933		372	aunts	aunts	aunt	NNS	O	appos	false	-1
+4	4	376	1933	1934	S	377	,	,	,	,	O	punct	false	-1
+4	4	377	1935	1946	S	394	experienced	experienced	experience	VBD	O	advcl	false	-1
+4	4	378	1947	1953		377	nurses	nurses	nurse	NNS	O	dobj	false	-1
+4	4	379	1953	1954	S	378	,	,	,	,	O	punct	false	-1
+4	4	380	1955	1958	S	378	and	and	and	CC	O	cc	false	-1
+4	4	381	1959	1966	S	378	doctors	doctors	doctor	NNS	O	conj	false	-1
+4	4	382	1967	1969	N	381	of	of	of	IN	O	prep	false	-1
+4	4	383	1970	1978	S	384	profound	profound	profound	JJ	O	amod	false	-1
+4	4	384	1979	1985		382	wisdom	wisdom	wisdom	NN	O	pobj	false	-1
+4	4	385	1985	1986	S	394	,	,	,	,	O	punct	false	-1
+4	4	386	1987	1989	S	394	he	he	he	PRP	O	nsubjpass	false	0
+4	4	387	1990	1995	S	394	would	would	would	MD	O	aux	false	-1
+4	4	388	1996	2000	S	389	most	most	most	RBS	O	advmod	false	-1
+4	4	389	2001	2011	S	394	inevitably	inevitably	inevitably	RB	O	advmod	false	-1
+4	4	390	2012	2015	S	389	and	and	and	CC	O	cc	false	-1
+4	4	391	2016	2027	S	389	indubitably	indubitably	indubitably	RB	O	conj	false	-1
+4	4	392	2028	2032	S	394	have	have	have	VBP	O	aux	false	-1
+4	4	393	2033	2037	N	394	been	been	be	VBN	O	auxpass	false	-1
+4	4	394	2038	2044	S	-1	killed	killed	kill	VBN	O	null	false	-1
+4	4	395	2045	2047	S	394	in	in	in	IN	O	prep	false	-1
+4	4	396	2048	2050	S	397	no	no	no	DT	O	det	false	-1
+4	4	397	2051	2055		395	time	time	time	NN	O	pobj	false	-1
+4	4	398	2055	2056	SS	394	.	.	.	.	O	punct	false	-1
+4	5	399	2058	2063	S	401	There	There	there	EX	O	expl	false	-1
+4	5	400	2064	2069	S	401	being	being	be	VBG	O	amod	false	-1
+4	5	401	2070	2076	S	402	nobody	nobody	nobody	NN	O	measure	false	-1
+4	5	402	2077	2079		410	by	by	by	IN	O	advmod	false	-1
+4	5	403	2079	2080	S	410	,	,	,	,	O	punct	false	-1
+4	5	404	2081	2088		410	however	however	however	RB	O	advmod	false	-1
+4	5	405	2088	2089	S	410	,	,	,	,	O	punct	false	-1
+4	5	406	2090	2093	S	410	but	but	but	CC	O	dep	false	-1
+4	5	407	2094	2095	S	410	a	a	a	DT	O	det	false	-1
+4	5	408	2096	2102	S	410	pauper	pauper	pauper	NN	O	nn	false	-1
+4	5	409	2103	2106	N	410	old	old	old	JJ	O	amod	false	-1
+4	5	410	2107	2112		-1	woman	woman	woman	NN	O	null	false	-1
+4	5	411	2112	2113	S	410	,	,	,	,	O	punct	false	-1
+4	5	412	2114	2117	S	414	who	who	who	WP	O	nsubjpass	false	-1
+4	5	413	2118	2121	S	414	was	was	be	VBD	O	auxpass	false	-1
+4	5	414	2122	2130	S	410	rendered	rendered	render	VBN	O	rcmod	false	-1
+4	5	415	2131	2137	S	416	rather	rather	rather	RB	O	advmod	false	-1
+4	5	416	2138	2143	S	414	misty	misty	misty	JJ	O	dep	false	-1
+4	5	417	2144	2146	S	414	by	by	by	IN	O	prep	false	-1
+4	5	418	2147	2149	S	420	an	an	a	DT	O	det	false	-1
+4	5	419	2150	2158	S	420	unwonted	unwonted	unwonted	JJ	O	amod	false	-1
+4	5	420	2159	2168	S	417	allowance	allowance	allowance	NN	O	pobj	false	-1
+4	5	421	2169	2171	S	420	of	of	of	IN	O	prep	false	-1
+4	5	422	2172	2176		421	beer	beer	beer	NN	O	pobj	false	-1
+4	5	423	2176	2177	N	410	;	;	;	:	O	punct	false	-1
+4	5	424	2178	2181	S	410	and	and	and	CC	O	cc	false	-1
+4	5	425	2182	2183	S	427	a	a	a	DT	O	det	false	-1
+4	5	426	2184	2190	S	427	parish	parish	parish	NN	O	nn	false	-1
+4	5	427	2191	2198	S	410	surgeon	surgeon	surgeon	NN	O	conj	false	-1
+4	5	428	2199	2202	S	429	who	who	who	WP	O	nsubj	false	-1
+4	5	429	2203	2206	S	427	did	did	do	VBD	O	rcmod	false	-1
+4	5	430	2207	2211	S	431	such	such	such	JJ	O	amod	false	-1
+4	5	431	2212	2219	S	429	matters	matters	matter	NNS	O	dobj	false	-1
+4	5	432	2220	2222	S	431	by	by	by	IN	O	prep	false	-1
+4	5	433	2223	2231		432	contract	contract	contract	NN	O	pobj	false	-1
+4	5	434	2231	2232	S	410	;	;	;	:	O	punct	false	-1
+4	5	435	2233	2239	S	438	Oliver	Oliver	Oliver	NNP	PERSON	nsubj	false	0
+4	5	436	2240	2243	N	435	and	and	and	CC	O	cc	false	-1
+4	5	437	2244	2250	S	435	Nature	Nature	Nature	NNP	O	conj	false	-1
+4	5	438	2251	2257	S	410	fought	fought	fight	VBD	O	parataxis	false	-1
+4	5	439	2258	2261	S	438	out	out	out	RP	O	prt	false	-1
+4	5	440	2262	2265	S	441	the	the	the	DT	O	det	false	-1
+4	5	441	2266	2271	S	438	point	point	point	NN	O	dobj	false	-1
+4	5	442	2272	2279	S	438	between	between	between	IN	O	prep	false	-1
+4	5	443	2280	2284		442	them	them	they	PRP	O	pobj	false	-1
+4	5	444	2284	2285	SS	410	.	.	.	.	O	punct	false	-1
+4	6	445	2287	2290	S	446	The	The	the	DT	O	det	false	-1
+4	6	446	2291	2297	S	-1	result	result	result	NN	O	null	false	-1
+4	6	447	2298	2301		446	was	was	be	VBD	O	dep	false	-1
+4	6	448	2301	2302	S	447	,	,	,	,	O	punct	false	-1
+4	6	449	2303	2307		457	that	that	that	IN	O	advmod	false	-1
+4	6	450	2307	2308	S	457	,	,	,	,	O	punct	false	-1
+4	6	451	2309	2314	N	457	after	after	after	IN	O	prep	false	-1
+4	6	452	2315	2316	S	454	a	a	a	DT	O	det	false	-1
+4	6	453	2317	2320	S	454	few	few	few	JJ	O	amod	false	-1
+4	6	454	2321	2330		451	struggles	struggles	struggle	NNS	O	pobj	false	-1
+4	6	455	2330	2331	S	457	,	,	,	,	O	punct	false	-1
+4	6	456	2332	2338	S	457	Oliver	Oliver	Oliver	NNP	PERSON	nsubj	false	0
+4	6	457	2339	2347		447	breathed	breathed	breathe	VBD	O	ccomp	false	-1
+4	6	458	2347	2348	S	457	,	,	,	,	O	punct	false	-1
+4	6	459	2349	2356		457	sneezed	sneezed	sneeze	VBD	O	conj	false	-1
+4	6	460	2356	2357	S	446	,	,	,	,	O	punct	false	-1
+4	6	461	2358	2361	S	446	and	and	and	CC	O	cc	false	-1
+4	6	462	2362	2371	S	446	proceeded	proceeded	proceed	VBD	O	conj	false	-1
+4	6	463	2372	2374	S	464	to	to	to	TO	O	aux	false	-1
+4	6	464	2375	2384	N	462	advertise	advertise	advertise	VB	O	xcomp	false	-1
+4	6	465	2385	2387	S	464	to	to	to	TO	O	prep	false	-1
+4	6	466	2388	2391	S	467	the	the	the	DT	O	det	false	-1
+4	6	467	2392	2399	S	465	inmates	inmates	inmate	NNS	O	pobj	false	-1
+4	6	468	2400	2402	S	467	of	of	of	IN	O	prep	false	-1
+4	6	469	2403	2406	S	470	the	the	the	DT	O	det	false	-1
+4	6	470	2407	2416	S	468	workhouse	workhouse	workhouse	NN	O	pobj	false	-1
+4	6	471	2417	2420	S	472	the	the	the	DT	O	det	false	-1
+4	6	472	2421	2425	S	467	fact	fact	fact	NN	O	dep	false	-1
+4	6	473	2426	2428	S	472	of	of	of	IN	O	prep	false	-1
+4	6	474	2429	2430	S	476	a	a	a	DT	O	det	false	-1
+4	6	475	2431	2434	S	476	new	new	new	JJ	O	amod	false	-1
+4	6	476	2435	2441	S	473	burden	burden	burden	NN	O	pobj	false	-1
+4	6	477	2442	2448	S	479	having	having	have	VBG	O	aux	false	-1
+4	6	478	2449	2453	N	479	been	been	be	VBN	O	auxpass	false	-1
+4	6	479	2454	2461	SS	476	imposed	imposed	impose	VBN	O	partmod	false	-1
+4	6	480	2463	2467	S	479	upon	upon	upon	IN	O	prep	false	-1
+4	6	481	2468	2471	S	482	the	the	the	DT	O	det	false	-1
+4	6	482	2472	2478		480	parish	parish	parish	NN	O	pobj	false	-1
+4	6	483	2478	2479	S	479	,	,	,	,	O	punct	false	-1
+4	6	484	2480	2482	S	479	by	by	by	IN	O	prep	false	-1
+4	6	485	2483	2490	S	484	setting	setting	set	VBG	O	pcomp	false	-1
+4	6	486	2491	2493	S	485	up	up	up	RP	O	prt	false	-1
+4	6	487	2494	2496	S	485	as	as	as	IN	O	prep	false	-1
+4	6	488	2497	2501	S	490	loud	loud	loud	JJ	O	amod	false	-1
+4	6	489	2502	2503	S	490	a	a	a	DT	O	det	false	-1
+4	6	490	2504	2507	S	487	cry	cry	cry	NN	O	pobj	false	-1
+4	6	491	2508	2510	S	496	as	as	as	IN	O	mark	false	-1
+4	6	492	2511	2516	N	496	could	could	could	MD	O	aux	false	-1
+4	6	493	2517	2527	S	496	reasonably	reasonably	reasonably	RB	O	advmod	false	-1
+4	6	494	2528	2532	S	496	have	have	have	VB	O	aux	false	-1
+4	6	495	2533	2537	S	496	been	been	be	VBN	O	auxpass	false	-1
+4	6	496	2538	2546	S	490	expected	expected	expect	VBN	O	dep	false	-1
+4	6	497	2547	2551	S	496	from	from	from	IN	O	prep	false	-1
+4	6	498	2552	2553	S	500	a	a	a	DT	O	det	false	-1
+4	6	499	2554	2558	S	500	male	male	male	JJ	O	amod	false	-1
+4	6	500	2559	2565	S	497	infant	infant	infant	NN	O	pobj	false	-1
+4	6	501	2566	2569	S	505	who	who	who	WP	O	nsubj	false	-1
+4	6	502	2570	2573	S	505	had	had	have	VBD	O	aux	false	-1
+4	6	503	2574	2577	S	505	not	not	not	RB	O	neg	false	-1
+4	6	504	2578	2582	N	505	been	been	be	VBN	O	auxpass	false	-1
+4	6	505	2583	2592	S	500	possessed	possessed	possess	VBN	O	rcmod	false	-1
+4	6	506	2593	2595	S	505	of	of	of	IN	O	prep	false	-1
+4	6	507	2596	2600	S	510	that	that	that	DT	O	det	false	-1
+4	6	508	2601	2605	S	509	very	very	very	RB	O	advmod	false	-1
+4	6	509	2606	2612	S	510	useful	useful	useful	JJ	O	amod	false	-1
+4	6	510	2613	2622		506	appendage	appendage	appendage	NN	O	pobj	false	-1
+4	6	511	2622	2623	S	496	,	,	,	,	O	punct	false	-1
+4	6	512	2624	2625	S	513	a	a	a	DT	O	det	false	-1
+4	6	513	2626	2631		511	voice	voice	voice	NN	O	dobj	false	-1
+4	6	514	2631	2632	S	513	,	,	,	,	O	punct	false	-1
+4	6	515	2633	2636	S	513	for	for	for	IN	O	prep	false	-1
+4	6	516	2637	2638	S	519	a	a	a	DT	O	det	false	-1
+4	6	517	2639	2643	S	518	much	much	much	RB	O	advmod	false	-1
+4	6	518	2644	2650	N	519	longer	longer	longer	JJR	O	amod	false	-1
+4	6	519	2651	2656	S	515	space	space	space	NN	O	pobj	false	-1
+4	6	520	2657	2659	S	519	of	of	of	IN	O	prep	false	-1
+4	6	521	2660	2664	S	520	time	time	time	NN	O	pobj	false	-1
+4	6	522	2665	2669	S	513	than	than	than	IN	O	prep	false	-1
+4	6	523	2670	2675	S	524	three	three	three	CD	DURATION	num	false	-1
+4	6	524	2676	2683	S	522	minutes	minutes	minute	NNS	DURATION	pobj	false	-1
+4	6	525	2684	2687	S	524	and	and	and	CC	O	cc	false	-1
+4	6	526	2688	2689	S	527	a	a	a	DT	DURATION	det	false	-1
+4	6	527	2690	2697		524	quarter	quarter	quarter	NN	DURATION	conj	false	-1
+4	6	528	2697	2698	NN	446	.	.	.	.	O	punct	false	-1
+5	7	529	2700	2702	S	531	As	As	as	IN	O	prep	false	-1
+5	7	530	2703	2709	S	529	Oliver	Oliver	Oliver	NNP	PERSON	pobj	false	0
+5	7	531	2710	2714	S	578	gave	gave	give	VBD	O	advcl	false	-1
+5	7	532	2715	2719	S	534	this	this	this	DT	O	det	false	-1
+5	7	533	2720	2725	S	534	first	first	first	JJ	ORDINAL	amod	false	-1
+5	7	534	2726	2731	S	531	proof	proof	proof	NN	O	dobj	false	-1
+5	7	535	2732	2734	S	534	of	of	of	IN	O	prep	false	-1
+5	7	536	2735	2738	S	540	the	the	the	DT	O	det	false	-1
+5	7	537	2739	2743	S	540	free	free	free	JJ	O	amod	false	-1
+5	7	538	2744	2747	S	537	and	and	and	CC	O	cc	false	-1
+5	7	539	2748	2754	S	537	proper	proper	proper	JJ	O	conj	false	-1
+5	7	540	2755	2761	S	535	action	action	action	NN	O	pobj	false	-1
+5	7	541	2762	2764	S	540	of	of	of	IN	O	prep	false	-1
+5	7	542	2765	2768	N	543	his	his	he	PRP$	O	poss	false	0
+5	7	543	2769	2774		541	lungs	lungs	lung	NNS	O	pobj	false	-1
+5	7	544	2774	2775	S	578	,	,	,	,	O	punct	false	-1
+5	7	545	2776	2779	S	547	the	the	the	DT	O	det	false	-1
+5	7	546	2780	2789	S	547	patchwork	patchwork	patchwork	NN	O	nn	false	-1
+5	7	547	2790	2798	S	578	coverlet	coverlet	coverlet	NN	O	nsubj	false	-1
+5	7	548	2799	2804	S	551	which	which	which	WDT	O	nsubjpass	false	-1
+5	7	549	2805	2808	S	551	was	was	be	VBD	O	auxpass	false	-1
+5	7	550	2809	2819	S	551	carelessly	carelessly	carelessly	RB	O	advmod	false	-1
+5	7	551	2820	2825	S	547	flung	flung	fling	VBN	O	rcmod	false	-1
+5	7	552	2826	2830	S	551	over	over	over	IN	O	prep	false	-1
+5	7	553	2831	2834	S	555	the	the	the	DT	O	det	false	-1
+5	7	554	2835	2839	N	555	iron	iron	iron	NN	O	nn	false	-1
+5	7	555	2840	2848		552	bedstead	bedstead	bedstead	NN	O	pobj	false	-1
+5	7	556	2848	2849	S	547	,	,	,	,	O	punct	false	-1
+5	7	557	2850	2857		547	rustled	rustled	rustle	VBN	O	conj	false	-1
+5	7	558	2857	2858	S	547	;	;	;	:	O	punct	false	-1
+5	7	559	2859	2862	S	561	the	the	the	DT	O	det	false	-1
+5	7	560	2863	2867	S	561	pale	pale	pale	JJ	O	amod	false	-1
+5	7	561	2868	2872	S	567	face	face	face	NN	O	nsubjpass	false	-1
+5	7	562	2873	2875	S	561	of	of	of	IN	O	prep	false	-1
+5	7	563	2876	2877	S	565	a	a	a	DT	O	det	false	-1
+5	7	564	2878	2883	S	565	young	young	young	JJ	O	amod	false	-1
+5	7	565	2884	2889	S	562	woman	woman	woman	NN	O	pobj	false	-1
+5	7	566	2890	2893	S	567	was	was	be	VBD	O	auxpass	false	-1
+5	7	567	2894	2900	S	547	raised	raised	raise	VBN	O	conj	false	-1
+5	7	568	2901	2907	N	567	feebly	feebly	feebly	RB	O	advmod	false	-1
+5	7	569	2908	2912	S	567	from	from	from	IN	O	prep	false	-1
+5	7	570	2913	2916	S	571	the	the	the	DT	O	det	false	-1
+5	7	571	2917	2923		569	pillow	pillow	pillow	NN	O	pobj	false	-1
+5	7	572	2923	2924	S	547	;	;	;	:	O	punct	false	-1
+5	7	573	2925	2928	S	547	and	and	and	CC	O	cc	false	-1
+5	7	574	2929	2930	S	576	a	a	a	DT	O	det	false	-1
+5	7	575	2931	2936	S	576	faint	faint	faint	JJ	O	amod	false	-1
+5	7	576	2937	2942	S	547	voice	voice	voice	NN	O	conj	false	-1
+5	7	577	2943	2954	S	578	imperfectly	imperfectly	imperfectly	RB	O	advmod	false	-1
+5	7	578	2955	2966	S	-1	articulated	articulated	articulate	VBD	O	null	false	-1
+5	7	579	2967	2970	S	580	the	the	the	DT	O	det	false	-1
+5	7	580	2971	2976		578	words	words	word	NNS	O	dobj	false	-1
+5	7	581	2976	2977	N	578	,	,	,	,	O	punct	false	-1
+5	7	582	2978	2979		578	'	`	`	``	O	punct	false	-1
+5	7	583	2979	2982	S	578	Let	Let	let	VB	O	conj	false	-1
+5	7	584	2983	2985	S	585	me	me	I	PRP	O	nsubj	false	-1
+5	7	585	2986	2989	S	583	see	see	see	VB	O	ccomp	false	-1
+5	7	586	2990	2993	S	587	the	the	the	DT	O	det	false	-1
+5	7	587	2994	2999		585	child	child	child	NN	O	dobj	false	-1
+5	7	588	2999	3000	S	578	,	,	,	,	O	punct	false	-1
+5	7	589	3001	3004	S	578	and	and	and	CC	O	cc	false	-1
+5	7	590	3005	3008		578	die	die	die	VB	O	conj	false	-1
+5	7	591	3008	3009		578	.	.	.	.	O	punct	false	-1
+5	7	592	3009	3010	NN	578	'	'	'	''	O	punct	false	-1
+6	8	593	3012	3015	S	594	The	The	the	DT	O	det	false	-1
+6	8	594	3016	3023	S	597	surgeon	surgeon	surgeon	NN	O	nsubj	false	-1
+6	8	595	3024	3027	S	597	had	had	have	VBD	O	aux	false	-1
+6	8	596	3028	3032	S	597	been	been	be	VBN	O	aux	false	-1
+6	8	597	3033	3040	S	-1	sitting	sitting	sit	VBG	O	null	false	-1
+6	8	598	3041	3045	S	597	with	with	with	IN	O	prep	false	-1
+6	8	599	3046	3049	S	600	his	his	he	PRP$	O	poss	false	-1
+6	8	600	3050	3054	S	598	face	face	face	NN	O	pobj	false	-1
+6	8	601	3055	3061	S	597	turned	turned	turn	VBD	O	advmod	false	-1
+6	8	602	3062	3069	S	601	towards	towards	towards	IN	O	prep	false	-1
+6	8	603	3070	3073	S	604	the	the	the	DT	O	det	false	-1
+6	8	604	3074	3078		602	fire	fire	fire	NN	O	pobj	false	-1
+6	8	605	3078	3079	N	597	:	:	:	:	O	punct	false	-1
+6	8	606	3080	3086	S	597	giving	giving	give	VBG	O	parataxis	false	-1
+6	8	607	3087	3090	S	608	the	the	the	DT	O	det	false	-1
+6	8	608	3091	3096	S	606	palms	palms	palm	NNS	O	dobj	false	-1
+6	8	609	3097	3099	S	608	of	of	of	IN	O	prep	false	-1
+6	8	610	3100	3103	S	611	his	his	he	PRP$	O	poss	false	-1
+6	8	611	3104	3109	S	609	hands	hands	hand	NNS	O	pobj	false	-1
+6	8	612	3110	3111	S	613	a	a	a	DT	O	det	false	-1
+6	8	613	3112	3116	S	611	warm	warm	warm	JJ	O	dep	false	-1
+6	8	614	3117	3120	S	613	and	and	and	CC	O	cc	false	-1
+6	8	615	3121	3122	S	616	a	a	a	DT	O	det	false	-1
+6	8	616	3123	3126	S	613	rub	rub	rub	NN	O	conj	false	-1
+6	8	617	3127	3138		616	alternately	alternately	alternately	RB	O	advmod	false	-1
+6	8	618	3138	3139	SS	597	.	.	.	.	O	punct	false	-1
+6	9	619	3141	3143	S	623	As	As	as	IN	O	mark	false	-1
+6	9	620	3144	3147	N	622	the	the	the	DT	O	det	false	-1
+6	9	621	3148	3153	S	622	young	young	young	JJ	O	amod	false	-1
+6	9	622	3154	3159	S	623	woman	woman	woman	NN	O	nsubj	false	-1
+6	9	623	3160	3165		626	spoke	spoke	speak	VBD	O	advcl	false	-1
+6	9	624	3165	3166	S	626	,	,	,	,	O	punct	false	-1
+6	9	625	3167	3169	S	626	he	he	he	PRP	O	nsubj	false	-1
+6	9	626	3170	3174		-1	rose	rose	rise	VBD	O	null	false	-1
+6	9	627	3174	3175	S	626	,	,	,	,	O	punct	false	-1
+6	9	628	3176	3179	S	626	and	and	and	CC	O	cc	false	-1
+6	9	629	3180	3189	S	626	advancing	advancing	advance	VBG	O	conj	false	-1
+6	9	630	3190	3192	S	629	to	to	to	TO	O	prep	false	-1
+6	9	631	3193	3196	S	632	the	the	the	DT	O	det	false	-1
+6	9	632	3197	3200		634	bed	bed	bed	NN	O	poss	false	-1
+6	9	633	3200	3202	S	632	's	's	's	POS	O	possessive	false	-1
+6	9	634	3203	3207		630	head	head	head	NN	O	pobj	false	-1
+6	9	635	3207	3208	S	629	,	,	,	,	O	punct	false	-1
+6	9	636	3209	3213		629	said	said	say	VBD	O	conj	false	-1
+6	9	637	3213	3214	S	636	,	,	,	,	O	punct	false	-1
+6	9	638	3215	3219	N	636	with	with	with	IN	O	prep	false	-1
+6	9	639	3220	3224	S	640	more	more	more	JJR	O	amod	false	-1
+6	9	640	3225	3233	S	638	kindness	kindness	kindness	NN	O	pobj	false	-1
+6	9	641	3234	3238	S	645	than	than	than	IN	O	mark	false	-1
+6	9	642	3239	3244	S	645	might	might	might	MD	O	aux	false	-1
+6	9	643	3245	3249	S	645	have	have	have	VB	O	aux	false	-1
+6	9	644	3250	3254	S	645	been	been	be	VBN	O	auxpass	false	-1
+6	9	645	3255	3263	S	638	expected	expected	expect	VBN	O	pcomp	false	-1
+6	9	646	3264	3266	S	645	of	of	of	IN	O	prep	false	-1
+6	9	647	3267	3270		646	him	him	he	PRP	O	pobj	false	-1
+6	9	648	3270	3271	NN	645	:	:	:	:	O	punct	false	-1
+7	9	649	3273	3274		655	'	`	`	``	O	punct	false	-1
+7	9	650	3274	3276		655	Oh	Oh	oh	UH	O	dep	false	-1
+7	9	651	3276	3277	S	655	,	,	,	,	O	punct	false	-1
+7	9	652	3278	3281	S	655	you	you	you	PRP	O	nsubj	false	-1
+7	9	653	3282	3286	S	655	must	must	must	MD	O	aux	false	-1
+7	9	654	3287	3290	S	655	not	not	not	RB	O	neg	false	-1
+7	9	655	3291	3295	S	645	talk	talk	talk	VB	O	parataxis	false	-1
+7	9	656	3296	3301	S	655	about	about	about	IN	O	prep	false	-1
+7	9	657	3302	3307	S	656	dying	dying	die	VBG	O	pcomp	false	-1
+7	9	658	3308	3311		657	yet	yet	yet	RB	O	advmod	false	-1
+7	9	659	3311	3312		626	.	.	.	.	O	punct	false	-1
+7	9	660	3312	3313	NN	626	'	'	'	''	O	punct	false	-1
+8	10	661	3315	3316		663	'	`	`	``	O	punct	false	-1
+8	10	662	3316	3319	S	663	Lor	Lor	Lor	NNP	O	nsubj	false	-1
+8	10	663	3320	3325	S	-1	bless	bless	bless	VB	O	null	false	-1
+8	10	664	3326	3329	S	666	her	her	she	PRP$	O	poss	false	-1
+8	10	665	3330	3334	S	666	dear	dear	dear	RB	O	advmod	false	-1
+8	10	666	3335	3340		663	heart	heart	heart	NN	O	dobj	false	-1
+8	10	667	3340	3341	S	663	,	,	,	,	O	punct	false	-1
+8	10	668	3342	3344		663	no	no	no	DT	O	dep	false	-1
+8	10	669	3344	3345		663	!	!	!	.	O	punct	false	-1
+8	10	670	3345	3346	S	663	'	'	'	''	O	punct	false	-1
+8	11	671	3347	3357	S	-1	interposed	interposed	interpose	VBN	O	null	false	-1
+8	11	672	3358	3361	S	673	the	the	the	DT	O	det	false	-1
+8	11	673	3362	3367		671	nurse	nurse	nurse	NN	O	dobj	false	-1
+8	11	674	3367	3368	S	671	,	,	,	,	O	punct	false	-1
+8	11	675	3369	3376	N	676	hastily	hastily	hastily	RB	O	advmod	false	-1
+8	11	676	3377	3387	S	671	depositing	depositing	deposit	VBG	O	xcomp	false	-1
+8	11	677	3388	3390	S	683	in	in	in	IN	O	mark	false	-1
+8	11	678	3391	3394	S	679	her	her	she	PRP$	O	poss	false	-1
+8	11	679	3395	3401	S	683	pocket	pocket	pocket	NN	O	nsubj	false	-1
+8	11	680	3402	3403	S	683	a	a	a	DT	O	det	false	-1
+8	11	681	3404	3409	S	683	green	green	green	JJ	O	amod	false	-1
+8	11	682	3410	3415	S	683	glass	glass	glass	NN	O	nn	false	-1
+8	11	683	3416	3422		676	bottle	bottle	bottle	NN	O	purpcl	false	-1
+8	11	684	3422	3423	S	671	,	,	,	,	O	punct	false	-1
+8	11	685	3424	3427	S	686	the	the	the	DT	O	det	false	-1
+8	11	686	3428	3436	S	684	contents	contents	contents	NNS	O	dobj	false	-1
+8	11	687	3437	3439	S	692	of	of	of	IN	O	rel	false	-1
+8	11	688	3440	3445	N	687	which	which	which	WDT	O	pobj	false	-1
+8	11	689	3446	3449	S	692	she	she	she	PRP	O	nsubj	false	-1
+8	11	690	3450	3453	S	692	had	had	have	VBD	O	aux	false	-1
+8	11	691	3454	3458	S	692	been	been	be	VBN	O	cop	false	-1
+8	11	692	3459	3466	S	686	tasting	tasting	tasting	NN	O	rcmod	false	-1
+8	11	693	3467	3469	S	692	in	in	in	IN	O	prep	false	-1
+8	11	694	3470	3471	S	695	a	a	a	DT	O	det	false	-1
+8	11	695	3472	3478	S	693	corner	corner	corner	NN	O	pobj	false	-1
+8	11	696	3479	3483	S	692	with	with	with	IN	O	prep	false	-1
+8	11	697	3484	3491	S	698	evident	evident	evident	JJ	O	amod	false	-1
+8	11	698	3492	3504		696	satisfaction	satisfaction	satisfaction	NN	O	pobj	false	-1
+8	11	699	3504	3505	NN	671	.	.	.	.	O	punct	false	-1
+9	12	700	3507	3508		702	'	`	`	``	O	punct	false	-1
+9	12	701	3508	3511	S	702	Lor	Lor	Lor	NNP	O	nsubj	false	-1
+9	12	702	3512	3517	S	-1	bless	bless	bless	VB	O	null	false	-1
+9	12	703	3518	3521	S	705	her	her	she	PRP$	O	poss	false	-1
+9	12	704	3522	3526	S	705	dear	dear	dear	RB	O	advmod	false	-1
+9	12	705	3527	3532		702	heart	heart	heart	NN	O	dobj	false	-1
+9	12	706	3532	3533	S	702	,	,	,	,	O	punct	false	-1
+9	12	707	3534	3538	S	710	when	when	when	WRB	O	advmod	false	-1
+9	12	708	3539	3542	S	710	she	she	she	PRP	O	nsubj	false	-1
+9	12	709	3543	3546	S	710	has	has	have	VBZ	O	aux	false	-1
+9	12	710	3547	3552	S	702	lived	lived	live	VBN	O	advcl	false	-1
+9	12	711	3553	3555	S	712	as	as	as	RB	O	advmod	false	-1
+9	12	712	3556	3560	S	710	long	long	long	RB	O	advmod	false	-1
+9	12	713	3561	3563	S	715	as	as	as	IN	O	mark	false	-1
+9	12	714	3564	3565	S	715	I	I	I	PRP	O	nsubj	false	-1
+9	12	715	3566	3570		745	have	have	have	VBP	O	advcl	false	-1
+9	12	716	3570	3571	S	715	,	,	,	,	O	punct	false	-1
+9	12	717	3572	3575		715	sir	sir	sir	VBP	O	conj	false	-1
+9	12	718	3575	3576	N	715	,	,	,	,	O	punct	false	-1
+9	12	719	3577	3580	S	715	and	and	and	CC	O	cc	false	-1
+9	12	720	3581	3584	S	722	had	had	have	VBD	O	cop	false	-1
+9	12	721	3585	3593	S	722	thirteen	thirteen	thirteen	CD	NUMBER	num	false	-1
+9	12	722	3594	3602	S	715	children	children	child	NNS	O	conj	false	-1
+9	12	723	3603	3605	S	722	of	of	of	IN	O	prep	false	-1
+9	12	724	3606	3609	S	725	her	her	she	PRP$	O	poss	false	-1
+9	12	725	3610	3613		723	own	own	own	JJ	O	pobj	false	-1
+9	12	726	3613	3614	S	715	,	,	,	,	O	punct	false	-1
+9	12	727	3615	3618	S	715	and	and	and	CC	O	cc	false	-1
+9	12	728	3619	3622	S	731	all	all	all	DT	O	dep	false	-1
+9	12	729	3623	3625	S	728	on	on	on	IN	O	prep	false	-1
+9	12	730	3626	3629	S	729	'em	'em	'em	PRP	O	pobj	false	-1
+9	12	731	3630	3634	S	715	dead	dead	dead	JJ	O	conj	false	-1
+9	12	732	3635	3641	S	731	except	except	except	IN	O	prep	false	-1
+9	12	733	3642	3645		732	two	two	two	CD	NUMBER	pobj	false	-1
+9	12	734	3645	3646	N	715	,	,	,	,	O	punct	false	-1
+9	12	735	3647	3650	S	715	and	and	and	CC	O	cc	false	-1
+9	12	736	3651	3655	S	715	them	them	they	PRP	O	conj	false	-1
+9	12	737	3656	3658	S	736	in	in	in	IN	O	dep	false	-1
+9	12	738	3659	3662	S	739	the	the	the	DT	O	det	false	-1
+9	12	739	3663	3669	S	737	wurkus	wurkus	wurkus	NN	O	pobj	false	-1
+9	12	740	3670	3674	S	739	with	with	with	IN	O	prep	false	-1
+9	12	741	3675	3677		740	me	me	I	PRP	O	pobj	false	-1
+9	12	742	3677	3678	S	745	,	,	,	,	O	punct	false	-1
+9	12	743	3679	3682		745	she	she	she	PRP	O	nsubj	false	-1
+9	12	744	3682	3685	S	745	'll	'll	'll	MD	O	aux	false	-1
+9	12	745	3686	3690	S	712	know	know	know	VB	O	dep	false	-1
+9	12	746	3691	3697	S	745	better	better	better	JJR	O	nsubj	false	-1
+9	12	747	3698	3702	S	749	than	than	than	IN	O	mark	false	-1
+9	12	748	3703	3705	S	749	to	to	to	TO	O	aux	false	-1
+9	12	749	3706	3710	S	746	take	take	take	VB	O	dep	false	-1
+9	12	750	3711	3713	S	749	on	on	on	RP	O	prt	false	-1
+9	12	751	3714	3716	N	749	in	in	in	IN	O	prep	false	-1
+9	12	752	3717	3721	S	753	that	that	that	DT	O	det	false	-1
+9	12	753	3722	3725		751	way	way	way	NN	O	pobj	false	-1
+9	12	754	3725	3726	S	749	,	,	,	,	O	punct	false	-1
+9	12	755	3727	3732	S	749	bless	bless	bless	VB	O	conj	false	-1
+9	12	756	3733	3736	S	758	her	her	she	PRP$	O	poss	false	-1
+9	12	757	3737	3741	S	758	dear	dear	dear	RB	O	advmod	false	-1
+9	12	758	3742	3747		755	heart	heart	heart	NN	O	dobj	false	-1
+9	12	759	3747	3748	SS	702	!	!	!	.	O	punct	false	-1
+9	13	760	3750	3755	S	770	Think	Think	think	VB	O	dep	false	-1
+9	13	761	3756	3760	S	763	what	what	what	WP	O	dep	false	-1
+9	13	762	3761	3763	S	763	it	it	it	PRP	O	nsubj	false	-1
+9	13	763	3764	3766	S	760	is	is	be	VBZ	O	ccomp	false	-1
+9	13	764	3767	3769	S	767	to	to	to	TO	O	aux	false	-1
+9	13	765	3770	3772	S	767	be	be	be	VB	O	cop	false	-1
+9	13	766	3773	3774	S	767	a	a	a	DT	O	det	false	-1
+9	13	767	3775	3781		763	mother	mother	mother	NN	O	xcomp	false	-1
+9	13	768	3781	3782	N	770	,	,	,	,	O	punct	false	-1
+9	13	769	3783	3788		770	there	there	there	EX	O	expl	false	-1
+9	13	770	3788	3790	S	-1	's	's	be	VBZ	O	null	false	-1
+9	13	771	3791	3792	S	774	a	a	a	DT	O	det	false	-1
+9	13	772	3793	3797	S	773	dear	dear	dear	RB	O	advmod	false	-1
+9	13	773	3798	3803	S	774	young	young	young	JJ	O	amod	false	-1
+9	13	774	3804	3808	S	775	lamb	lamb	lamb	NN	O	nsubj	false	-1
+9	13	775	3809	3811		770	do	do	do	VBP	O	ccomp	false	-1
+9	13	776	3811	3812		770	.	.	.	.	O	punct	false	-1
+9	13	777	3812	3813	NN	770	'	'	'	''	O	punct	false	-1
+10	14	778	3815	3825	S	781	Apparently	Apparently	apparently	RB	O	advmod	false	-1
+10	14	779	3826	3830	S	781	this	this	this	DT	O	det	false	-1
+10	14	780	3831	3842	S	781	consolatory	consolatory	consolatory	JJ	O	amod	false	-1
+10	14	781	3843	3854	S	787	perspective	perspective	perspective	NN	O	nsubj	false	-1
+10	14	782	3855	3857	S	781	of	of	of	IN	O	prep	false	-1
+10	14	783	3858	3859	S	784	a	a	a	DT	O	det	false	-1
+10	14	784	3860	3866		786	mother	mother	mother	NN	O	poss	false	-1
+10	14	785	3866	3868	S	784	's	's	's	POS	O	possessive	false	-1
+10	14	786	3869	3878	S	782	prospects	prospects	prospects	NNS	O	pobj	false	-1
+10	14	787	3879	3885	N	-1	failed	failed	fail	VBD	O	null	false	-1
+10	14	788	3886	3888	S	787	in	in	in	IN	O	prep	false	-1
+10	14	789	3889	3898	S	788	producing	producing	produce	VBG	O	pcomp	false	-1
+10	14	790	3899	3902	S	792	its	its	its	PRP$	O	poss	false	-1
+10	14	791	3903	3906	S	792	due	due	due	JJ	O	amod	false	-1
+10	14	792	3907	3913		789	effect	effect	effect	NN	O	dobj	false	-1
+10	14	793	3913	3914	SS	787	.	.	.	.	O	punct	false	-1
+10	15	794	3916	3919	S	795	The	The	the	DT	O	det	false	-1
+10	15	795	3920	3927	S	796	patient	patient	patient	NN	O	nsubj	false	-1
+10	15	796	3928	3933	S	-1	shook	shook	shake	VBD	O	null	false	-1
+10	15	797	3934	3937	S	798	her	her	she	PRP$	O	poss	false	-1
+10	15	798	3938	3942		796	head	head	head	NN	O	dobj	false	-1
+10	15	799	3942	3943	S	796	,	,	,	,	O	punct	false	-1
+10	15	800	3944	3947	S	796	and	and	and	CC	O	cc	false	-1
+10	15	801	3948	3957	N	796	stretched	stretched	stretch	VBD	O	conj	false	-1
+10	15	802	3958	3961	S	801	out	out	out	RP	O	prt	false	-1
+10	15	803	3962	3965	S	804	her	her	she	PRP$	O	poss	false	-1
+10	15	804	3966	3970	S	801	hand	hand	hand	NN	O	dobj	false	-1
+10	15	805	3971	3978	S	801	towards	towards	towards	IN	O	prep	false	-1
+10	15	806	3979	3982	S	807	the	the	the	DT	O	det	false	-1
+10	15	807	3983	3988		805	child	child	child	NN	O	pobj	false	-1
+10	15	808	3988	3989	NN	796	.	.	.	.	O	punct	false	-1
+11	16	809	3991	3994	S	810	The	The	the	DT	O	det	false	-1
+11	16	810	3995	4002	S	811	surgeon	surgeon	surgeon	NN	O	nsubj	false	-1
+11	16	811	4003	4012	S	-1	deposited	deposited	deposit	VBD	O	null	false	-1
+11	16	812	4013	4015	S	811	it	it	it	PRP	O	dobj	false	-1
+11	16	813	4016	4018	S	811	in	in	in	IN	O	prep	false	-1
+11	16	814	4019	4022	S	815	her	her	she	PRP$	O	poss	false	-1
+11	16	815	4023	4027		813	arms	arms	arm	NNS	O	pobj	false	-1
+11	16	816	4027	4028	SS	811	.	.	.	.	O	punct	false	-1
+11	17	817	4030	4033	S	818	She	She	she	PRP	O	nsubj	false	-1
+11	17	818	4034	4043	S	-1	imprinted	imprinted	imprint	VBD	O	null	false	-1
+11	17	819	4044	4047	S	822	her	her	she	PRP$	O	poss	false	-1
+11	17	820	4048	4052	S	822	cold	cold	cold	JJ	O	amod	false	-1
+11	17	821	4053	4058	N	822	white	white	white	JJ	O	amod	false	-1
+11	17	822	4059	4063	S	818	lips	lips	lip	NNS	O	dobj	false	-1
+11	17	823	4064	4076	S	818	passionately	passionately	passionately	RB	O	advmod	false	-1
+11	17	824	4077	4079	S	818	on	on	on	IN	O	prep	false	-1
+11	17	825	4080	4083	S	826	its	its	its	PRP$	O	poss	false	-1
+11	17	826	4084	4092		824	forehead	forehead	forehead	NN	O	pobj	false	-1
+11	17	827	4092	4093	S	818	;	;	;	:	O	punct	false	-1
+11	17	828	4094	4100	S	818	passed	passed	pass	VBD	O	conj	false	-1
+11	17	829	4101	4104	S	830	her	her	she	PRP$	O	poss	false	-1
+11	17	830	4105	4110	S	828	hands	hands	hand	NNS	O	dobj	false	-1
+11	17	831	4111	4115	S	828	over	over	over	IN	O	prep	false	-1
+11	17	832	4116	4119	S	833	her	her	she	PRP$	O	poss	false	-1
+11	17	833	4120	4124		831	face	face	face	NN	O	pobj	false	-1
+11	17	834	4124	4125	N	818	;	;	;	:	O	punct	false	-1
+11	17	835	4126	4131	S	818	gazed	gazed	gaze	VBD	O	conj	false	-1
+11	17	836	4132	4138	S	837	wildly	wildly	wildly	RB	O	advmod	false	-1
+11	17	837	4139	4144		835	round	round	round	JJ	O	acomp	false	-1
+11	17	838	4144	4145	S	818	;	;	;	:	O	punct	false	-1
+11	17	839	4146	4155		818	shuddered	shuddered	shudder	VBD	O	conj	false	-1
+11	17	840	4155	4156	S	818	;	;	;	:	O	punct	false	-1
+11	17	841	4157	4161	S	818	fell	fell	fall	VBD	O	conj	false	-1
+11	17	842	4162	4166		841	back	back	back	RB	O	advmod	false	-1
+11	17	843	4166	4168		818	--	--	--	:	O	punct	false	-1
+11	17	844	4168	4171	S	818	and	and	and	CC	O	cc	false	-1
+11	17	845	4172	4176		818	died	died	die	VBD	O	conj	false	-1
+11	17	846	4176	4177	S	818	.	.	.	.	O	punct	false	-1
+11	18	847	4178	4182	S	848	They	They	they	PRP	O	nsubj	false	-1
+11	18	848	4183	4189	S	-1	chafed	chafed	chafe	VBD	O	null	false	-1
+11	18	849	4190	4193	N	850	her	her	she	PRP$	O	poss	false	-1
+11	18	850	4194	4200		848	breast	breast	breast	NN	O	dobj	false	-1
+11	18	851	4200	4201	S	850	,	,	,	,	O	punct	false	-1
+11	18	852	4202	4207		850	hands	hands	hand	NNS	O	conj	false	-1
+11	18	853	4207	4208	S	848	,	,	,	,	O	punct	false	-1
+11	18	854	4209	4212	S	848	and	and	and	CC	O	cc	false	-1
+11	18	855	4213	4220		848	temples	temples	temple	NNS	O	conj	false	-1
+11	18	856	4220	4221	S	848	;	;	;	:	O	punct	false	-1
+11	18	857	4222	4225	S	848	but	but	but	CC	O	cc	false	-1
+11	18	858	4226	4229	S	859	the	the	the	DT	O	det	false	-1
+11	18	859	4230	4235	S	861	blood	blood	blood	NN	O	nsubj	false	-1
+11	18	860	4236	4239	S	861	had	had	have	VBD	O	aux	false	-1
+11	18	861	4240	4247	S	848	stopped	stopped	stop	VBN	O	conj	false	-1
+11	18	862	4248	4255		861	forever	forever	forever	RB	O	advmod	false	-1
+11	18	863	4255	4256	SS	848	.	.	.	.	O	punct	false	-1
+11	19	864	4258	4262	N	865	They	They	they	PRP	O	nsubj	false	-1
+11	19	865	4263	4269	S	-1	talked	talked	talk	VBD	O	null	false	-1
+11	19	866	4270	4272	S	865	of	of	of	IN	O	prep	false	-1
+11	19	867	4273	4277	S	866	hope	hope	hope	NN	O	pobj	false	-1
+11	19	868	4278	4281	S	867	and	and	and	CC	O	cc	false	-1
+11	19	869	4282	4289		867	comfort	comfort	comfort	NN	O	conj	false	-1
+11	19	870	4289	4290	S	865	.	.	.	.	O	punct	false	-1
+11	20	871	4291	4295	S	874	They	They	they	PRP	O	nsubj	false	-1
+11	20	872	4296	4299	S	874	had	had	have	VBD	O	aux	false	-1
+11	20	873	4300	4304	S	874	been	been	be	VBN	O	cop	false	-1
+11	20	874	4305	4314	S	-1	strangers	strangers	stranger	NNS	O	null	false	-1
+11	20	875	4315	4318	S	876	too	too	too	RB	O	advmod	false	-1
+11	20	876	4319	4323		874	long	long	long	RB	O	advmod	false	-1
+11	20	877	4323	4324	NN	874	.	.	.	.	O	punct	false	-1
+12	21	878	4326	4327		-1	'	`	`	``	O	null	false	-1
+12	21	879	4327	4329		881	It	It	it	PRP	O	nsubj	false	-1
+12	21	880	4329	4331	S	881	's	's	be	VBZ	O	cop	false	-1
+12	21	881	4332	4335	S	878	all	all	all	DT	O	null	false	-1
+12	21	882	4336	4340		885	over	over	over	IN	O	dep	false	-1
+12	21	883	4340	4341	S	885	,	,	,	,	O	punct	false	-1
+12	21	884	4342	4346	S	885	Mrs.	Mrs.	Mrs.	NNP	PERSON	nn	false	-1
+12	21	885	4347	4356		881	Thingummy	Thingummy	Thingummy	NNP	PERSON	dep	false	-1
+12	21	886	4356	4357		881	!	!	!	.	O	punct	false	-1
+12	21	887	4357	4358	S	881	'	'	'	''	O	punct	false	-1
+12	22	888	4359	4363	S	-1	said	said	say	VBD	O	null	false	-1
+12	22	889	4364	4367	S	890	the	the	the	DT	O	det	false	-1
+12	22	890	4368	4375	S	888	surgeon	surgeon	surgeon	NN	O	nsubj	false	-1
+12	22	891	4376	4378	S	890	at	at	at	IN	O	prep	false	-1
+12	22	892	4379	4383		891	last	last	last	JJ	O	pobj	false	-1
+12	22	893	4383	4384	NN	888	.	.	.	.	O	punct	false	-1
+13	23	894	4386	4387		-1	'	`	`	``	O	null	false	-1
+13	23	895	4387	4389		897	Ah	Ah	ah	UH	O	dep	false	-1
+13	23	896	4389	4390	S	897	,	,	,	,	O	punct	false	-1
+13	23	897	4391	4395	S	894	poor	poor	poor	JJ	O	null	false	-1
+13	23	898	4396	4400		897	dear	dear	dear	RB	O	advmod	false	-1
+13	23	899	4400	4401	S	897	,	,	,	,	O	punct	false	-1
+13	23	900	4402	4404	S	902	so	so	so	IN	O	mark	false	-1
+13	23	901	4405	4407	S	902	it	it	it	PRP	O	nsubj	false	-1
+13	23	902	4408	4410		897	is	is	be	VBZ	O	advcl	false	-1
+13	23	903	4410	4411		897	!	!	!	.	O	punct	false	-1
+13	23	904	4411	4412	S	897	'	'	'	''	O	punct	false	-1
+13	24	905	4413	4417	S	-1	said	said	say	VBD	O	null	false	-1
+13	24	906	4418	4421	S	907	the	the	the	DT	O	det	false	-1
+13	24	907	4422	4427		905	nurse	nurse	nurse	NN	O	nsubj	false	-1
+13	24	908	4427	4428	S	907	,	,	,	,	O	punct	false	-1
+13	24	909	4429	4436	S	907	picking	picking	pick	VBG	O	partmod	false	-1
+13	24	910	4437	4439	S	909	up	up	up	RP	O	prt	false	-1
+13	24	911	4440	4443	S	912	the	the	the	DT	O	det	false	-1
+13	24	912	4444	4448	S	909	cork	cork	cork	NN	O	dobj	false	-1
+13	24	913	4449	4451	S	912	of	of	of	IN	O	prep	false	-1
+13	24	914	4452	4455	N	916	the	the	the	DT	O	det	false	-1
+13	24	915	4456	4461	S	916	green	green	green	JJ	O	amod	false	-1
+13	24	916	4462	4468		913	bottle	bottle	bottle	NN	O	pobj	false	-1
+13	24	917	4468	4469	S	916	,	,	,	,	O	punct	false	-1
+13	24	918	4470	4475	S	920	which	which	which	WDT	O	nsubj	false	-1
+13	24	919	4476	4479	S	920	had	had	have	VBD	O	aux	false	-1
+13	24	920	4480	4486	S	916	fallen	fallen	fall	VBN	O	rcmod	false	-1
+13	24	921	4487	4490	S	920	out	out	out	RP	O	prt	false	-1
+13	24	922	4491	4493	S	920	on	on	on	IN	O	prep	false	-1
+13	24	923	4494	4497	S	924	the	the	the	DT	O	det	false	-1
+13	24	924	4498	4504		922	pillow	pillow	pillow	NN	O	pobj	false	-1
+13	24	925	4504	4505	S	907	,	,	,	,	O	punct	false	-1
+13	24	926	4506	4508	S	928	as	as	as	IN	O	mark	false	-1
+13	24	927	4509	4512	S	928	she	she	she	PRP	O	nsubj	false	-1
+13	24	928	4513	4520	S	907	stooped	stooped	stoop	VBD	O	dep	false	-1
+13	24	929	4521	4523	N	930	to	to	to	TO	O	aux	false	-1
+13	24	930	4524	4528	S	928	take	take	take	VB	O	xcomp	false	-1
+13	24	931	4529	4531	S	930	up	up	up	RP	O	prt	false	-1
+13	24	932	4532	4535	S	933	the	the	the	DT	O	det	false	-1
+13	24	933	4536	4541		930	child	child	child	NN	O	dobj	false	-1
+13	24	934	4541	4542	SS	905	.	.	.	.	O	punct	false	-1
+13	25	935	4544	4545		-1	'	`	`	``	O	null	false	-1
+13	25	936	4545	4549	S	937	Poor	Poor	Poor	NNP	O	nn	false	-1
+13	25	937	4550	4554		935	dear	dear	dear	RB	O	null	false	-1
+13	25	938	4554	4555		937	!	!	!	.	O	punct	false	-1
+13	25	939	4555	4556	NN	937	'	'	'	''	O	punct	false	-1
+14	26	940	4558	4559		958	'	`	`	``	O	punct	false	-1
+14	26	941	4559	4562	S	942	You	You	you	PRP	O	nsubj	false	-1
+14	26	942	4563	4567		958	need	need	need	VBP	O	ccomp	false	-1
+14	26	943	4567	4570	S	942	n't	n't	not	RB	O	neg	false	-1
+14	26	944	4571	4575	S	942	mind	mind	mind	VB	O	xcomp	false	-1
+14	26	945	4576	4583	S	944	sending	sending	send	VBG	O	xcomp	false	-1
+14	26	946	4584	4586	S	945	up	up	up	RP	O	prt	false	-1
+14	26	947	4587	4589	S	945	to	to	to	TO	O	prep	false	-1
+14	26	948	4590	4592		947	me	me	I	PRP	O	pobj	false	-1
+14	26	949	4592	4593	S	944	,	,	,	,	O	punct	false	-1
+14	26	950	4594	4596	S	953	if	if	if	IN	O	mark	false	-1
+14	26	951	4597	4600	S	952	the	the	the	DT	O	det	false	-1
+14	26	952	4601	4606	S	953	child	child	child	NN	O	nsubj	false	-1
+14	26	953	4607	4612		944	cries	cries	cry	VBZ	O	advcl	false	-1
+14	26	954	4612	4613	S	953	,	,	,	,	O	punct	false	-1
+14	26	955	4614	4619		953	nurse	nurse	nurse	NN	O	conj	false	-1
+14	26	956	4619	4620		958	,	,	,	,	O	punct	false	-1
+14	26	957	4620	4621	S	958	'	'	'	''	O	punct	false	-1
+14	26	958	4622	4626	N	-1	said	said	say	VBD	O	null	false	-1
+14	26	959	4627	4630	S	960	the	the	the	DT	O	det	false	-1
+14	26	960	4631	4638		958	surgeon	surgeon	surgeon	NN	O	nsubj	false	-1
+14	26	961	4638	4639	S	958	,	,	,	,	O	punct	false	-1
+14	26	962	4640	4647	S	958	putting	putting	put	VBG	O	xcomp	false	-1
+14	26	963	4648	4650	S	962	on	on	on	IN	O	prep	false	-1
+14	26	964	4651	4654	S	965	his	his	he	PRP$	O	poss	false	-1
+14	26	965	4655	4661	S	963	gloves	gloves	glove	NNS	O	pobj	false	-1
+14	26	966	4662	4666	S	965	with	with	with	IN	O	prep	false	-1
+14	26	967	4667	4672	S	968	great	great	great	JJ	O	amod	false	-1
+14	26	968	4673	4685		966	deliberation	deliberation	deliberation	NN	O	pobj	false	-1
+14	26	969	4685	4686	S	958	.	.	.	.	O	punct	false	-1
+14	27	970	4687	4688		-1	'	`	`	``	O	null	false	-1
+14	27	971	4688	4690		974	It	It	it	PRP	O	nsubj	false	-1
+14	27	972	4690	4692	S	974	's	's	be	VBZ	O	cop	false	-1
+14	27	973	4693	4697	N	974	very	very	very	RB	O	advmod	false	-1
+14	27	974	4698	4704	S	970	likely	likely	likely	JJ	O	ccomp	false	-1
+14	27	975	4705	4707	S	978	it	it	it	PRP	O	nsubj	false	-1
+14	27	976	4708	4709		978	_	_	_	RB	O	advmod	false	-1
+14	27	977	4709	4713		978	will	will	will	MD	O	aux	false	-1
+14	27	978	4713	4714	S	974	_	_	_	VB	O	ccomp	false	-1
+14	27	979	4715	4717	S	980	be	be	be	VB	O	cop	false	-1
+14	27	980	4718	4729		978	troublesome	troublesome	troublesome	JJ	O	xcomp	false	-1
+14	27	981	4729	4730	S	970	.	.	.	.	O	punct	false	-1
+14	28	982	4731	4735	S	-1	Give	Give	give	VB	O	null	false	-1
+14	28	983	4736	4738	S	982	it	it	it	PRP	O	iobj	false	-1
+14	28	984	4739	4740	S	986	a	a	a	DT	O	det	false	-1
+14	28	985	4741	4747	S	986	little	little	little	JJ	O	amod	false	-1
+14	28	986	4748	4753	S	982	gruel	gruel	gruel	NN	O	dobj	false	-1
+14	28	987	4754	4756	S	989	if	if	if	IN	O	mark	false	-1
+14	28	988	4757	4759	S	989	it	it	it	PRP	O	nsubj	false	-1
+14	28	989	4760	4762		982	is	is	be	VBZ	O	advcl	false	-1
+14	28	990	4762	4763		982	.	.	.	.	O	punct	false	-1
+14	28	991	4763	4764	SS	982	'	'	'	''	O	punct	false	-1
+14	29	992	4766	4768	N	993	He	He	he	PRP	O	nsubj	false	-1
+14	29	993	4769	4772	S	-1	put	put	put	VBD	O	null	false	-1
+14	29	994	4773	4775	S	993	on	on	on	RP	O	prt	false	-1
+14	29	995	4776	4779	S	996	his	his	he	PRP$	O	poss	false	-1
+14	29	996	4780	4783		993	hat	hat	hat	NN	O	dobj	false	-1
+14	29	997	4783	4784	S	993	,	,	,	,	O	punct	false	-1
+14	29	998	4785	4788		993	and	and	and	CC	O	cc	false	-1
+14	29	999	4788	4789	S	993	,	,	,	,	O	punct	false	-1
+14	29	1000	4790	4797	S	993	pausing	pausing	pause	VBG	O	xcomp	false	-1
+14	29	1001	4798	4800	S	1000	by	by	by	IN	O	prep	false	-1
+14	29	1002	4801	4804	S	1003	the	the	the	DT	O	det	false	-1
+14	29	1003	4805	4813	S	1001	bed-side	bed-side	bed-side	NN	O	pobj	false	-1
+14	29	1004	4814	4816	S	1000	on	on	on	IN	O	prep	false	-1
+14	29	1005	4817	4820	S	1006	his	his	he	PRP$	O	poss	false	-1
+14	29	1006	4821	4824	S	1004	way	way	way	NN	O	pobj	false	-1
+14	29	1007	4825	4827	S	1006	to	to	to	TO	O	prep	false	-1
+14	29	1008	4828	4831	S	1009	the	the	the	DT	O	det	false	-1
+14	29	1009	4832	4836		1007	door	door	door	NN	O	pobj	false	-1
+14	29	1010	4836	4837	N	993	,	,	,	,	O	punct	false	-1
+14	29	1011	4838	4843		993	added	added	add	VBD	O	conj	false	-1
+14	29	1012	4843	4844	S	1011	,	,	,	,	O	punct	false	-1
+14	29	1013	4845	4846		1011	'	`	`	``	O	punct	false	-1
+14	29	1014	4846	4849	S	1018	She	She	she	PRP	O	nsubj	false	-1
+14	29	1015	4850	4853	S	1018	was	was	be	VBD	O	cop	false	-1
+14	29	1016	4854	4855	S	1018	a	a	a	DT	O	det	false	-1
+14	29	1017	4856	4868	S	1018	good-looking	good-looking	good-looking	JJ	O	amod	false	-1
+14	29	1018	4869	4873		1011	girl	girl	girl	NN	O	ccomp	false	-1
+14	29	1019	4873	4874	S	1018	,	,	,	,	O	punct	false	-1
+14	29	1020	4875	4878		1018	too	too	too	RB	O	advmod	false	-1
+14	29	1021	4878	4879	S	1018	;	;	;	:	O	punct	false	-1
+14	29	1022	4880	4885	S	1025	where	where	where	WRB	O	advmod	false	-1
+14	29	1023	4886	4889	S	1025	did	did	do	VBD	O	aux	false	-1
+14	29	1024	4890	4893	S	1025	she	she	she	PRP	O	nsubj	false	-1
+14	29	1025	4894	4898	S	1018	come	come	come	VB	O	dep	false	-1
+14	29	1026	4899	4903		1025	from	from	from	IN	O	prep	false	-1
+14	29	1027	4903	4904		1025	?	?	?	.	O	punct	false	-1
+14	29	1028	4904	4905	NN	1025	'	'	'	''	O	punct	false	-1
+15	30	1029	4907	4908		-1	'	`	`	``	O	null	false	-1
+15	30	1030	4908	4911	S	1032	She	She	she	PRP	O	nsubjpass	false	-1
+15	30	1031	4912	4915	S	1032	was	was	be	VBD	O	auxpass	false	-1
+15	30	1032	4916	4923	S	1041	brought	brought	bring	VBN	O	dep	false	-1
+15	30	1033	4924	4928	S	1032	here	here	here	RB	O	advmod	false	-1
+15	30	1034	4929	4933	S	1035	last	last	last	JJ	TIME	amod	false	-1
+15	30	1035	4934	4939		1032	night	night	night	NN	TIME	tmod	false	-1
+15	30	1036	4939	4940		1041	,	,	,	,	O	punct	false	-1
+15	30	1037	4940	4941	S	1041	'	'	'	''	O	punct	false	-1
+15	30	1038	4942	4949	S	1041	replied	replied	reply	VBD	O	dep	false	-1
+15	30	1039	4950	4953	S	1041	the	the	the	DT	O	det	false	-1
+15	30	1040	4954	4957	S	1041	old	old	old	JJ	O	amod	false	-1
+15	30	1041	4958	4963		1029	woman	woman	woman	NN	O	pred	false	-1
+15	30	1042	4963	4964	S	1041	,	,	,	,	O	punct	false	-1
+15	30	1043	4965	4966		1041	'	`	`	``	O	punct	false	-1
+15	30	1044	4966	4968	S	1041	by	by	by	IN	O	prep	false	-1
+15	30	1045	4969	4972	N	1046	the	the	the	DT	O	det	false	-1
+15	30	1046	4973	4981		1048	overseer	overseer	overseer	NN	O	poss	false	-1
+15	30	1047	4981	4983	S	1046	's	's	's	POS	O	possessive	false	-1
+15	30	1048	4984	4989		1044	order	order	order	NN	O	pobj	false	-1
+15	30	1049	4989	4990	SS	1029	.	.	.	.	O	punct	false	-1
+15	31	1050	4992	4995	S	1052	She	She	she	PRP	O	nsubjpass	false	-1
+15	31	1051	4996	4999	S	1052	was	was	be	VBD	O	auxpass	false	-1
+15	31	1052	5000	5005	S	-1	found	found	find	VBN	O	null	false	-1
+15	31	1053	5006	5011	S	1052	lying	lying	lie	VBG	O	xcomp	false	-1
+15	31	1054	5012	5014	S	1053	in	in	in	IN	O	prep	false	-1
+15	31	1055	5015	5018	S	1056	the	the	the	DT	O	det	false	-1
+15	31	1056	5019	5025		1054	street	street	street	NN	O	pobj	false	-1
+15	31	1057	5025	5026	SS	1052	.	.	.	.	O	punct	false	-1
+15	32	1058	5028	5031	S	1060	She	She	she	PRP	O	nsubj	false	-1
+15	32	1059	5032	5035	S	1060	had	had	have	VBD	O	aux	false	-1
+15	32	1060	5036	5042	N	1068	walked	walked	walk	VBN	O	nsubjpass	false	-1
+15	32	1061	5043	5047	S	1062	some	some	some	DT	O	det	false	-1
+15	32	1062	5048	5056		1060	distance	distance	distance	NN	O	dobj	false	-1
+15	32	1063	5056	5057	S	1060	,	,	,	,	O	punct	false	-1
+15	32	1064	5058	5061	S	1060	for	for	for	IN	O	prep	false	-1
+15	32	1065	5062	5065	S	1066	her	her	she	PRP$	O	poss	false	-1
+15	32	1066	5066	5071	S	1064	shoes	shoes	shoe	NNS	O	pobj	false	-1
+15	32	1067	5072	5076	S	1068	were	were	be	VBD	O	auxpass	false	-1
+15	32	1068	5077	5081	S	-1	worn	worn	wear	VBN	O	null	false	-1
+15	32	1069	5082	5084	S	1068	to	to	to	TO	O	prep	false	-1
+15	32	1070	5085	5091		1069	pieces	pieces	piece	NNS	O	pobj	false	-1
+15	32	1071	5091	5092	S	1068	;	;	;	:	O	punct	false	-1
+15	32	1072	5093	5096	S	1068	but	but	but	CC	O	cc	false	-1
+15	32	1073	5097	5102	S	1075	where	where	where	WRB	O	advmod	false	-1
+15	32	1074	5103	5106	S	1075	she	she	she	PRP	O	nsubj	false	-1
+15	32	1075	5107	5111	N	1068	came	came	come	VBD	O	conj	false	-1
+15	32	1076	5112	5116		1075	from	from	from	IN	O	prep	false	-1
+15	32	1077	5116	5117	S	1076	,	,	,	,	O	punct	false	-1
+15	32	1078	5118	5120	S	1076	or	or	or	CC	O	cc	false	-1
+15	32	1079	5121	5126	S	1082	where	where	where	WRB	O	advmod	false	-1
+15	32	1080	5127	5130	S	1082	she	she	she	PRP	O	nsubj	false	-1
+15	32	1081	5131	5134	S	1082	was	was	be	VBD	O	aux	false	-1
+15	32	1082	5135	5140	S	1076	going	going	go	VBG	O	conj	false	-1
+15	32	1083	5141	5143		1082	to	to	to	TO	O	dep	false	-1
+15	32	1084	5143	5144	S	1075	,	,	,	,	O	punct	false	-1
+15	32	1085	5145	5151	S	1086	nobody	nobody	nobody	NN	O	nsubj	false	-1
+15	32	1086	5152	5157		1075	knows	knows	know	VBZ	O	ccomp	false	-1
+15	32	1087	5157	5158		1068	.	.	.	.	O	punct	false	-1
+15	32	1088	5158	5159	NN	1068	'	'	'	''	O	punct	false	-1
+16	33	1089	5161	5164	S	1090	The	The	the	DT	O	det	false	-1
+16	33	1090	5165	5172	S	1091	surgeon	surgeon	surgeon	NN	O	nsubj	false	-1
+16	33	1091	5173	5179	S	-1	leaned	leaned	lean	VBD	O	null	false	-1
+16	33	1092	5180	5184	S	1091	over	over	over	IN	O	prep	false	-1
+16	33	1093	5185	5188	S	1094	the	the	the	DT	O	det	false	-1
+16	33	1094	5189	5193		1092	body	body	body	NN	O	pobj	false	-1
+16	33	1095	5193	5194	S	1091	,	,	,	,	O	punct	false	-1
+16	33	1096	5195	5198	S	1091	and	and	and	CC	O	cc	false	-1
+16	33	1097	5199	5205	S	1091	raised	raised	raise	VBD	O	conj	false	-1
+16	33	1098	5206	5209	S	1100	the	the	the	DT	O	det	false	-1
+16	33	1099	5210	5214	S	1100	left	left	left	JJ	O	amod	false	-1
+16	33	1100	5215	5219		1097	hand	hand	hand	NN	O	dobj	false	-1
+16	33	1101	5219	5220	SS	1091	.	.	.	.	O	punct	false	-1
+16	34	1102	5222	5223		-1	'	`	`	``	O	null	false	-1
+16	34	1103	5223	5226	S	1105	The	The	the	DT	O	det	false	-1
+16	34	1104	5227	5230	N	1105	old	old	old	JJ	O	amod	false	-1
+16	34	1105	5231	5236		1102	story	story	story	NN	O	dobj	false	-1
+16	34	1106	5236	5237		1109	,	,	,	,	O	punct	false	-1
+16	34	1107	5237	5238	S	1109	'	'	'	''	O	punct	false	-1
+16	34	1108	5239	5241	S	1109	he	he	he	PRP	O	nsubj	false	-1
+16	34	1109	5242	5246		1111	said	said	say	VBD	O	parataxis	false	-1
+16	34	1110	5246	5247	S	1109	,	,	,	,	O	punct	false	-1
+16	34	1111	5248	5255	S	1105	shaking	shaking	shake	VBG	O	partmod	false	-1
+16	34	1112	5256	5259	S	1113	his	his	he	PRP$	O	poss	false	-1
+16	34	1113	5260	5264		1111	head	head	head	NN	O	pobj	false	-1
+16	34	1114	5264	5265	S	1105	:	:	:	:	O	punct	false	-1
+16	34	1115	5266	5267		1120	'	`	`	``	O	punct	false	-1
+16	34	1116	5267	5269	S	1117	no	no	no	DT	O	det	false	-1
+16	34	1117	5270	5282		1120	wedding-ring	wedding-ring	wedding-ring	JJ	O	ccomp	false	-1
+16	34	1118	5282	5283	S	1120	,	,	,	,	O	punct	false	-1
+16	34	1119	5284	5285	S	1120	I	I	I	PRP	O	nsubj	false	-1
+16	34	1120	5286	5289		1105	see	see	see	VBP	O	dep	false	-1
+16	34	1121	5289	5290	S	1102	.	.	.	.	O	punct	false	-1
+16	35	1122	5291	5293		-1	Ah	Ah	ah	NN	O	null	false	-1
+16	35	1123	5293	5294	N	1122	!	!	!	.	O	punct	false	-1
+16	36	1124	5295	5305		-1	Good-night	Good-night	good-night	JJ	O	null	false	-1
+16	36	1125	5305	5306		1124	!	!	!	.	O	punct	false	-1
+16	36	1126	5306	5307	NN	1124	'	'	'	''	O	punct	false	-1
+17	37	1127	5309	5312	S	1129	The	The	the	DT	O	det	false	-1
+17	37	1128	5313	5320	S	1129	medical	medical	medical	JJ	O	amod	false	-1
+17	37	1129	5321	5330	S	1130	gentleman	gentleman	gentleman	NN	O	nsubj	false	-1
+17	37	1130	5331	5337	S	-1	walked	walked	walk	VBD	O	null	false	-1
+17	37	1131	5338	5342	S	1130	away	away	away	RB	O	advmod	false	-1
+17	37	1132	5343	5345	S	1130	to	to	to	TO	O	prep	false	-1
+17	37	1133	5346	5352		1132	dinner	dinner	dinner	NN	O	pobj	false	-1
+17	37	1134	5352	5353	S	1130	;	;	;	:	O	punct	false	-1
+17	37	1135	5354	5357	S	1130	and	and	and	CC	O	cc	false	-1
+17	37	1136	5358	5361	S	1137	the	the	the	DT	O	det	false	-1
+17	37	1137	5362	5367		1149	nurse	nurse	nurse	NN	O	nsubj	false	-1
+17	37	1138	5367	5368	S	1137	,	,	,	,	O	punct	false	-1
+17	37	1139	5369	5375	S	1137	having	having	have	VBG	O	partmod	false	-1
+17	37	1140	5376	5380	N	1142	once	once	once	RB	DATE	advmod	false	-1
+17	37	1141	5381	5385	S	1140	more	more	more	JJR	O	dep	false	-1
+17	37	1142	5386	5393	S	1139	applied	applied	applied	JJ	O	advmod	false	-1
+17	37	1143	5394	5401	S	1142	herself	herself	herself	PRP	O	dep	false	-1
+17	37	1144	5402	5404	S	1142	to	to	to	TO	O	prep	false	-1
+17	37	1145	5405	5408	S	1147	the	the	the	DT	O	det	false	-1
+17	37	1146	5409	5414	S	1147	green	green	green	JJ	O	amod	false	-1
+17	37	1147	5415	5421		1144	bottle	bottle	bottle	NN	O	pobj	false	-1
+17	37	1148	5421	5422	S	1137	,	,	,	,	O	punct	false	-1
+17	37	1149	5423	5426	S	1130	sat	sat	sit	VBD	O	conj	false	-1
+17	37	1150	5427	5431	S	1149	down	down	down	RP	O	prt	false	-1
+17	37	1151	5432	5434	S	1149	on	on	on	IN	O	prep	false	-1
+17	37	1152	5435	5436	S	1154	a	a	a	DT	O	det	false	-1
+17	37	1153	5437	5440	S	1154	low	low	low	JJ	O	amod	false	-1
+17	37	1154	5441	5446	N	1151	chair	chair	chair	NN	O	pobj	false	-1
+17	37	1155	5447	5453	S	1154	before	before	before	IN	O	prep	false	-1
+17	37	1156	5454	5457	S	1157	the	the	the	DT	O	det	false	-1
+17	37	1157	5458	5462		1155	fire	fire	fire	NN	O	pobj	false	-1
+17	37	1158	5462	5463	S	1130	,	,	,	,	O	punct	false	-1
+17	37	1159	5464	5467	S	1130	and	and	and	CC	O	cc	false	-1
+17	37	1160	5468	5477	S	1130	proceeded	proceeded	proceed	VBD	O	conj	false	-1
+17	37	1161	5478	5480	S	1162	to	to	to	TO	O	aux	false	-1
+17	37	1162	5481	5486	S	1160	dress	dress	dress	VB	O	xcomp	false	-1
+17	37	1163	5487	5490	S	1164	the	the	the	DT	O	det	false	-1
+17	37	1164	5491	5497		1162	infant	infant	infant	NN	O	dobj	false	-1
+17	37	1165	5497	5498	NN	1130	.	.	.	.	O	punct	false	-1
+18	38	1166	5500	5504	S	1169	What	What	what	WDT	O	det	false	-1
+18	38	1167	5505	5507	S	1169	an	an	a	DT	O	det	false	-1
+18	38	1168	5508	5517	S	1169	excellent	excellent	excellent	JJ	O	amod	false	-1
+18	38	1169	5518	5525	S	1178	example	example	example	NN	O	attr	false	-1
+18	38	1170	5526	5528	S	1169	of	of	of	IN	O	prep	false	-1
+18	38	1171	5529	5532	S	1172	the	the	the	DT	O	det	false	-1
+18	38	1172	5533	5538	S	1170	power	power	power	NN	O	pobj	false	-1
+18	38	1173	5539	5541	S	1172	of	of	of	IN	O	prep	false	-1
+18	38	1174	5542	5547		1173	dress	dress	dress	NN	O	pobj	false	-1
+18	38	1175	5547	5548	S	1178	,	,	,	,	O	punct	false	-1
+18	38	1176	5549	5554	S	1178	young	young	young	JJ	O	amod	false	-1
+18	38	1177	5555	5561	S	1178	Oliver	Oliver	Oliver	NNP	PERSON	nn	false	-1
+18	38	1178	5562	5567	N	-1	Twist	Twist	twist	NN	PERSON	null	false	-1
+18	38	1179	5568	5571		1178	was	was	be	VBD	O	dep	false	-1
+18	38	1180	5571	5572	SS	1178	!	!	!	.	O	punct	false	-1
+18	39	1181	5574	5581	S	1198	Wrapped	Wrapped	wrap	VBN	O	ccomp	false	-1
+18	39	1182	5582	5584	S	1181	in	in	in	IN	O	prep	false	-1
+18	39	1183	5585	5588	S	1184	the	the	the	DT	O	det	false	-1
+18	39	1184	5589	5596	S	1182	blanket	blanket	blanket	NN	O	pobj	false	-1
+18	39	1185	5597	5602	S	1188	which	which	which	WDT	O	nsubj	false	-1
+18	39	1186	5603	5606	S	1188	had	had	have	VBD	O	aux	false	-1
+18	39	1187	5607	5615	S	1188	hitherto	hitherto	hitherto	RB	O	advmod	false	-1
+18	39	1188	5616	5622	S	1184	formed	formed	form	VBN	O	rcmod	false	-1
+18	39	1189	5623	5626	S	1191	his	his	he	PRP$	O	poss	false	-1
+18	39	1190	5627	5631	N	1191	only	only	only	JJ	O	amod	false	-1
+18	39	1191	5632	5640		1188	covering	covering	covering	NN	O	dobj	false	-1
+18	39	1192	5640	5641	S	1198	,	,	,	,	O	punct	false	-1
+18	39	1193	5642	5644	S	1198	he	he	he	PRP	O	nsubj	false	-1
+18	39	1194	5645	5650	S	1198	might	might	might	MD	O	aux	false	-1
+18	39	1195	5651	5655	S	1198	have	have	have	VB	O	aux	false	-1
+18	39	1196	5656	5660	S	1198	been	been	be	VBN	O	cop	false	-1
+18	39	1197	5661	5664	S	1198	the	the	the	DT	O	det	false	-1
+18	39	1198	5665	5670	S	-1	child	child	child	NN	O	null	false	-1
+18	39	1199	5671	5673	S	1198	of	of	of	IN	O	prep	false	-1
+18	39	1200	5674	5675	S	1201	a	a	a	DT	O	det	false	-1
+18	39	1201	5676	5684	S	1199	nobleman	nobleman	nobleman	NN	O	pobj	false	-1
+18	39	1202	5685	5687	S	1201	or	or	or	CC	O	cc	false	-1
+18	39	1203	5688	5689	S	1204	a	a	a	DT	O	det	false	-1
+18	39	1204	5690	5696		1201	beggar	beggar	beggar	NN	O	conj	false	-1
+18	39	1205	5696	5697	S	1198	;	;	;	:	O	punct	false	-1
+18	39	1206	5698	5700	N	1210	it	it	it	PRP	O	nsubj	false	-1
+18	39	1207	5701	5706	S	1210	would	would	would	MD	O	aux	false	-1
+18	39	1208	5707	5711	S	1210	have	have	have	VB	O	aux	false	-1
+18	39	1209	5712	5716	S	1210	been	been	be	VBN	O	cop	false	-1
+18	39	1210	5717	5721	S	1198	hard	hard	hard	RB	O	rcmod	false	-1
+18	39	1211	5722	5725	S	1221	for	for	for	IN	O	mark	false	-1
+18	39	1212	5726	5729	S	1214	the	the	the	DT	O	det	false	-1
+18	39	1213	5730	5740	S	1214	haughtiest	haughtiest	haughtiest	JJ	O	amod	false	-1
+18	39	1214	5741	5749	S	1221	stranger	stranger	stranger	NN	O	nsubj	false	-1
+18	39	1215	5750	5752	S	1217	to	to	to	TO	O	aux	false	-1
+18	39	1216	5753	5757	S	1217	have	have	have	VB	O	aux	false	-1
+18	39	1217	5758	5766	S	1221	assigned	assigned	assign	VBN	O	punct	false	-1
+18	39	1218	5767	5770	N	1221	him	him	he	PRP	O	nsubj	false	-1
+18	39	1219	5771	5774	S	1221	his	his	he	PRP$	O	poss	false	-1
+18	39	1220	5775	5781	S	1221	proper	proper	proper	JJ	O	amod	false	-1
+18	39	1221	5782	5789	S	1210	station	station	station	NN	O	advcl	false	-1
+18	39	1222	5790	5792	S	1221	in	in	in	IN	O	prep	false	-1
+18	39	1223	5793	5800		1222	society	society	society	NN	O	pobj	false	-1
+18	39	1224	5800	5801	SS	1198	.	.	.	.	O	punct	false	-1
+18	40	1225	5803	5806	S	1230	But	But	but	CC	O	cc	false	-1
+18	40	1226	5807	5810	S	1230	now	now	now	RB	DATE	advmod	false	-1
+18	40	1227	5811	5815	S	1230	that	that	that	IN	O	dep	false	-1
+18	40	1228	5816	5818	S	1230	he	he	he	PRP	O	nsubjpass	false	-1
+18	40	1229	5819	5822	S	1230	was	was	be	VBD	O	auxpass	false	-1
+18	40	1230	5823	5832	S	-1	enveloped	enveloped	envelop	VBN	O	null	false	-1
+18	40	1231	5833	5835	S	1230	in	in	in	IN	O	prep	false	-1
+18	40	1232	5836	5839	N	1235	the	the	the	DT	O	det	false	-1
+18	40	1233	5840	5843	S	1235	old	old	old	JJ	O	amod	false	-1
+18	40	1234	5844	5850	S	1235	calico	calico	calico	NN	O	nn	false	-1
+18	40	1235	5851	5856	S	1231	robes	robes	robe	NNS	O	pobj	false	-1
+18	40	1236	5857	5862	S	1238	which	which	which	WDT	O	nsubj	false	-1
+18	40	1237	5863	5866	S	1238	had	had	have	VBD	O	aux	false	-1
+18	40	1238	5867	5872	S	1235	grown	grown	grow	VBN	O	rcmod	false	-1
+18	40	1239	5873	5879	S	1238	yellow	yellow	yellow	JJ	O	acomp	false	-1
+18	40	1240	5880	5882	S	1238	in	in	in	IN	O	prep	false	-1
+18	40	1241	5883	5886	S	1243	the	the	the	DT	O	det	false	-1
+18	40	1242	5887	5891	S	1243	same	same	same	JJ	O	amod	false	-1
+18	40	1243	5892	5899		1240	service	service	service	NN	O	pobj	false	-1
+18	40	1244	5899	5900	S	1247	,	,	,	,	O	punct	false	-1
+18	40	1245	5901	5903	S	1247	he	he	he	PRP	O	nsubjpass	false	-1
+18	40	1246	5904	5907	N	1247	was	was	be	VBD	O	auxpass	false	-1
+18	40	1247	5908	5914	S	1230	badged	badged	badge	VBN	O	dep	false	-1
+18	40	1248	5915	5918	S	1247	and	and	and	CC	O	cc	false	-1
+18	40	1249	5919	5927		1247	ticketed	ticketed	ticket	VBN	O	conj	false	-1
+18	40	1250	5927	5928	S	1230	,	,	,	,	O	punct	false	-1
+18	40	1251	5929	5932	S	1230	and	and	and	CC	O	cc	false	-1
+18	40	1252	5933	5937	S	1230	fell	fell	fall	VBD	O	conj	false	-1
+18	40	1253	5938	5942	S	1252	into	into	into	IN	O	prep	false	-1
+18	40	1254	5943	5946	S	1255	his	his	he	PRP$	O	poss	false	-1
+18	40	1255	5947	5952	S	1253	place	place	place	NN	O	pobj	false	-1
+18	40	1256	5953	5955	S	1257	at	at	at	IN	O	dep	false	-1
+18	40	1257	5956	5960		1252	once	once	once	RB	DATE	advmod	false	-1
+18	40	1258	5960	5962		1252	--	--	--	:	O	punct	false	-1
+18	40	1259	5962	5963	S	1261	a	a	a	DT	O	det	false	-1
+18	40	1260	5964	5970	N	1261	parish	parish	parish	NN	O	nn	false	-1
+18	40	1261	5971	5976		1277	child	child	child	NN	O	nsubjpass	false	-1
+18	40	1262	5976	5978		1261	--	--	--	:	O	punct	false	-1
+18	40	1263	5978	5981	S	1264	the	the	the	DT	O	det	false	-1
+18	40	1264	5982	5988	S	1261	orphan	orphan	orphan	NN	O	dep	false	-1
+18	40	1265	5989	5991	S	1264	of	of	of	IN	O	prep	false	-1
+18	40	1266	5992	5993	S	1267	a	a	a	DT	O	det	false	-1
+18	40	1267	5994	6003		1265	workhouse	workhouse	workhouse	NN	O	pobj	false	-1
+18	40	1268	6003	6005		1264	--	--	--	:	O	punct	false	-1
+18	40	1269	6005	6008	S	1273	the	the	the	DT	O	det	false	-1
+18	40	1270	6009	6015		1273	humble	humble	humble	JJ	O	amod	false	-1
+18	40	1271	6015	6016	S	1273	,	,	,	,	O	punct	false	-1
+18	40	1272	6017	6029	S	1273	half-starved	half-starved	half-starved	JJ	O	amod	false	-1
+18	40	1273	6030	6036		1261	drudge	drudge	drudge	NN	O	dep	false	-1
+18	40	1274	6036	6038		1273	--	--	--	:	O	punct	false	-1
+18	40	1275	6038	6040	N	1277	to	to	to	TO	O	aux	false	-1
+18	40	1276	6041	6043	S	1277	be	be	be	VB	O	auxpass	false	-1
+18	40	1277	6044	6050	S	1252	cuffed	cuffed	cuff	VBN	O	parataxis	false	-1
+18	40	1278	6051	6054	S	1277	and	and	and	CC	O	cc	false	-1
+18	40	1279	6055	6063	S	1277	buffeted	buffeted	buffet	VBN	O	conj	false	-1
+18	40	1280	6064	6071	S	1279	through	through	through	IN	O	prep	false	-1
+18	40	1281	6072	6075	S	1282	the	the	the	DT	O	det	false	-1
+18	40	1282	6076	6081		1280	world	world	world	NN	O	pobj	false	-1
+18	40	1283	6081	6083		1284	--	--	--	:	O	punct	false	-1
+18	40	1284	6083	6091	S	1277	despised	despised	despise	VBN	O	dep	false	-1
+18	40	1285	6092	6094	S	1284	by	by	by	IN	O	prep	false	-1
+18	40	1286	6095	6098		1285	all	all	all	DT	O	pobj	false	-1
+18	40	1287	6098	6099	S	1284	,	,	,	,	O	punct	false	-1
+18	40	1288	6100	6103	S	1284	and	and	and	CC	O	cc	false	-1
+18	40	1289	6104	6110	N	1284	pitied	pitied	pity	VBN	O	conj	false	-1
+18	40	1290	6111	6113	S	1289	by	by	by	IN	O	prep	false	-1
+18	40	1291	6114	6118		1290	none	none	none	NN	O	pobj	false	-1
+18	40	1292	6118	6119	NN	1230	.	.	.	.	O	punct	false	-1
+19	41	1293	6121	6127	S	1294	Oliver	Oliver	Oliver	NNP	PERSON	nsubj	false	0
+19	41	1294	6128	6133	S	-1	cried	cried	cry	VBD	O	null	false	-1
+19	41	1295	6134	6141		1294	lustily	lustily	lustily	RB	O	advmod	false	-1
+19	41	1296	6141	6142	S	1294	.	.	.	.	O	punct	false	-1
+19	42	1297	6143	6145	S	1301	If	If	if	IN	O	mark	false	-1
+19	42	1298	6146	6148	S	1301	he	he	he	PRP	O	nsubjpass	false	0
+19	42	1299	6149	6154	S	1301	could	could	could	MD	O	aux	false	-1
+19	42	1300	6155	6159	S	1301	have	have	have	VB	O	aux	false	-1
+19	42	1301	6160	6165	S	1308	known	known	know	VBN	O	advcl	false	-1
+19	42	1302	6166	6170	S	1306	that	that	that	IN	O	complm	false	-1
+19	42	1303	6171	6173	S	1306	he	he	he	PRP	O	nsubj	false	0
+19	42	1304	6174	6177	S	1306	was	was	be	VBD	O	cop	false	-1
+19	42	1305	6178	6180	S	1306	an	an	a	DT	O	det	false	-1
+19	42	1306	6181	6187		1301	orphan	orphan	orphan	NN	O	ccomp	false	-1
+19	42	1307	6187	6188	N	1308	,	,	,	,	O	punct	false	-1
+19	42	1308	6189	6193	S	-1	left	left	leave	VBD	O	null	false	-1
+19	42	1309	6194	6196	S	1308	to	to	to	TO	O	prep	false	-1
+19	42	1310	6197	6200	S	1312	the	the	the	DT	O	det	false	-1
+19	42	1311	6201	6207	S	1312	tender	tender	tender	NN	O	nn	false	-1
+19	42	1312	6208	6215	S	1309	mercies	mercies	mercy	NNS	O	pobj	false	-1
+19	42	1313	6216	6218	S	1312	of	of	of	IN	O	prep	false	-1
+19	42	1314	6219	6233	S	1313	church-wardens	church-wardens	church-warden	NNS	O	pobj	false	-1
+19	42	1315	6234	6237	S	1314	and	and	and	CC	O	cc	false	-1
+19	42	1316	6238	6247		1314	overseers	overseers	overseer	NNS	O	conj	false	-1
+19	42	1317	6247	6248	S	1308	,	,	,	,	O	punct	false	-1
+19	42	1318	6249	6256	S	1322	perhaps	perhaps	perhaps	RB	O	advmod	false	-1
+19	42	1319	6257	6259	N	1322	he	he	he	PRP	O	nsubj	false	0
+19	42	1320	6260	6265	S	1322	would	would	would	MD	O	aux	false	-1
+19	42	1321	6266	6270	S	1322	have	have	have	VB	O	aux	false	-1
+19	42	1322	6271	6276	S	1308	cried	cried	cry	VBD	O	dep	false	-1
+19	42	1323	6277	6280	S	1324	the	the	the	DT	O	dep	false	-1
+19	42	1324	6281	6287		1322	louder	louder	louder	RBR	O	advmod	false	-1
+19	42	1325	6287	6288	N	1308	.	.	.	.	O	punct	false	-1
